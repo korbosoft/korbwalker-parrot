@@ -46,17 +46,11 @@ class Data(commands.Cog):
 	@commands.command(aliases=["checkout", "data"])
 	@commands.cooldown(2, 3600, commands.BucketType.user)
 	async def download(self, ctx: commands.Context) -> None:
-		GARLIC_OS_PING = (await self.bot.fetch_user(206235904644349953)).mention
+		with open("temp.json" "w+", encoding="utf-8") as f:
+			ujson.dump(self.bot.crud.user.get_raw(who), f)
+
 		await ctx.reply(
-			"|download is out of order. Please see this note from Parrot's "
-			f"creator, {GARLIC_OS_PING}:\n"
-			"> Hi, terribly sorry if you're reading this, but the file host I "
-			"used to use to allow Parrot to send you your data automatically "
-			"went down, and I haven't been able to find a suitable replacement "
-			"on short notice.\n"
-			f"> For the time being, please DM me, {GARLIC_OS_PING}, and I will "
-			"send you a copy of your data in Parrot. Sorry again for the "
-			"inconvenience."
+			"I don't want to rely on a file hosting service so you'll have to ask me (@korbosoft) to send it over"
 		)
 
 	# @commands.command(aliases=["checkout", "data"])
@@ -65,18 +59,10 @@ class Data(commands.Cog):
 	# 	"""Download a copy of your data."""
 	# 	who = ctx.author
 
-	# 	# Upload to file.io, a free filesharing service where the file is
-	# 	# deleted once it's downloaded.
-	# 	# We can't trust that it will fit in a Discord message.
-	# 	# TODO: Use a better service, like a self-hosted Pastebin.
-	# 	with TemporaryFile("w+", encoding="utf-8") as f:
-	# 		ujson.dump(self.bot.crud.user.get_raw(who), f)
-	# 		f.seek(0)  # Prepare the file to be read back over
-	# 		async with self.bot.http_session.post(
-	# 			"https://file.io/", data={"file": f, "expiry": "6h"}
-	# 		) as response:
-	# 			download_url = (await response.json())["link"]
-
+		# Upload to file.io, a free filesharing service where the file is
+		# deleted once it's downloaded.
+		# We can't trust that it will fit in a Discord message.
+		# TODO: Use a better service, like a self-hosted Pastebin.
 	# 	# DM the user their download link.
 	# 	embed_download_link = ParrotEmbed(
 	# 		title="Link to download your data",

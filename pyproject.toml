@@ -12,6 +12,7 @@ dependencies = [
     "jishaku>=2.6.0",
     "markovify>=0.9.4",
     "pillow>=11.1.0",
+    "pynacl>=1.6.1",
     "sqlalchemy>=2.0.37",
     "sqlmodel>=0.0.22",
     "ujson>=5.10.0",
