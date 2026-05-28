@@ -41,15 +41,23 @@ class MessageHandler(commands.Cog):
 		# I am a mature person making a competent Discord bot.
 		if message.content == "ayy" and config.ayy_lmao:
 			await message.channel.send("lmao")
-
+		print(message.guild.id in config.random_wawa_guilds)
 		# Randomly decide to wawa a message.
 		if (
 			random.random() < config.random_wawa_chance
 			and self.bot.crud.user.wants_wawa(message.author)
+			and (message.guild.id in config.random_wawa_guilds)
 		):
 			text = utils.find_text(message)
 			if text is not None:
-				await message.reply(await weasel.wawa(text))
+				randomNum = random.random()
+				if randomNum < 2/3:
+					await message.reply(await weasel.wawa(text))
+				elif randomNum < 1/3:
+					await message.reply(await weasel.gibberish(text))
+				else:
+					await message.reply(await weasel.devolve(text))
+
 
 
 async def setup(bot: Parrot) -> None:
