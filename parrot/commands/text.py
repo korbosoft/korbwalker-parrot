@@ -3,6 +3,8 @@ import datetime as dt
 from collections.abc import Callable, Coroutine
 from enum import Enum, auto
 from typing import Any, cast
+from random import choice
+from re import finditer, findall
 
 import discord
 from discord.ext import commands
@@ -26,6 +28,7 @@ from parrot.utils.exceptions import (
 	WrongChannelType,
 )
 from parrot.utils.trace import trace
+from parrot.assets import sunshine_script, noki_png
 
 
 DAY_PARROT_UNREGISTERED_EVERYONE = dt.datetime(year=2025, month=2, day=27)
@@ -270,6 +273,41 @@ class Text(commands.Cog):
 		https://corru.wiki/wiki/Stowaway"""
 		await Text._modify_text(ctx, input_text=text, modifier=weasel.wawa)
 
+	@commands.command(brief="Get a random line from Super Mario Sunshine.")
+	@commands.cooldown(2, 2, commands.BucketType.user)
+	async def sunshine(self, ctx: commands.Context) -> None:
+		"""Posts a random line from a Super Mario Sunshine script I got off GameFAQs"""
+
+		if sunshine_script:
+			sunshine_dialog = list(finditer(r"\+{3}(.+?)\+{3} ?([^\n]*)\n([\s\S]+?)(?=\+{3}|~{2,}|-{10,}|$)", sunshine_script))
+
+			chosen_dialog = choice(sunshine_dialog)
+
+			character = chosen_dialog[1].strip()
+			# context = chosen_dialog[2].strip()
+			message = chosen_dialog[3].strip()
+
+			text_before_match = sunshine_script[:chosen_dialog.start()]
+
+			level_match = findall(r"\d+\.\s+([^-\n~]+)", text_before_match)
+			current_level = level_match[-1].strip() if level_match else "Unknown"
+			if current_level == "FLUDD Messages": current_level = "Generic Messages"
+
+			episode_match = findall(r"-{4,}\s*(.*?)-{2,}", text_before_match)
+			if episode_match:
+				last_ep = "".join([ep for ep in episode_match[-1] if ep])
+				current_chapter = last_ep.strip()
+			else:
+				current_chapter = "General"
+
+			embed = ParrotEmbed(
+				description=message,
+				color=0xFF00FF
+			).set_author(name=character, icon_url="attachment://noki.png").set_footer(text=f"{current_level} ({current_chapter})")
+			await ctx.send(file=discord.File(noki_png), embed=embed)
+			return
+		else:
+			raise TextNotFound("No messages could be parsed from the file")
 
 async def setup(bot: Parrot) -> None:
 	await bot.add_cog(Text())

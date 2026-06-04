@@ -1,0 +1,10300 @@
+SUPER MARIO SUNSHINE DIALOGUE
+
+This will contain spoilers...
+
+TABLE OF CONTENTS
+1. Introduction
+
+2. How to use this... whatever it is
+
+3. Generic Messages
+
+4. Delfino Airstrip
+
+5. Delfino Plaza
+START
+AFTER WASHING OFF THE GRAND PIANTA STATUE
+AFTER EXITTING A LEVEL/GETTING A SHINE
+AFTER 3 SHINES
+AFTER 5 SHINES
+AFTER 6 SHINES
+AFTER 10 SHINES
+AFTER PEACH GETS KIDNAPPED
+AFTER EPISODE 4 OF PINNA PARK
+AFTER EXITTING A LEVEL/GETTING A SHINE AFTER GETTING YOSHI
+AFTER 25 SHINES
+AFTER EXITTING A LEVEL/GETTING A SHINE AFTER TURBO NOZZLE
+AFTER 30 SHINES
+THE FLOOD
+AFTER THE FLOOD
+
+6. Bianco Hills
+EPISODE 1: ROAD TO THE BIG WINDMILL
+EPISODE 2: DOWN WITH PETEY PIRANHA!
+EPISODE 3: THE HILLSIDE CAVE SECRET
+EPISODE 4: RED COINS OF WINDMILL VILLAGE
+EPISODE 5: PETEY PIRANHA STRIKES BACK
+EPISODE 6: THE SECRET OF THE DIRTY LAKE
+EPISODE 7: SHADOW MARIO ON THE LOOSE
+EPISODE 8: RED COINS OF THE LAKE
+
+7. Ricco Harbor
+EPISODE 1: GOOPER BLOOPER BREAKS OUT
+EPISODE 2: BLOOPER SURFING SAFARI
+EPISODE 3: THE CAGED SHINE SPRITE
+EPISODE 4: THE SECRET OF RICCO TOWER
+EPISODE 5: GOOPER BLOOPER RETURNS
+EPISODE 6: RED COINS ON THE WATER
+EPISODE 7: SHADOW MARIO REVISITED
+EPISODE 8: YOSHI'S FRUIT ADVENTURE
+
+8. Gelato Beach
+EPISODE 1: DUNE BUD SAND CASTLE SECRET
+EPISODE 2: MIRROR MADNESS! TILT, SLAM, BAM!
+EPISODE 3: WIGGLER AHOY! FULL STEAM AHEAD!
+EPISODE 4: THE SAND BIRD IS BORN
+EPISODE 5: IL PIANTISSIMO'S SAND SPRINT
+EPISODE 6: RED COINS IN THE CORAL REEF
+EPISODE 7: IT'S SHADOW MARIO! AFTER HIM!
+EPISODE 8: THE WATERMELON FESTIVAL
+
+9. Pinna Park
+EPISODE 1: MECHA-BOWSER APPEARS!
+EPISODE 2: THE BEACH CANNON'S SECRET
+EPISODE 3: RED COINS OF THE PIRATE SHIPS
+EPISODE 4: THE WILTED SUNFLOWERS
+EPISODE 5: THE RUNAWAY FERRIS WHEEL
+EPISODE 6: THE YOSHI-GO-ROUND'S SECRET
+EPISODE 7: SHADOW MARIO IN THE PARK
+EPISODE 8: ROLLER COASTER BALLOONS
+
+10. Sirena Beach
+EPISODE 1: THE MANTA STORM
+EPISODE 2: THE HOTEL LOBBY'S SECRET
+EPISODE 3: MYSTERIOUS HOTEL DELFINO
+EPISODE 4: THE SECRET OF CASINO DELFINO
+EPISODE 5: KING BOO DOWN BELOW
+EPISODE 6: SCRUBBING SIRENA BEACH
+EPISODE 7: SHADOW MARIO CHECKS IN
+EPISODE 8: RED COINS IN THE HOTEL
+
+11. Noki Bay
+EPISODE 1: UNCORK THE WATERFALL
+EPISODE 2: THE BOSS OF TRICKY RUINS
+EPISODE 3: RED COINS IN A BOTTLE
+EPISODE 4: EELY-MOUTH'S DENTIST
+EPISODE 5: IL PIANTISSIMO'S SURF SWIM
+EPISODE 6: THE SHELL'S SECRET
+EPISODE 7: HOLD IT, SHADOW MARIO!
+EPISODE 8: THE RED COIN FISH
+
+12. Pianta Village
+EPISODE 1: CHAIN CHOMPLETS UNCHAINED
+EPISODE 2: IL PIANTISSIMO'S CRAZY CLIMB
+EPISODE 3: THE GOOPY INFERNO
+EPISODE 4: CHAIN CHOMP'S BATH
+EPISODE 5: SECRET OF THE VILLAGE UNDERSIDE
+EPISODE 6: PIANTAS IN NEED
+EPISODE 7: SHADOW MARIO RUNS WILD
+EPISODE 8: FLUFF FESTIVAL COIN HUNT
+
+13. Corona Mountain
+
+14. Tourist Map
+
+15. FLUDD Messages
+
+16. Closing
+
+
+1234567890123456789012345678901234567890123456789012345678901234567890123456789
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+1. INTRODUCTION
+
+Hello.   Super Mario Sunshine is my favorite Mario game and since it had so
+much dialogue, I was a little surprised there wasn't a script or a text dump
+or whatever you call it on Gamefaqs yet.   So, after starting a walkthrough
+for Sunshine and getting all the way to Noki Bay on it, the computer I was
+using crashed.   So now, half a year later (somewhere around there, this
+year's been weird), I'm doing this.
+
+So now I'm going to write a how to use and then turn on my TV, put Sunshine
+in my Wii and write stuff you may or may not care about.   But I am not
+looking forward to writing Pianta Village.
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+2. HOW TO USE THIS... WHATEVER IT IS
+
+Ctrl + F brings up search, and that's how you use the table of contents and
+such.   Aside from that, my format for this is going to be going by episode,
+and writing what a character says under something like this:
+
++++Character name/description+++ location ~ special conditions
+
+For Delfino Plaza, going by episode isn't really going to work, so I'll
+write the new text boxes after what happens before you can read it.   Also,
+I won't include text boxes more than once.
+
+One more thing.   In Delfino Plaza, between 10 shines and the cutscene that
+gives you access to Pinna Park, the yellow Toad is not present.   At all.
+That's all.   What a tiny section...
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+3. GENERIC MESSAGES
+
++++After Washing Off Any Male Pianta+++ Go figure it out yourself
+
+Whew! You saved me!
+Thanks a bundle!
+
++++After Washing Off/Helping Any Female Pianta+++ Go figure it out yourself
+
+Thanks, sweetums!
+
++++After Washing Off Any Child Pianta+++ Go figure it out yourself
+
+Thanks for your help!
+
++++After Washing Off Any Toad+++ Delfino Plaza somewhere
+
+Thanks, Mario!
+
++++Pianta in Shades+++ Every level he's in ~ Before 30 shines
+
+Hey! I think you're in
+need of a pair of my
+special sun shades...
+
+Ooh, well...
+Then again, maybe
+you're not ready.
+
+You need to spend a
+bit more time here on
+Isle Delfino.
+
+Come on back when
+you think you're ready
+for a pair. See ya!
+
++++Pianta in Shades+++ Every level he's in ~ After 30 shines
+
+I love the sunshine,
+but OOOH! Is it
+ever bright!
+
+Here, little man. Try a
+pair of my special sun
+shades. They're cool!
+
+Yeah heh heh...
+You're styling now!
+
+Come back and talk to
+me when you don't
+need them anymore.
+
++++Pianta in Shades+++ Every level he's in ~ While you have shades on
+
+You had enough?
+
+Come by anytime it's
+too bright for you,
+OK, little man?
+
++++Pianta in Shades+++ Every level he's in ~ after beating the game
+
+Hey! Sun shades
+alone just won't cut
+it for you. Nope!
+
+You also need one of
+my custom tropical
+shirts. Here you go!
+
+My, oh my!
+
+I haven't seen anyone
+look that good in my
+gear in ages!
+
+Come see me again
+when you want to
+return them, OK?
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+4. DELFINO AIRSTRIP
+
+CUTSCENE - OPENING
+
+Peach: Ooh, look at that!
+
+TV Person: Welcome to the sun-drenched tropical paradise of Isle Delfino!
+We're so pleased to welcome you to our beautiful home!
+Come enjoy a natural wonder-land to which we've added
+world's finest resort facilities, a spectacular amusement park,
+and succulent seafood!
+This and more await you on Isle Delfino!
+Come relax and let us refresh your body and spirit.
+
+Peach: Mario...!?
+That...that shadow...?
+Toadsworth, did you see...?
+
+CUTSCENE – ARRIVAL
+
+Peach: What happened?
+
+Red Toad: What this icky, paint-like goop?
+
+Yellow Toad: It's...moving!
+
+Toadsworth: Now now, boys! Don't touch that stuff!
+
+Peach: Um, excuse me, but..
+
+Toadsworth: I am most concerned with the
+well-being of the princess in this dreadful heat.
+Master Mario, if you would,
+cross over to that shore and find some assistance.
+
+AFTER THE CUTSCENE
+
++++Peach+++ Next to the airplane
+
+Mario, be careful!
+I have a bad
+feeling about this...
+
++++Toadsworth+++ Next to the airplane
+
+Master Mario!
+Remember, the
+A Button is key!
+
+Use it to show me
+some of those
+famous jumps!
+
++++Blue Toad+++ Next to the airplane
+
+Don't worry, Mario!
+We'll watch over
+the princess.
+
+Please go and
+get help!
+
++++Green Toad+++ Next to the airplane
+
+That goop looks
+dangerous! I wouldn't
+touch it, Mario.
+
+If you get some on
+you, get in the water
+or do a Spin Jump!
+
+Quickly move the
+Control Stick in a
+circle and jump!
+
++++Yellow Toad+++ Next to the airplane
+
+Ick, Mario!
+It's all...goopy.
+
++++Red Toad+++ Next to the airplane
+
+We came all this
+way, and now look!
+Everything's spoiled!
+
+Oh...this is the worst.
+Mario! Please go
+get some help!
+
++++Purple Toad+++ Next to the airplane
+
+It looks like this
+gunk is coming from
+somewhere below.
+
+It's really slippery,
+so watch your step.
+
++++Lady Pianta in starfish dress+++ Looking at the goop (next to it)
+
+What're you waiting
+for? Do something!
+
+This gooey paint
+of yours completely
+covered my friend!!!
+
++++Male Pianta with guitar+++ Next to the house
+
+Welcome to
+Isle Delfino!
+
+Step right up and
+get yourself a free
+tourist map!
+
+Press the Z Button
+to view your map.
+
++++Reddish male Pianta with glasses+++ Next to the house
+
+Huh? Have we met
+somewhere before?
+
+I feel like I've seen
+you somewhere...and
+recently, too.
+
++++Yellow Pianta with mustache+++
+
+Help? Help you? Are
+you crazy? We're the
+one who need help!
+
+Take that water
+pump and clean the
+airstrip, you...you!
+
++++Boat Driver+++ At the docks, next to his boat
+
+Hey there, buddy!
+Are you waiting for
+your pals, or what?
+
+CUTSCENE - GETTING FLUDD
+
+FLUDD: Power-up complete.
+Thank you for purchasing this item from Gadd Science, Incorporated.
+Preparing to register customer information.
+Scanning and classifying subject data...subject identified as Mario,
+resident of the Mushroom Kingdom. Data storage complete.
+I am FLUDD--a Flash Liquidizer Ultra Dousing Device.
+I hope to be of assistance.
+Proceeding with user instruction.
+
+Use R to shoot water from my tank.
+If you press R all the way down, you can stop and shoot.
+You can then use (Control Stick) to aim in any direction.
+Press X to switch to the Hover Nozzle.
+You can then press R to hover in the air for a short time.
+If this tank is empty, no water can be sprayed.
+To refill tank, enter a body of water and press R.
+Instructions complete. Proceed!
+
++++Pianta Pianta with a Blue Cap+++ At the goop ~ After you wash him off
+
+Brrrrpth! Bleeah!
+Whoa! I really thought
+I was a goner!
+
+Hey... Hang on!
+It's you! This whole
+mess is your fault!
+
++++Blue Pianta with a Blue Cap (same as above)+++ At the goop
+
+There's a difference
+between right and
+wrong, you know...
+
+----------AFTER THE SHINE APPEARS----------
+
++++Peach+++ Next to the airplane
+
+It's so bright...
+I wonder what
+that thing is?
+
++++Toadsworth+++ Next to the airplane
+
+That bright object...
+It's not a star.
+What could it be?
+
++++Blue Toad+++ Next to the airplane
+
+A twinkly thing came
+out of the ooze!
+
++++Green Toad+++ Next to the airplane
+
+Hey! A sparkly came
+out of the goop!
+
++++Yellow Toad+++ Next to the airplane
+
+Oooh! A shiny-shiny
+from the icky goop!
+
++++Red Toad+++ Next to the airplane
+
+A sparkly! It came
+out of the yucky!
+
++++Purple Toad+++ Next to the airplane
+
+A shiny-shiny came
+out of the slime!
+
++++Lady Pianta in starfish dress+++ Middle of the airstrip
+
+Wow! A Shine Sprite!
+
++++Blue Pianta with a Blue cap+++ Middle of the airstrip
+
+Ah! A Shine Sprite!
+
++++Reddish Pianta with glasses+++ Next to the house
+
+Now, I remember!
+You... You're...
+
+Oh, wait.
+Never mind.
+
++++Yellow Pianta with mustache+++ Next to the house
+
+Woooo!
+A Shine Sprite!
+
+Was that monster
+hiding it?
+
++++Boat Driver+++ At the docks
+
+Eh? Is that a Shine
+Sprite over there?
+That's a little odd...
+
+
+
+----------AFTER CORONA MOUNTAIN----------
+
++++Boat Driver+++ Level start
+
+Wheee! What
+great weather!
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+5. DELFINO PLAZA
+
+CUTSCENE - THE MOST INSANE COURT
+
+Peach: Nice work, Mario!
+
+Toadsworth: Mm, quite an unusual device...
+Is it some sort of pump?
+
+FLUDD: I am FLUDD. Glad to meet you.
+
+Red Toad: Hey, someone's coming!
+
+
+
+Judge: Court is now in session!
+
+Prosecutor: As you are no doubt aware, someone has been senselessly
+defacing fair Isle Delfino using some sort of paint-like substance.
+The accused with charged of polluting our beautiful home
+and yes, endangering our very way of life.
+Indeed, how can one not be aware of what is going on?
+
+Though it is daytime in Delfino Plaza,
+our poor residents tremble beneath a veil of darkness.
+Expert Shine scholars have determined that this darkness has arisen
+because all of our guardians, the Shine Sprites, have
+vanished from their gathering spot at the Shine Gate.
+
+The reason?
+It's quite obvious.
+This horrible graffiti is to blame!
+Behold this sketch of the perpetrator based on eyewitness descriptions.
+The truth is obvious.
+The guilty party is among us. It is none other than Mario!
+
+Peach: Objection!
+
+Judge: Overruled!
+I judge the defendant guilty as charged!
+I hereby order the defendant to clean this entire island.
+Until Isle Delfino is completely free of his vile handiwork,
+Mario shall not be allowed to leave!
+Court adjourned.
+
+
+
+FLUDD: This appears to be quite a predicament, Mario.
+Data analysis verifies that
+the island's inhabitants are indeed troubled by pollution.
+But the pollution itself is not the main problem.
+
+Mario, you witnessed this object at the airstrip, correct?
+It is a Shine Sprite.
+Shine Sprites are the source of power on Isle Delfino.
+They used to gather in great numbers at the Shine Gate.
+But, the graffiti incident has polluted the island and
+most of the Shine Sprites have fled. There is no longer any power to
+support the peaceful lifestyle of the islanders.
+
+It is most pitiable.
+The only way to ensure the return of the Shine Sprites is
+to keep the island from becoming any dirtier.
+The perpetrator is likely at work even as we speak.
+And you, Mario,
+are being treated as a criminal.
+Tomorrow, we must do our best to resolve this situation.
+
+
+
+Blue Police Officer: Go straight that way.   You can't miss the mess, pal.
+Your first job's to get rid of all that ugliness.
+And remember, we'll be watching you, pal.
+We'll know if you start slacking off.
+
+
+
+----------START----------
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+It seems several people have gone missing near the Grand Pianta statue in
+Bianco Square...
+
++++Blue Police Officer+++ Outside police station
+
+Get started by
+cleaning up
+Bianco Square!
+
+Honestly! How could
+anyone do so much
+graffiti so quickly?
+
++++Pale Police Officer+++ Outside police station
+
+Get going! Clean up
+Bianco Square, and
+make it snappy!
+
+I swear! Graffiti
+artists just make
+me so MAD!
+
++++Durian/Coconut Salesman+++ Marketplace, N end
+
+The ones on the
+right are durians...
+
+And the ones on the
+left are coconuts.
+
+If you're not
+buying, get lost!
+
++++Yellow Toad+++ Marketplace, N end
+
+Waah! You're safe!
+What a relief! This
+vacation is crazy!
+
+The princess is
+waiting for you
+just up ahead.
+
++++Pear/Pineapple Salesman+++ Marketplace, middle
+
+Hey there! You
+don't look so good.
+It's like, well...
+
+It's like disaster is
+written all over your
+face, you know?
+
+What's that?! We're
+already having a
+disaster?! Oh...right!
+
++++Purple Toad+++ Marketplace, middle
+
+Oh, Mario!
+Why is the weather
+so strange?
+
++++Red Pepper Salesman+++ Marketplace, middle
+
+In the hot sun, you
+need something even
+hotter to cool off!
+
+Try these fresh red
+peppers! ...Oh, who
+am I kidding?
+
+In this haze, these
+peppers look totally
+unappetizing!
+
++++Brown Pianta in leaf shirt+++ Talking to Red Pepper Salesman
+
+Hey! If it isn't the
+bad mustache-man!
+
+Just because you're
+cleaning up the
+town...
+
+...that doesn't mean
+you're clean with me!
+
++++Red Toad+++ Marketplace, S end
+
+Everyone on this
+isle loves to do
+the “box-breaker”!
+
+Just jump up and
+press the L Button
+above a box!
+
+Ka-SMASH!
+Why don't you give
+it a try?
+
++++Banana Salesman+++ Marketplace, S end
+
+I just heard a yell
+from the square!
+What happened?!
+
++++Dark Blue Male Pianta+++ Walking around the marketplace
+
+What's this, now?
+That mustache!
+That red cap!
+
+You look just like
+the villain in the
+wanted posters!
+
+You cad! You're the
+one writing “M” on
+all the walls!
+
+You listen to me...
+Clean it all up!
+Now, hooligan!
+
++++Blue Pianta with guitar+++ Walking around the marketplace
+
+Well well well! If it
+isn't you! You have
+that tourist map?
+
+Did I tell you to
+press the Z Button
+to view that thing?
+
++++Toadsworth+++ Corner between marketplace and Bianco Square
+
+Well, I'm pleased
+to see you're safe!
+I must tell you...
+
+We were walking
+around town earlier,
+and...
+
+...it seems the area
+near the Shine Gate
+is still quite bright...
+
+Perhaps you should
+check it out,
+Master Mario...
+
++++Peach+++ Corner between marketplace and Bianco Square
+
+Oh, Mario! You're
+OK after all! I just
+knew you would be!
+
+And why is the sky
+so dark, huh? It's
+not sun-drenched!
+
+This is hardly my
+idea of a relaxing
+vacation, Mario.
+
+I want to go home
+right now!
+
++++Yellow Male Pianta in Straw Hat+++ Bianco Square, looking at goop
+
+This is so amazing,
+isn't it? Where are
+the TV cameras?
+
+Oh, wait! Is it over
+already? Did I miss
+something? Huh?
+
++++Pale Male Pianta in Leaf Shirt+++ Covered in goop, then walking about
+
+Well, if it isn't the
+scribble-doodle man
+himself! You jerk!
+
+What in the world
+are you thinking
+with this nonsense?!
+
+This stuff is no
+joke, you know!
+Now, clean it up!
+
++++Green Toad+++ Covered in goop, then surrounded by it
+
+Everything just went
+dark, and I thought
+“I'm done for...”
+
++++Orange Female Pianta+++ Looking at Goop
+
+I came all the way
+here from Pianta
+Village on vacation...
+
+And this is awful!
+I guess all cities
+really ARE dirty...
+
++++Brown Pianta with Glasses+++ Next to above, looking at goop
+
+This is the place,
+all right...
+Bianco Square!
+
+The guidebook says
+there's a statue of
+the Grand Pianta...
+
+So, where'd it go?
+
++++Blue Pianta with Mushroom Backpack+ Walking at Bianco Square and W docks
+
+So it's true... Our
+Shine Sprites really
+have left us...
+
+I'm taking it
+pretty hard, to tell
+you the truth.
+
+I just wish the sun
+would return and
+tan us like before!
+
++++Angry Blue Pianta with Mustache+++ Being angry at wanted poster on SW house
+
+Unforgivable! I have
+HAD it! Someone
+ruined my wall!
+
+What does “M”
+mean, anyway!? And
+have we met before?
+
++++Sign (1)+++ In front of boathouse
+
+BOATHOUSE
+
+---CLOSED---
+
+Please come again.
+
++++Red 'Mario' Pianta+++ Under roof at central docks
+
+I guess it's true
+about all the Shine
+Sprites leaving...
+
++++Green 'Luigi' Pianta+++ Under roof at central docks
+
+We're in a tight
+spot, and that's
+for sure!
+
+I'm telling you,
+this place will be
+pitch-black soon!
+
++++Blue Toad+++ Central docks, next to the Shine Gate
+
+Not this way!
+Go to the town
+square! Hurry!
+
++++Crate Guy+++ Central docks, next to the dolphin fountain
+
+Well, hello there!
+I'm what you might
+call the crate guy!
+
+The crates come in
+off the boats, and
+I deal with 'em.
+
+You look like you
+could deal with a
+few crates yourself!
+
+If you've got free
+time, why don't you
+try bashing some?
+
++++Owner of the Fruit Freighter+++ Central docks, next to the boat
+
+Hm? Naw, the boat
+can't leave yet. You
+have to improvise!
+
++++Sign (2)+++ Central docks (NW), in front of Crate Guy's building
+
+THE CRATE GUY
+
+---CLOSED---
+
+Test your skill
+another time.
+
++++Cannon Repairman+++ Central docks (NW), in the cannon
+
+These repairs are
+really rough, I'm
+telling you!
+
+It'll be a while...
+
++++Pianta Stranded on Island for 3 yrs+++ SE Island
+
+I was shipwrecked
+and washed up here
+three years ago.
+
+I often think about
+the far shore, but I
+can't swim...
+
+I've never left this
+little island. Isn't
+that just awful?
+
+
+
+----------AFTER WASHING OFF THE GRAND PIANTA STATUE----------
+
+
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+Princess Peach of the Mushroom Kingdom has apparently been kidnapped.
+The suspected kidnapper was last seen escaping through the eastern fruit
+market...
+
++++Blue Police Officer+++ Next to the police station
+
+Hey! Are you
+slacking off!?
+
++++Pale Police Officer+++ Next to the police station
+
+And clean up
+those walls!!
+Now, slacker!
+
++++Durian/Coconut Salesman+++ Marketplace, N end
+
+I thought I told
+you...
+NO FREE SAMPLES!!!
+
++++Yellow Toad+++ Marketplace, N end
+
+Mario! The princess!
+The princess!
+
++++Dark Blue Male Pianta+++ Covered in goop at marketplace, then walking about
+
+This darkness makes
+me feel so gloomy
+and depressed...
+
+It's been this way
+ever since our Shine
+Sprites went away!
+
+This is your fault!
+And you don't even
+look apologetic!
+
++++Brown Pianta in Lead Shirt+++ Covered in goop, then by Red Pepper shop
+
+It was weird being
+stuck in that goop.
+It was gross, but...
+
+I gotta admit, it
+was kind of sweet.
+Kind of like candy...
+
++++Red Toad+++ Bianco Square
+
+The princess, Mario!
+The princess!
+
++++Red Pepper Salesman+++ Marketplace, middle
+
+Running around and
+getting all sweaty
+is nice, but...
+
+You can eat these
+and get just as
+sweaty! Yes, sir!
+
++++Banana Salesman+++ Marketplace, S end
+
+I heard more cries
+for help! What's
+going on now?
+
++++Purple Toad+++ Marketplace, S end
+
+Mario!
+The princess!
+THE PRINCESS!
+
++++Toadsworth+++ Corner between marketplace and Bianco Square
+
+The princess!
+She's been kidnapped
+by Master Mario!
+
+No! I mean...
+By someone!
+Waaaagh!
+
++++Yellow Male Pianta in Straw Hat+++ Walking around Bianco Square
+
+Huh? What's that?
+Another incident?
+Really? Honestly?
+
+Are the cameras
+there yet? Huh?
+My, how exciting!
+
++++Pale Male Pianta in Leaf Shirt+++ Running around Bianco Square
+
+It's your fault that
+our Shine Sprites left
+and the sky got dark!
+
++++Green Toad+++ Bianco Square
+
+AAAAAAGH! Mario!
+The princess!
+The princess!
+
++++Orange Female Pianta+++ Bianco Square, looking at Grand Pianta statue
+
+This is the
+Grand Pianta?
+
+Pshaw! What's so
+great about it?
+It's just...a rock.
+
++++Brown Pianta with Glasses+++ Bianco Square, looking at Grand Pianta statue
+
+So, this is the
+Grand Pianta!
+How...striking!
+
+Where did it come
+from? Talk about
+a dramatic entrance!
+
++++Blue Toad+++ Central docks, next to the Shine Gate
+
+She didn't come this
+way! Try going back
+that way!
+
++++Shadow Mario+++ Wherever you beat him ~ after you beat him
+
+Ow ow ow OW!
+Not fair!
+Completely unfair!
+
+You shouldn't be
+allowed to use
+tools like that!
+
++++Peach+++ Wherever you beat Shadow Mario ~ after you beat Shadow Mario
+
+Mario! I'm sure I
+saw that person out
+on the Airstrip!
+
+I'm positive he's
+responsible for all
+this! Chase him!
+
+
+
+
+----------AFTER EXITTING A LEVEL/GETTING A SHINE----------
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+Isle Delfino Police are investigating a possible connection between recent
+graffiti incidents and the loss of contact with Bianco Hills and Ricco
+Harbor...
+
+...D.E.B.S. ALERT...
+Shine scientists report that the Shine Sprites of Isle Delfino's legendary
+Shine Gate have disappeared. The appearance of graffiti is being cited as a
+possible clue, but officials are reluctant to draw any conclusions...
+
++++Pale Police Officer+++ Next to Police Station
+
+And clean up those
+walls, slacker!
+
++++Orange Female Pianta+++ Walking around the marketplace, N end
+
+Now, where's that
+big ol' Shine?
+
+The guidebook says
+it's like the shining
+eye of Isle Delfino!
+
++++Pear/Pineapple Salesman+++ Marketplace, middle
+
+So, you're probably
+still involved in
+some naughty stuff...
+
+Right? Like huge
+disasters and stuff?
+Yup, I knew it!
+
++++Brown Pianta with Glasses+++ Walking around marketplace, S end
+
+It sure is dark!
+Is this daytime?
+
+I guess cities are
+just dark all the
+time, huh?
+
++++Banana Salesman+++ Marketplace, S end
+
+Delicious fruits need
+the sun to live...
+At least, ours do.
+
+And at this rate,
+we may never have
+fruit again.
+
+Oh, where have all
+the Shine Sprites
+gone off to?!
+
++++Blue Toad+++ Next to the lighthouse
+
+A long time ago,
+Yoshis lived on this
+island as well.
+
++++Yellow Male Pianta in Straw Hat+++ Walking around Bianco Square
+
+When are we going
+to have another
+scandalous incident?
+
+I'm so bored.
+Nothing fun ever
+happens here.
+
++++Green Toad+++ Bianco Square, next to the Grand Pianta statue
+
+Mario! Are you used
+to using that FLUDD
+thing now?
+
+You can also switch
+it to a hover device
+with the X Button!
+
++++Yellow Toad+++ Bianco Square, next to the Grand Pianta statue
+
+I saw it with my
+own eyes! The man
+who took the
+
+princess was using
+a brush to draw
+graffiti! I saw it!
+
++++Purple Toad+++ Bianco Square, next to the Grand Pianta statue
+
+I heard this was a
+sun-splashed isle,
+but it sure is dark!
+
+Is it because they've
+lost their so-called
+“Shine Sprites”?
+
++++Toadsworth+++ Bianco Square, next to the Grand Pianta statue
+
+This island seems
+to be the victim of
+a bad turn of fate!
+
+Oh my, yes...
+
++++Peach+++ Bianco Square, next to the Grand Pianta statue
+
+Welcome back!
+We're so glad you're
+safe, Mario!
+
+This vacation's just
+been a whirlwind of
+bizarre events, huh?
+
+And now, the boat
+to the hotel isn't
+even running!
+
++++Raccoon Dad+++ In the boathouse
+
+I suppose you're here
+for THAT, hm?
+Yes, very good.
+
+That means I will
+require 10 blue coins
+from you.
+
+I can exchange those
+for Shine Sprites.
+I'll give you #, yes?
+
+Would you like to?
+
+If you say yes:
+Really? You truly
+mean it, yes?
+
+No refunds!
+
+If you say no either time:
+I'm so sorry I couldn't
+be of service to you.
+See you next time.
+
++++Banana Wanting Lady+++ Slope between central docks and Bianco Square
+
+Hellooooooo!
+You want to work for
+me for a little bit?
+
+I'd love for you to
+bring me some fruit.
+I'm craving some...
+
+...bananas!
+Bring me 3,
+would you?
+
+Just bring the fruit
+here and put it
+in this basket, OK?
+
++++Banana Wanting Lady+++ Same as above ~ After talking to her once
+
+Well? Are you going
+to do it, or what?
+I need some...
+
+...bananas!
+Bring me #,
+would you?
+
+Just bring the fruit
+here and put it
+in this basket, OK?
+
++++Green 'Luigi' Pianta+++ Central docks, near police station, arguing
+
+That's hogwash!
+Your ancestors were
+all hairdressers!
+
+You liar!
+
++++Red 'Mario' Pianta+++ Same as above, arguing with 'Luigi'
+
+I'm not lying!
+I even saw the
+plans for it!
+
+You're just not
+listening to me, you
+pickled squid-brain!
+
++++Pineapple Wanting Lady+++ Central docks, next to Shine Gate
+
+Hellooooooo!
+You want to work for
+me for a little bit?
+
+I'd love for you to
+bring me some fruit.
+I'm craving some...
+
+...pineapples!
+Bring me 3,
+would you?
+
+Just bring the fruit
+here and put it
+in this basket, OK?
+
++++Pineapple Wanting Lady+++ Same as above ~ After talking to her once
+
+Well? Are you going
+to do it, or what?
+I need some...
+
+...pineapples!
+Bring me #,
+would you?
+
+Just bring the fruit
+here and put it
+in this basket, OK?
+
++++Durian Wanting Lady+++ Outside NW building
+
+Hellooooooo!
+You want to work for
+me for a little bit?
+
+I'd love for you to
+bring me some fruit.
+I'm craving some...
+
+...durians!
+Bring me 3,
+would you?
+
+Just bring the fruit
+here and put it
+in this basket, OK?
+
++++Durian Wanting Lady+++ Same as above ~ After talking to her once
+
+Well? Are you going
+to do it, or what?
+I need some...
+
+...durians!
+Bring me #,
+would you?
+
+Just bring the fruit
+here and put it
+in this basket, OK?
+
++++Town Chuckster+++ On the NW rooftops
+
+Howdy! Throw me a
+coin, and I'll throw
+you for a loop!
+
+If you say no:
+A single coin may
+have the power to
+change your destiny...
+
+If you say yes:
+Yeeaaah!
+And awaaaaay you go!
+
++++Crate Guy+++ In the NW building
+
+Break all of the crates
+within 30 seconds to
+win a prize.
+
+You want to try?
+
+If you say no:
+Practice up and
+come back later.
+
+If you say yes and lose:
+Oooh, so close...
+
+If you say yes and win:
+That was great!
+You're the best!
+
++++Durian/Coconut Salesman+++ Marketplace, N end
+
+I thought I told
+you...
+NO FREE SAMPLES!!!!
+
++++Coconut Wanting Lady+++ On NW island
+
+Hellooooooo!
+You want to work for
+me for a little bit?
+
+I'd love for you to
+bring me some fruit.
+I'm craving some...
+
+...coconuts!
+Bring me 3,
+would you?
+
+Just bring the fruit
+here and put it
+in this basket, OK?
+
++++Coconut Wanting Lady+++ Same as above ~ After talking to her once
+
+Well? Are you going
+to do it, or what?
+I need some...
+
+...coconuts!
+Bring me #,
+would you?
+
+Just bring the fruit
+here and put it
+in this basket, OK?
+
+
+
+----------AFTER 3 SHINES----------
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+This just in. The boathouse west of town has disappeared. Isle Delfino
+Police are overwhelmed by the recent epidemic of strange events and note
+that the investigation of this mystery may take some time...
+
+
+
+----------AFTER 5 SHINES----------
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+According to new information, the lighthouse on the eastern coast has
+disappeared. Investigations are now underway...
+
+
+
+----------AFTER 6 SHINES----------
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+The fruit freighter, formerly unable to leave port, has now temporarily
+resumed service...
+
++++Owner of the Fruit Freighter+++ Central docks, docks
+
+The boat has finally
+begun moving again!
+
++++Brown Pianta with Glasses+++ Walking along the central docks, near roofs
+
+It sure is dark!
+Is this the daytime?
+Are all cities dark?
+
++++Green 'Luigi' Pianta+++ Central docks (NW), arguing with 'Mario'
+
+You know, you have
+a pretty suspicious
+mustache there.
+
+I bet we're in this
+fix because of a
+mustache like that!
+
+And this haze! I bet
+it's 'cause the Shine
+Sprites are all gone!
+
++++Red 'Mario' Pianta+++ Central docks (NW), arguing with 'Luigi'
+
+You lost our crate-
+bashing duel fair
+and square!
+
+You're just a
+squid-brained sore
+loser, that's all!
+
+And Shine Sprites
+don't like sore losers!
+Squid-for-brains!
+
++++Yellow Male Pianta in Straw Hat+++ Walking around Bianco Square
+
+What's that?
+Hold on!
+I smell it!
+
+Something's going to
+happen! But where?!
+Where is it?!
+
++++Red Toad+++ Bianco Square, next to Grand Pianta statue
+
+The man that took
+the princess had
+some kind of brush.
+
+Is that what he
+uses to draw
+graffiti, you think?
+
++++Peach+++ Bianco Square, next to Grand Pianta statue
+
+I saw a boat in
+the distance. Wonder
+where it goes?
+
++++Toadsworth+++ Bianco Square, next to Grand Pianta statue
+
+Master Mario! Have
+you seen the
+message updates?
+
+They're from the
+Delfino Emergency
+Broadcast System.
+
+They'll tell you
+what's happening
+on the island!
+
++++Purple Toad+++ Bianco Square, next to Grand Pianta statue
+
+The Shine Gate's to
+the north, and the
+lighthouse is east.
+
+The boathouse is
+to the west, and
+we're down south.
+
+You can press the
+Z Button to view
+the guidebook map!
+
++++Yellow Toad+++ Bianco Square, next to Grand Pianta statue
+
+According to the
+guidebook, this area
+has a...
+
+I can't believe it!
+An amusement park!!
+How incredibly cool!
+
+It's on the island
+visible from the
+western boathouse!
+
++++Blue Pianta with Mushroom Backpack+++ Running around marketplace on fire
+
+I still wish the sun
+would return, but
+who needs a tan?
+
+
+
+----------AFTER 10 SHINES----------
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+Princess Peach of the Mushroom Kingdom has apparently been kidnapped...AGAIN.
+The suspect was last seen escaping to the west, with the princess in tow...
+
+...D.E.B.S. ALERT...
+According to witnesses, a mysterious “turtle” has appeared in the area near
+the western exhaust port. Police suspect a link with the recent kidnapping
+and are investigating thoroughly...
+
++++Purple Toad & Blue Toad+++ Bianco Square (purple), lighthouse (blue)
+
+Horrible! Horrible!
+Princess Peach has
+been kidnapped!
+
++++Toadsworth+++ Bianco Square, next to the Grand Pianta statue
+
+M-M-Master Mario!
+The p-p-princess!
+
++++Green 'Luigi' Pianta+++ W Docks, arguing with 'Mario'
+
+Don't get all high and
+mighty with me! You
+swim like a stone!
+
++++Red 'Mario' Pianta+++ W Docks, arguing with 'Luigi'
+
+Back off! I know for
+a fact that you can't
+swim a stroke, either!
+
++++Green Toad+++ W Docks
+
+Awful! Terrible!
+Princess Peach has
+been kidnapped!
+
++++Red Toad+++ Under archway at NW docks
+
+Mario! The princess
+was taken that way!
+Hurry and find her!
+
+
+
++++CUTSCENE: PEACH GETS KIDNAPPED+++
+
+Peach: Mario!!
+
+FLUDD: That is Pinna Island.
+The villain's secret hideout must be there!
+
+
+
+----------AFTER PEACH GETS KIDNAPPED----------
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+A mysterious band of light has appeared in the area of the city's central
+docks. Local residents have been spotted gazing curiously up into the sky...
+
+...D.E.B.S. ALERT...
+Repairs to the typhoon-damaged exhaust port on the western shore have been
+completed. An investigation of Pinna Island is scheduled to begin soon...
+
++++Toadsworth+++ NW docks, next to cannon
+
+I can't imagine what
+the poor princess is
+going through...
+
+Mario! Please
+saver her!
+
++++Purple Toad+++ NW docks, next to cannon
+
+Mario! Is the
+princess OK?
+
++++Yellow Toad+++ NW docks, next to cannon
+
+The princess is on
+that island! I think
+it's called Pineapple
+
+or something...
+How do you think
+you can get there?
+
++++Cannon Repairman+++ NW docks, next to cannon
+
+You want to go out
+to that island?
+
+All right, then, hop
+in there and cover
+your ears!
+
++++Green 'Luigi' Pianta+++ Marketplace, arguing with 'Mario'
+
+I'm telling you, the
+tree on my head is
+way taller than yours!
+
++++Red 'Mario' Pianta+++ Marketplace, arguing with 'Luigi'
+
+You're crazy! My tree
+is much bigger! My
+leaves are nicer, too!
+
++++Red Toad+++ Bianco Square, next to dolphin fountain
+
+There seems to be
+an amusement park
+on that island...
+
+You know, the one
+that the princess
+was taken to...
+
+
+
+----------AFTER EPISODE 4 OF PINNA PARK----------
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+The mysterious mustachioed man has been seen running about town holding an
+egg-like object. The mustache-man is also the primary suspect in the recent
+kidnapping of Princess Peach of the Mushroom Kingdom...
+
++++Shadow Mario+++ Wherever you beat him ~ after beating him
+
+Darn! And I was
+just about to ride
+that Yoshi, too!
+
+
+
+----------AFTER EXITTING A LEVEL/GETTING A SHINE AFTER GETTING YOSHI----------
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+It's been reported that a lone Yoshi egg has been spotted on a local rooftop.
+This news is unconfirmed...
+
+
+
+----------AFTER 25 SHINES----------
+
++++D.E.B.S. Alert+++
+
+...D.E.B.S. ALERT...
+The mysterious mustachioed man has been seen running around town holding some
+type of machine. The mustache-man is also the primary suspect in the recent
+kidnapping of Princess Peach of the Mushroom Kingdom...
+
++++Shadow Mario+++ Wherever you beat him ~ after beating him
+
+Rats! And I was
+just about to
+turbo-dash, too!
+
+
+
+----------AFTER EXITTING A LEVEL/GETTING A SHINE AFTER TURBO NOZZLE----------
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+Mysterious boxes have been spotted near the fountain by Delfino Plaza's Grand
+Pianta Statue...
+
+
+
+----------AFTER 30 SHINES----------
+
++++Shadow Mario+++ Wherever you beat him ~ After beating him
+
+Shoot! And I was
+just about to
+rocket-jump, too!
+
++++Red Bird of Happiness Searcher+++ NW pipe (use palm trees); bonus stage
+
+I've been searching
+for the red bird of
+happiness for...
+
+some 38 years now.
+Yep, it's been a long,
+long road.
+
+The thing is, I've been
+feeling lately like I'll
+never catch up with it.
+
++++Wandering Traveler+++ NW pipe (use palm trees); bonus stage
+
+I swear I will never
+hide anything ever
+again! Honest!
+
+
+
+----------THE FLOOD----------
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+Delfino Plaza has recently experienced a waterfall-like deluge of rain in all
+areas. Residents are advised to seek shelter on rooftops to avoid the rising
+flood waters...
+
++++Crate Guy+++ On the roof of his shop
+
+I wonder if all my
+crates washed away?
+
++++Purple Toad+++ On a roof near the cannon
+
+The town's flooded!
+It's like a tidal
+wave from the sky!
+
++++Cannon Repairman+++ Swimming around a log (in a ducky) near the cannon
+
+I just feel better
+when I'm wrapped in
+something...
+
++++Yellow Toad+++ On a roof between the cannon and the boathouse
+
+The town's flooded!
+It's a deluge
+from the sky!
+
++++Red Toad+++ Next to above
+
+The town's flooded!
+It's a concentrated
+storm or something!
+
++++Blue Pianta with Mushroom Backpack+++ On a roof near the boathouse
+
+Now, I just don't
+care what happens!
+Wa ha ha haaaaa!
+
++++Raccoon Dad+++ On the boathouse
+
+The boathouse sank!
+Who could've
+imagined THAT?!
+
++++Raccoon Son+++ On the boathouse
+
+Dad looks like he's
+having a lot of fun!
+
++++Green Toad+++ On a roof near the central docks and the boathouse
+
+The town's flooded!
+How could so much
+water fall at once?
+
++++All Fruit Ladies+++ Roof by boathouse, market, police station, near Corona
+
+It sure is brighter!
+Have our Shine
+Sprites come back?
+
++++Angry Blue Pianta with Mustache+++ On a roof near the Yoshi egg
+
+What a catastrophe!
+...Although, it's
+kind of fun, too!
+
++++Toadsworth+++ On a roof between Bianco Square and the central docks
+
+Master Mario!
+Did you see that?
+A fountain of water!
+
+It crashed down
+like a tidal wave!
+...And it seems hot!
+
++++Owner of the Fruit Freighter+++ On the roof with the pipe
+
+The boats are still
+running, even in these
+conditions! Amazing!
+
++++Orange Female Pianta+++ On roof with pipe, viewing Grand Pianta Statue
+
+So, this is one of
+the “shining eyes of
+Isle Delfino”?
+
++++Brown Pianta with Glasses+++ Roof with pipe, viewing Grand Pianta Statue
+
+I guess I just
+don't understand
+city life...
+
+Am I supposed to
+be soaking wet?
+
++++Yellow Male Pianta in Straw Hat+++ A roof by Bianco Square & central docks
+
+Gosh! What a
+spectacle! I'm just
+glad to be alive!
+
+Psst... Where are
+the cameras?
+
++++Brown Pianta in Leaf Shirt+++ On the roof with all the fruit
+
+What's this? The
+water ceased coming
+from the mountain?
+
+I wonder if it all
+dried up?
+
++++Banana Salesman+++ On the roof with all the fruit
+
+I guess we should
+be glad the water
+cleaned everything!
+
++++Red Pepper Salesman+++ On the roof with all the fruit
+
+Until a little while
+ago, this water was
+quite hot!
+
+There was a lot of
+steam, but I guess
+it's cooled now...
+
++++Coconut/Durian Salesman+++ On the roof with all the fruit
+
+This is no good for
+business! My durians
+are going to rot!
+
++++Pear/Pineapple Salesman+++ On the roof with all the fruit
+
+I can't say I
+enjoy all this
+craziness...
+
++++Pianta Stranded on Island for 3 Yrs+++ On a roof by central docks & market
+
+Well, I knew if I
+was lucky I could
+follow the current...
+
+And now here I am!
+
++++Pale Male Pianta in Leaf Shirt+++ On a roof by central docks & marketplace
+
+Who knew Corona
+Mountain was so
+full of water?
+
++++Red 'Mario' Pianta+++ On a roof by central docks & market, next to below
+
+I tell you, I'm
+through with that
+guy for good!
+
++++Green 'Luigi' Pianta+++ Next to above
+
+I don't even want
+to hear what that
+idiot has to say!
+
++++Dark Blue Male Pianta+++ On a roof near the police station
+
+What a way to go!
+My horoscope sure
+was wrong...
+
++++Pale Police Officer+++ On a roof near the police station
+
+Is this your doing,
+too? Dumping goop,
+dumping water...
+
+Just make up
+your mind!
+
++++Blue Police Officer+++ On a roof near the police station
+
+Everyone evacuated
+to their roofs! And
+a good thing, too!
+
++++Blue Toad+++ On a roof near the police station
+
+The town's flooded!
+I've never seen so
+much water fall!
+
+
+
+----------AFTER THE FLOOD----------
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+The flood caused by recent record-breaking rains has receded, and the water
+level is back to normal. The Shine Gate has also opened...
+
++++D.E.B.S. Alert+++ Bottom of the screen
+
+...D.E.B.S. ALERT...
+Shine scientists report that the Shine Sprites, which had all but vanished in
+recent days, are rapidly returning to their traditional gathering spot, the
+Shine Gate. In related news, the haze which has covered Isle Delfino is
+thinning, and the sunlight is recovering its former strength. Clear skies are
+forecast, with a zero-percent chance of rain...
+
++++Blue Toad+++ Outside the Crate Guy's house
+
+Oh, Mario, is the
+princess going to
+be OK?
+
++++Toadsworth+++ Outside the Crate Guy's house
+
+Oh, I hope nothing
+bad happens to our
+dear princess...
+
+Master Mario!
+Please help her!
+
++++Yellow Toad+++ Outside the Crate Guy's house
+
+Oh, Mario! Will the
+princess be OK?
+
++++Purple Toad+++ Outside the Crate Guy's house
+
+Mario, is the
+princess going to
+be all right?
+
++++Red Toad+++ Outside the Crate Guy's house
+
+What's going to
+happen to the
+princess, Mario?
+
++++Green Toad+++ Outside the Crate Guy's house
+
+The princess is
+going to be all
+right, isn't she?
+
++++Owner of the Fruit Freighter+++ Central docks
+
+Boy, boats sure are
+convenient, huh?
+
++++Dark Blue Male Pianta+++ Central docks
+
+Wow! This place is
+all tidy! Everything's
+so bright and clean!
+
++++Brown Pianta in Leaf Shirt+++ Central docks, on the wet part
+
+The flood waters
+went away so fast!
+Are the fish OK?
+
++++Pale Male Pianta in Leaf Shirt+++ Running around the Grand Pianta Statue
+
+It sure has gotten
+a lot brighter
+around here...
+
++++Angry Blue Pianta with Mustache+++ SW corner, looking at wanted poster
+
+Well, you don't see
+much graffiti around
+here anymore...
+
+I guess I can take
+this down now...
+
++++Yellow Male Pianta in Straw Hat+++ Walking by Bianco Square & central docks
+
+Could this be the
+end of the game?
+
+I hope something
+else happens!
+
++++Blue Pianta with Mushroom Backpack+++ Near police station
+
+Wow! This place is
+almost as bright as
+it used to be!
+
+I'm ready for that
+sun to burn me to
+a crisp again.
+
++++Blue Police Officer+++ In front of the police station
+
+Whoa! That water
+receded in a flash!
+
++++Pale Police Officer+++ In front of the police station
+
+You say that flood
+cleaned up the
+whole town? Really?
+
+Are you absolutely
+sure about that?
+
++++Coconut/Durian Salesman+++ N stall of the marketplace
+
+Durians are on the
+right, and coconuts
+are on the left.
+
++++Pear/Pineapple Salesman+++ Middle N stall of the marketplace
+
+I must say, you're
+looking much better
+these days, too!
+
++++Red Pepper Salesman+++ Middle S stall of the marketplace
+
+This weather just
+feels great!
+
++++Banana Salesman+++ S stall of the marketplace
+
+It sure feels like
+the light of the sun
+is back with us!
+
++++Pianta Stranded on Island for 3 Yrs+++ On beach, looking at his old island
+
+I just want to...
+get back...to that...
+island...
+
++++Green 'Luigi' Pianta+++ On beach, near lighthouse, dancing next to 'Mario'
+
+You should come
+visit me in the
+country sometime!
+
++++Red 'Mario Pianta+++ On beach, near lighthouse, dancing next to 'Luigi'
+
+I'm taking as many
+mushrooms with me
+as I can!
+
++++Orange Female Pianta+++ W docks, next to boat
+
+Well, I guess I'll
+be heading back to
+Pianta Village soon.
+
+It really is the only
+place for me!
+
++++Brown Pianta with Glasses+++ W docks, next to boat
+
+I guess cities are
+just dangerous...
+I prefer the country!
+
++++Boat Driver+++ W docks, next to boat
+
+Shall I take you
+out to the Airstrip?
+It's only 10 coins...
+
+If you say no/don't have enough coins:
+Well, maybe next time!
+Remember, my price is
+always 10 coins!
+
+If you say yes:
+To the sea!
+It's time to push
+off and head out!
+
+Don't expect any
+sea shanties from
+this captain, mate!
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+6. BIANCO HILLS
+
+
+
+----------EPISODE 1: ROAD TO THE BIG WINDMILL----------
+
++++Sign+++ Start of level, behind you
+
+<-              ->
+
+ Ricco      Pinna
+Harbor      Park
+
+
++++Blue Male Pianta+++ Start of level
+
+Huh? You're back
+again, are you?
+
+You seemed like you
+were in such a hurry
+last time I saw you.
+
++++Pink Female Pianta+++ Start of level
+
+What's going on?
+
+Didn't you just come
+running through here
+with a big paintbrush?
+
+And now you've got
+that heavy device on
+your back... Strange...
+
++++Blue Pianta with Straw Hat+++ Next to rope at river
+
+You want to try
+climbing on the
+ropes? It's easy!
+
+Never fear! Just get
+up there and bounce
+around. You'll be fine.
+
++++Orange Female Pianta+++ Next to the river, windmill village side
+
+There's a trail here
+that connects to the
+Big Windmill.
+
+The goop made it
+too dangerous, so the
+door's been closed.
+
+You might be able to
+get through at the
+waterwheel up ahead.
+
++++Orange Male Pianta with Blue Cap+++ Running in windmill village, 3 houses
+
+Windmills are big
+spinning things that
+use wind power.
+
+Waterwheels are big
+spinning thins that
+use water power.
+
+And all of them will
+spin faster if you give
+them a good squirting!
+
++++Male Chuckster+++ Walking around windmill village, left from Entrance
+
+Would you believe my
+wife can toss people
+farther than I can?
+
+Hurr-gyaar!
+
++++Female Pianta Child+++ Windmill village, back wall
+
+Hey, old-timer.
+Who are you?
+
+What's that weird
+thing you've got on
+your back? Hee hee!
+
++++Male Pianta Child+++ Windmill village, back wall
+
+D'you need something,
+mustache-man?
+
++++Female Chuckster+++ Windmill village, back wall
+
+You! You're the guy
+who's been writing all
+over the village!
+
+You might have fooled
+the others, but I see
+right through you!
+
+Get out there and
+clean that mess up,
+you mustachioed punk!
+
++++Green Pianta in Straw Hat+++ Windmill village, at E house
+
+That's a nice little
+squirt-tank you got
+there, sonny!
+
+Why don't you water
+the flowers a bit?
+They sure need it!
+
++++Cliff Spring Cave Guard+++ In front of Cliff Spring Cave
+
+It's too dangerous
+past this point!
+None shall pass!
+
++++Guy That Likes Hillside Cave+++ In front of Hillside Cave
+
+From here on, things
+get really dangerous!
+So, no more fooling around!
+
++++Pink Dancing Male Pianta+++ Big Windmill, next to the gondola
+
+Whuzzah!? Whozat?!
+What're you doing
+over here?
+
+You're getting a little
+ahead of yourself,
+don't you think?
+
+Isn't there something
+else you should do
+before coming here?
+
+
+
+----------EPISODE 2: DOWN WITH PETEY PIRANHA!----------
+
++++Blue Male Pianta+++ Start of level
+
+There was a pretty
+big tremor a moment
+ago, wasn't there?
+
+I wonder what's going on
+on the other side
+of that hill...
+
++++Pink Female Pianta+++ Start of level
+
+I wonder if all that
+slime is gone yet...
+
++++Blue Pianta with Straw Hat+++ Next to river, entrance side
+
+People who jump in
+this river go PLOOSH!
+And sometimes PLISH!
+
+I know, because I've
+been standing here
+watching all day long.
+
++++Orange Female Pianta+++ Windmill village, near river, looking at open gate
+
+Now, look at that!
+
+I wonder who broke
+the gate? I do NOT
+approve of that!
+
++++Orange Male Pianta with Blue Cap+++ Windmill village, running by 3 houses
+
+The goop's taken care
+of, but now, that big
+windmill's in trouble...
+
++++Green Pianta in Straw Hat+++ Windmill Village, at E house
+
+I just want our
+peaceful village
+back to normal!
+
++++Male Chuckster+++ Walking around windmill village, left from entrance
+
+I hate to do this, but
+I need to use you for
+a little practice.
+
+Hurngyargraar!
+
++++Female Pianta Child+++ Running in windmill village, near two towered house
+
+Hey, mister, you're
+all wet from playing in
+the water! Ha ha ha!
+
++++Male Pianta Child+++ Running in windmill village, near two towered house
+
+Hey, mustache-dude...
+
+You think I could
+borrow that funky
+squirter of yours?
+
++++Female Chuckster+++ Windmill village, far wall from river
+
+So you're still
+lollygagging around
+here, are you?
+
+Have you cleaned up
+all the graffiti? No?
+Then get to it, mister!
+
++++Cliff Spring Cave Guard+++ In front of Cliff Spring Cave
+
+Sorry to do this,
+but NO ONE BEYOND
+THIS POINT!
+
++++Guy That Likes Hillside Cave+++ In front of Hillside Cave
+
+You won't like this,
+but NO ONE BEYOND
+THIS POINT!
+
++++Pink Dancing Male Pianta+++ Halfway up the Big Windmill, next to gondola
+
+Could you help out
+with the big-headed
+creature up there?
+
+You're the only one
+we can ask to lend us
+a hand.
+
+I know it's a pain,
+but...you think you
+can handle it?
+
+
+
+----------EPISODE 3: THE HILLSIDE CAVE SECRET----------
+
++++Blue Male Pianta+++ At starting hill
+
+The goop's all gone,
+and this place is
+clean again!
+
+Now, if we can just
+get the tourists to
+come back...
+
++++Pink Female Pianta+++ At starting hill
+
+Something's wrong...
+My women's intuition
+must be warning me...
+
++++Blue Pianta in Straw Hat+++ Next to river, entry side, angry at the road
+
+Some awful goop fell
+out of the sky a while
+ago. It was nasty!
+
++++Guy That Likes Hillside Cave+++ Next to river, windmill village side
+
+Say... Do you know
+anything about the
+Hillside Cave?
+
+You can see it from
+the path that leads to
+the Big Windmill.
+
+As you go up the hill,
+look right before you
+reach the bridge.
+
+Anyway, I was hanging
+out near the entrance
+the other day...
+
+Suddenly, this weird-
+looking guy ran after
+me! I took off quick!
+
+I saw him bust the
+cave gate open and
+vanish inside. Yikes!
+
++++Female Pianta Child+++ Running around near the river's end
+
+Even if your clothes
+get wet, the sun will
+dry 'em out quick! Ha!
+
++++Male Pianta Child+++ Running around near the river's end
+
+Hey, mustache-man!
+You're funny looking!
+...But kinda cool, too.
++++Female Chuckster+++ Windmill village, far wall from river
+
+Don't you have
+anything else to do?!
+
+Then go do it!!
+
++++Green Pianta in Straw Hat+++ Windmill village, at E house
+
+Lately, I've been
+seeing a lot of weird
+creatures around here.
+
++++Orange Male Pianta with Blue Cap+++ Windmill village, walking by 3 houses
+
+Are you the
+mustachioed guy I've
+been hearing about?
+
++++Orange Female Pianta+++ Lake shore, under the two windmills
+
+I heard awful noises
+in the Hillside Cave
+on the far shore...
+
+What were they?
+I'm scared...
+
++++Male Chuckster+++ Lake shore, under trees
+
+Huh? You just asked
+me to hurl you,
+didn't you?
+
+Hraangyaar!
+
++++Cliff Spring Cave Guard+++ In front of the Cliff Spring Cave
+
+This is the
+Cliff Spring Cave.
+
+Sorry, but no one's
+allowed to go in.
+
++++Pink Dancing Male Pianta (he's not dancing right now)+++ In front of bridge
+
+You can see the
+Hillside Cave over
+there, right?
+
+A guy came out all
+covered in goop and
+ran under the bridge.
+
+I wonder if something
+bad was after him...
+How disturbing.
+
++++Tourist+++ Covered in goop at the base of the Big Windmill
+
+I came here to tour
+the Big Windmill...
+
+...and I've got to say,
+it's spectacular!
+
+
+
+----------EPISODE 4: RED COINS OF WINDMILL VILLAGE----------
+
++++Blue Male Pianta+++ Starting hill, near level start
+
+You know, you're the
+one person who visits
+me over and over...
+
++++Pink Female Pianta+++ Starting hill, near level start
+
+I was worried, but
+now, I figure things
+can't get much worse.
+
++++Orange Male Pianta with Blue Cap+++ Windmill village, walking by 3 houses
+
+There are red coins
+all over the place,
+aren't there? Weird.
+
++++Guy That Likes Hillside Cave+++ Windmill village, quarter down the river
+
+I can think much
+better when I'm alone.
+
+I used to go to
+the Hillside Cave
+for a good think...
+
+But now, it's just
+too scary!
+
++++Female Pianta Child+++ Windmill village, far wall from river, viewing Poinks
+
+Poinks get all full of
+water and then they
+go BOOM! Hee hee!
+
++++Male Pianta Child+++ Windmill village, far wall from river, viewing Poinks
+
+Water-filled balloon
+bombs, huh? Sounds
+good to me!
+
++++Female Chuckster+++ Windmill village, far wall from river
+
+Until I've given you a
+good hurl, I don't feel
+like my day's started!
+
+Hungyagagagarr!!
+
++++Green Pianta with Straw Hat+++ Windmill village, at E house
+
+I can't believe anyone
+out there does bad
+things for no reason.
+
++++Male Chuckster+++ Walking along the trees at the lake shore
+
+Throw! Throw! Throw!
+It's what I know!!
+
+Yoooorgggh!
+
++++Orange Female Pianta+++ Lake shore, walking under two windmills
+
+I'd mush rather get
+fruit than coins!
+Know what I mean?
+
++++Pink Dancing Male Pianta+++ Lake shore, in front of bridge
+
+What, are you some
+kind of coin
+collector? Neat!
+
++++Cliff Spring Cave Guard+++ In front of Cliff Spring Cave
+
+This is the
+Cliff Spring Cave.
+
+You know the drill...
+NO ONE BEYOND
+THIS POINT!
+
++++Tourist+++ In front of and one level below Hillside Cave, covered in goop
+
+I heard something had
+happened here, so I
+came to check it out...
+
+But there's nothing to
+see...except for some
+filth I fell into!
+
++++Blue Pianta with Straw Hat+++ Northern Heights
+
+I guess you like
+climbing up to high
+places, too?
+
+I know the feeling...
+
+
+
+----------EPISODE 5: PETEY PIRANHA STRIKES BACK----------
+
++++Blue Male Pianta+++ Starting hill, near level start
+
+Oh! Oh! How horrible!
+I thought we were
+done with this stuff!
+
+I don't even want to
+open my eyes to see
+all the slime!
+
++++Orange Male Pianta with Blue Cap+++ Windmill village, in goop near river
+
+Oh no! That creature
+appeared again and
+messed everything up!
+
+There was goop going
+this way, and slime
+going that way...
+
+I think he fell asleep
+up on the heights to
+the north of town...
+
++++Green Pianta with Straw Hat+++ Windmill village, near E house
+
+I saw a monster with
+a super king-sized
+noggin! It was huge!
+
+There's no way that
+thing was natural!
+
++++Male Chuckster+++ Windmill village, covered in goop, far wall from river
+
+I know what you
+want just by the
+look in your eyes...
+
+Have a nice trip!
+Hungrayayararrr!
+
++++Tourist+++ Lake shore, on a little separate area across the river
+
+Bianco Hills is a
+rather interesting
+place, huh?
+
+We have falling goop
+and all sorts of
+other oddities!
+
++++Pink Dancing Male Pianta+++ Lake shore, in front of bridge
+
+Hey! I saw it! It's that
+big-headed thing from
+the Big Windmill!
+
+It's back!
+
++++Cliff Spring Cave Guard+++ In front of Cliff Spring Cave
+
+This is the
+Cliff Spring Cave.
+Must I say it?
+
+NO ONE BEYOND
+THIS POINT!
+
++++Guy That Likes Hillside Cave+++ White Tower (near entrance hill)
+
+Boy, I looked up and
+saw this dirty thing
+fly in from the port!
+
+I found a nice place
+to hide, though. I can
+relax here...
+
++++Blue Pianta with Straw Hat+++ Northern Heights
+
+Look! I think the big-
+headed monster is
+sleeping over there.
+
+If it wakes up, it'll
+probably go on
+another rampage!
+
+Can't we just get
+rid of it while
+it's snoozing?
+
+We just need
+something to bonk
+it with...
+
+
+
+----------EPISODE 6: THE SECRECT OF THE DIRTY LAKE----------
+
++++Blue Male Pianta+++ Starting hill, near entrance
+
+I thought we had all
+this cleaned up, and
+now this!
+
+What in the world is
+going on in this
+village?
+
++++Pink Female Pianta+++ Starting hill, near entrance
+
+You know, you've
+really done so much
+for us, but I wonder...
+
+Will even you be
+able to deal with
+this nastiness?
+
++++Guy That Likes Hillside Cave+++ White tower (near entrance)
+
+Aww, the lake's
+all goopy!
+
++++Cliff Spring Cave Guard+++ Windmill village, by to river, covered in goop
+
+You know the Cliff
+Spring Cave on the
+far end of the lake?
+
+Some nasty ooze came
+spilling out of it with
+no warning at all!
+
+Now, our beautiful
+lake is contaminated.
+It's so yucky!
+
++++Orange Male Pianta with Blue Cap+++ Windmill village, walking by 3 houses
+
+You know, I've never
+seen the lake like
+this before!
+
++++Green Pianta with Straw Hat+++ Windmill village, at E house
+
+If that lake stays like
+this, the town is
+done for...
+
++++Male Pianta Child+++ Windmill village, running around SW house
+
+We're playing
+hide-and-seek!
+
+I wonder where my
+kid sister is
+hiding...
+
++++Blue Pianta with Straw Hat+++ Windmill Village, running near river's end
+
+Now, this is just
+too much...
+
++++Female Chuckster+++ Windmill village, far wall from river
+
+You're late for your
+throwing appointment!!
+Come here!
+
+Graaahyaaar!
+
++++Female Pianta Child+++ In the gap between where white wall meets itself
+
+He'll never find me
+here, right?
+
+Don't tell my brother!
+Hee hee!
+
++++Male Chuckster+++ Lake shore, under the trees
+
+Do you really NEED
+to be thrown?
+Gimme a break!
+
+Raaagraaaah!
+
++++Orange Female Pianta+++ Lake shore, under the two windmills
+
+Since the lake's been
+like this, the leaf
+boats have all rotted.
+
+They fall apart when
+you get on them now.
+That's...not good.
+
++++Pink Dancing Male Pianta (currently not dancing)+++ Lake shore, by bridge
+
+Nothing this dirty
+could ever get back
+to normal...
+
++++Tourist+++ Northern Heights, covered in goop
+
+Now, this is just a
+spectacular view!
+
+
+
+----------EPISODE 7: SHADOW MARIO ON THE LOOSE----------
+
++++Blue Male Pianta+++ Starting hill, near entrance
+
+Hey...do you have a
+twin or something?
+
++++Pink Female Pianta+++ Starting hill, near entrance
+
+Hey, didn't I just
+see you go bounding
+past here?
+
++++Shadow Mario+++ Wherever you beat him ~ after beating him
+
+Arrgh!
+I'll remember this!!
+
++++Orange Male Pianta with Blue Cap+++ Windmill village, walking by 3 houses
+
+There's some weird
+guy wandering
+around town!
+
+Do you think HE has
+anything to do with
+the missing kids?
+
++++Green Pianta with Straw Hat+++ Windmill village, at E house
+
+I don't think those
+kids would have gone
+anywhere dangerous...
+
+...but that weird guy
+who's been running
+around worries me.
+
++++Blue Pianta with Straw Hat+++ Windmill village, near river's end
+
+What's all the hubbub
+here? Is something
+bad happening?
+
++++Female Chuckster+++ Windmill village, far wall from river
+
+Hey, have you seen
+my kids? I can't find
+either of them!
+
+I have to figure out
+where they went...
+
+Get out of my way!
+
++++Guy That Likes Hillside Cave+++ White tower (near entrance)
+
+I guess there are
+worse things than
+goop on your head...
+
+Getting goop down
+your pants would be
+mush grosser.
+
++++Female Pianta Child+++ In gap between where the white wall meets itself
+
+I can't get out of
+here! Boo-hoo! Sniff!
+
++++Male Pianta Child+++ Lake shore, near base of windmill closest waterwheel
+
+That's funny...
+I can't find my sister.
+
++++Male Chuckster+++ Lake shore, under trees
+
+You know, I'm getting
+pretty tired out here.
+
+But I know what I
+must do...
+Hurrgraaaah!
+
++++Orange Female Pianta+++ Lake shore, under two windmills
+
+I'm looking for the
+kids, but I don't think
+they're around here...
+
++++Pink Dancing Male Pianta+++ Lake shore, in front of bridge
+
+Hey, did you just run
+past here?
+
++++Cliff Spring Cave Guard+++ In front of Cliff Spring Cave
+
+This is the
+Cliff Spring Cave.
+
+It's open, so head
+on in!
+
++++Tourist+++ Atop the Big Windmill, where Petey was
+
+I'm glad I made it all
+the way up here...
+
+But now, my legs are
+shaky. I wonder if I
+can get down?
+
+
+
+----------EPISODE 8: RED COINS OF THE LAKE----------
+
++++Blue Male Pianta+++ Starting hill, near entrance
+
+I was thinking that
+peace would finally
+return to the village...
+
+But with you still
+around, I have my
+doubts...
+
++++Pink Female Pianta+++ Starting hill, near entrance
+
+You know, it's just
+like there's one
+disaster after another.
+
+Not that it's your
+fault or anything...
+
++++Orange Male Pianta with Blue Cap+++ Windmill village, walking by 3 houses
+
+This was once a calm
+place, but now there's
+way too much hoopla!
+
++++Green Pianta with Straw Hat+++ Windmill village, at E house
+
+Lately, things just
+seem really out of
+balance, you know?
+
++++Blue Pianta with Straw Hat+++ Windmill village, near river's end
+
+I don't even feel safe
+in the middle of town
+anymore.
+
+But I guess it's better
+than being alone.
+
++++Female Chuckster+++ Windmill village, wall by peaks, angry at kids
+
+I'm always after those
+kids to tell me where
+they're going.
+
+But you know they
+never do! Children are
+such little hoodlums!
+
+Some things just
+never change!
+
++++Female Pianta Child+++ Windmill village, wall by peaks, being yelled at
+
+I'm sorry, mister!
+
+Really, I am.
+Please don't tell
+my mother, OK?
+
++++Male Pianta Child+++ Windmill village, wall by peaks, being yelled at
+
+WAAAAUGH!
+I'm sorry, mom!
+
+Oh, it's just you.
+
++++Guy That Likes Hillside Cave+++ White tower (near entrance)
+
+If there were a club
+for people who get hit
+with goop a lot...
+
+...I think I'd have a
+good shot at being
+club president.
+
++++Male Chuckster+++ Lake shore, under trees
+
+What? Again? You
+secretly like this,
+don't you!
+
+Raargraar!
+
++++Orange Female Pianta+++ Lake shore, under two windmills
+
+This may be a bit
+sudden, but listen
+and listen good!
+
+Let's say you find
+yourself hanging
+from a rope...
+
+Shoot just a little
+water, and you'll
+start to swing, right?
+
+Well, if you have good
+timing, and you do
+that several times...
+
+...you'll start spinning
+around the rope. I
+swear, it's true!
+
+Then, if you let loose
+with a full stream
+of water...
+
+...you'll gain crazy
+momentum, which you
+can use to jump!
+
+Yeah! That's what
+I like to call the
+Super Whirl Jump!
+
+You can go amazingly
+far with it. Truly.
+It's incredible!
+
+Don't ask me why I
+know this. I don't
+really know myself...
+
++++Pink Dancing Male Pianta+++ Lake shore, in front of bridge
+
+It looks like you've
+really gotten used to
+things around here.
+
++++Cliff Spring Cave Guard+++ In front of Cliff Spring Cave
+
+This is the
+Cliff Spring Cave.
+
+And it's...open!
+Enter, by all means!
+
++++Tourist+++ In the gap between where the white wall meets itself
+
+I headed over here to
+check things out, but
+nothing's happening.
+
+Now, I'm just trying to
+figure out how I'm
+going to get home...
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+7. RICCO HARBOR
+
+
+
+----------EPISODE 1: GOOPER BLOOPER BREAKS OUT----------
+
++++Red Pianta+++ Docks
+
+Look at that slimy
+water! It's gross!
+
+Our lovely port
+is ruined!!
+
++++Blue Pianta+++ Docks
+
+Something's fishy in
+the freight area at the
+far end of the port.
+
+You can't quite see
+it from here, but
+I'm sure of it...
+
++++Blue Sailor in White Uniform+++ Red/black Ship
+
+Huh?! You think the
+arrow is pointing
+that way on purpose?
+
+Ruh-Ruh-Really?
+
++++Yellow Worker+++ Base of Ricco Tower
+
+Just what in the
+blazes is this stuff?
+
+I can't even get my
+work done!
+
++++Kid Chuckster+++ Red arrow platform
+
+That's my big bro
+over there. See him?
+
+He's been practicing
+throwing people.
+
+He's got a ways to
+go, but practice
+makes perfect!
+
++++Police Chief+++ Chuckster's platform
+
+I heard that you can
+raise the sub by
+spinning that thing...
+
+But how in the world
+are you supposed
+to do that?
+
+You don't happen to
+know, do you?
+
++++Chuckster+++ Chuckster's platform
+
+You want me to toss
+you all the way
+across the port?
+
+Sorry, but I don't
+have that kind of
+power yet.
+
++++Pale Sailor in Blue Uniform+++ Freight area
+
+I know we're in the
+middle of a crisis
+and all, but...
+
+Do you think you
+could help scrub off
+the walls, too?
+
+When you've got a
+minute, that is.
+No rush.
+
++++Blue Sailor in Blue Uniform+++ Freight area
+
+The goop is coming
+out of those crates
+over there.
+
+I'm not sure I've ever
+seen anything as
+gross as that...
+
++++Blue Sailor in Blue Uniform+++ Same as above ~ After Gooper Blooper appears
+
+Wooooooaaaaaaah!
+What... is... that?
+
+
+
+----------EPISODE 2: BLOOPER SURFING SAFARI----------
+
++++Red Pianta+++ Docks
+
+That guy on the pier?
+He's the Big Daddy
+of Blooper-surfing.
+
+That's nothing to
+sneeze at, I'll tell
+you that much!
+
+Me? No, I do NOT
+ride Bloopers!
+No, thank you!
+
++++Blue Pianta+++ Docks
+
+You know, there sure
+are some odd folks
+out there...
+
+Taming little Bloopers
+is bizarre enough, but
+riding on their backs?
+
+I tell you, some folks
+are just plain looney!
+
++++Police Chief+++ Docks
+
+I heard that there's
+Blooper-surfing
+around here.
+
+Do you know where?
+
++++Pink Sailor in White Uniform+++ Washing off the black/red ship
+
+The deck is the very
+life of the ship,
+my landlubbing pal!
+
+That's why we polish
+her to a glowing
+shine every day!
+
++++Green Sailor in White Uniform+++ Washing off the black/red ship
+
+If the deck is dirty,
+a sailor might as well
+hang up his cap!
+
+That's just the life
+of a fellow at sea,
+my friend!
+
+And hey, watch it with
+those dirty clompers!
+
++++Yellow Worker+++ Base of Ricco Tower
+
+I am just pleased as
+punch that that big,
+nasty Blooper's gone!
+
++++Kid Chuckster+++ Red arrow platform
+
+You know, some day...
+
+I'll toss people
+around just like my
+big bro! You'll see!
+
++++Chuckster+++ Chuckster's platform
+
+You want to head for
+shore? All right by
+me! Woooooooooo!
+
++++Pale Sailor in Blue Uniform+++ Freight area, where Gooper Blooper was
+
+Even though that big
+Blooper's gone, the
+water's still a mess!
+
++++Blue Sailor in Blue Uniform+++ Freight area, where Gooper Blooper was
+
+Where is that goop
+coming from?
+
++++'Bloopy'+++ Pier
+
+That's right!
+I'm the Big Daddy of
+Blooper-surfing!
+
+You like surfing?
+Hop on a Blooper and
+give it a whirl!
+
+Oh, but one thing!
+Big Daddy waives all
+liability for accidents.
+
+Now, hang loose, bud!
+
++++Blooper Guy+++ WELCOME TO BONUS STAGE!... he's in the Blooper bonus stage
+
+Wahoooo!
+You wanna go for
+a ride, bud?
+
+Go ahead and jump
+on the Blooper you
+like best. Go on!
+
+Show me some super
+Blooper-surfing, and
+win yourself a prize!
+
++++Blooper Guy+++ See above ~ after first message
+
+Quit your dillydallying
+and get on a Blooper!
+
++++Blooper Guy+++ See 2 above ~ after winning in over 45/40 seconds
+
+Pretty weak, bud!
+That time's not even
+worth talking about!
+
+Come back after
+you've conquered the
+kiddie pool!
+
++++Blooper Guy+++ See 3 above ~ after winning in under 45 seconds (first time)
+
+You, bud, are what I
+like to call
+super-deluxe cool!
+
+To commemorate the
+birth of a Blooper-
+surfing legend...
+
+This is for you!
+
++++Blooper Guy+++ See 4 above ~ Win in under 40 seconds
+
+You are the MAN!
+
+I'm so impressed that
+I want you to have
+one more of these!
+
+
+
+----------EPISODE 3: THE CAGED SHINE SPRITE----------
+
++++Red Pianta+++ Docks
+
+Hey! This is a
+dangerous place to be
+clambering around.
+
+And hanging off that
+hook? An accident
+in the making!
+
++++Blue Pianta+++ Docks
+
+The port is strangely
+quiet today, huh?
+
+I guess I ought to
+appreciate the peace
+and solitude...
+
+To be honest, though,
+I could do with a
+bit more excitement.
+
++++Pink Sailor in White Uniform+++ Cleaning red/black ship
+
+I'm gonna shine this
+deck 'til the sun
+smiles back!
+
+I'm not quite there,
+though. Nope, not yet.
+
++++Green Sailor in White Uniform+++ Cleaning red/black ship
+
+I'm gonna polish 'til
+I can hear people's
+shoes squeak on her!
+
+Hey! Don't walk there!
+
++++Yellow Worker+++ Base of Ricco Tower
+
+Urrrgh... My throat
+hurts so bad. I don't
+feel like working.
+
++++Police Chief+++ Green arrow platform
+
+You see the Shine
+Sprite up there?
+Inside the cage?
+
+I found it first!
+Pretty cool, huh?
+Wa ha ha ha ha!
+
+Now, how in the world
+can I get up there...?
+
++++Kid Chuckster+++ Red arrow platform
+
+My big bro keeps on
+breaking his own
+long-distance record!
+
+He's tossing people
+around like mad! The
+distance varies, but...
+
+Hey, he likes doing it.
+
++++Chuckster+++ Chuckster's platform
+
+Whoa! You again!
+
+I think I'm ready to
+chuck you over to the
+far side. Maybe...
+
+Hur-ngaarrh!!
+
++++Blue Sailor in Blue Uniform+++ Freight area, near fountain
+
+Now, how would
+anyone climb all the
+way up there!?
+
++++Pale Sailor in Blue Uniform+++ Freight area, where Gooper Blooper was
+
+Our beautiful harbor
+is clean again! Oh,
+what a happy day!
+
+Still...I have a
+strange felling of
+foreboding...
+
+I'm just a worrywart,
+I guess!
+
++++Pink Sailor in Blue Uniform+++ Freight area, rooftops
+
+Hey, it's just like
+in the movies!
+You know the scene?
+
+It's where something's
+on the manhole, and
+they can't get it open.
+
++++Blue Sailor in White Uniform+++ Girders
+
+Wow, you made it
+all the way here!
+Hey, by the way...
+
+Have you spoken to
+that guy on the roof
+over there?
+
+
+
+----------EPISODE 4: THE SECRET OF RICCO TOWER----------
+
++++Red Pianta+++ Docks
+
+Now, the ocean is
+all dirty around
+that tower!
+
++++Blue Pianta+++ Docks
+
+Whoa, looks like
+trouble's a-brewing!!
+
++++Pink Sailor in White Uniform+++ Cleaning black/red ship
+
+Know what I think?
+Even sailors need a
+break now and then...
+
++++Green Sailor in White Uniform+++ Cleaning black/red ship
+
+I know you're just
+waiting for me to
+say something else...
+
+You're bugging me!
+Now, scoot!
+
++++Yellow Worker+++ Base of Ricco Tower
+
+You know, I can give
+out some pretty handy
+info now and then.
+
+Like, that wall over
+there? It's...umm,
+never mind.
+
++++Police Chief+++ Base of Ricco Tower
+
+This may be too hard
+for you to wrap your
+noodle around...
+
+...but I can tell there's
+something suspicious
+about this tower.
+
+By the way, how
+could anyone ever
+climb this thing?
+
+You don't know,
+do you?
+
++++Kid Chuckster+++ Red arrow platform
+
+I think I'll start
+challenging myself,
+just like my big bro!
+
++++Chuckster+++ Chuckster's platform
+
+You know, last time, I
+nearly got you across!
+Trust me this time...
+
+Hurngyarrr!
+
++++Blue Sailor in Blue Uniform+++ Freight area, near fountain
+
+Boy, that sun
+is bright!
+
++++Pale Sailor in Blue Uniform+++ Freight area, where Gooper Blooper was
+
+I'm so glad the ocean
+is looking clean once
+again!
+
+
+
+----------EPISODE 5: GOOPER BLOOPER RETURNS----------
+
++++Red Pianta+++ Docks
+
+I can't see anything
+from here!!
+
++++Blue Pianta+++ Docks
+
+Looks like that huge
+Blooper thing is over
+at the helipad now!
+
++++Red Sailor in White Uniform+++ Cleaning red/black ship
+
+I'm gonna polish this
+'til it shines like my
+girl's smile!
+
+To tell the truth, the
+captain's making me
+do this as punishment.
+
+He caught me slacking
+off the other day.
+
++++Green Sailor in White Uniform+++ Cleaning red/black ship
+
+Please... No more...
+So... tired...
+
++++Police Chief+++ Red/black ship, next to chimney (or smokestack, w/e)
+
+Seems that pesky
+Blooper is back!
+
+Well, you just do your
+thing, and you'll take
+care of it, I'm sure.
+
+Me? I'll be right
+here... Right here
+the WHOLE time...
+
++++Yellow Worker+++ Base of Ricco Tower
+
+That dang Blooper is
+back for more!?
+
+Well then, I guess it's
+time to stop working!!
+Yep yep!
+
++++Kid Chuckster+++ Red arrow platform
+
+You're going after
+that giant Blooper,
+right?
+
+Urgraaa!
+
++++Chuckster+++ Chuckster's platform
+
+Yeah! Leave it to me!
+I'll throw you all the
+way to the helipad!!
+
+Urgrahhhhaaarrr!!!
+
++++Blue Sailor in Blue Uniform+++ Freight area, near fountain
+
+What? Huh?
+Blooper?
+Whaaa?
+
++++Pale Sailor in Blue Uniform+++ Freight area, where Gooper Blooper (1) was
+
+Oh no! Oh my! Why is
+it back again!? I hate
+that stinking Blooper!
+
+
+
+----------EPISODE 6: RED COINS ON THE WATER----------
+
++++Blue Pianta+++ Docks
+
+Looks like Big Daddy
+Blooper-surfer is
+at it again...
+
++++Red Pianta+++ Docks
+
+There seem to be
+more Bloopers for you
+to ride this time..
+
++++'Bloopy'+++ Pier
+
+That's me, Blooper-
+surfing Big Daddy!
+Bloopy for short...
+
+Oh yeah... You think I
+should step on that
+switch over there?
+
++++Yellow Worker+++ Base of Ricco Tower
+
+You know, I just want
+to quit my job and
+surf Bloopers all day.
+
+What? I never do any
+work anyway? Well!
+That's uncalled-for!
+
++++Kid Chuckster+++ Red arrow platform
+
+I wonder if you'll
+make it that far...
+Uruuurgh!
+
++++Chuckster+++ Chuckster's platform
+
+I just keep getting
+better and better!
+Hugyaraaaar!
+
++++Blue Sailor in Blue Uniform+++ Freight area, marketplace
+
+I finally feel like our
+harbor is going to get
+back to normal.
+
++++Pink Male Tourist+++ Freight area, marketplace
+
+I wonder if the orange
+one that makes the
+kissy-lips is edible...
+
++++Brown Male Tourist+++ Freight area, marketplace
+
+They're pretty cheap,
+but not if I consider
+my travel costs.
+
++++Yellow Male Salesman+++ Freight area, marketplace
+
+Freeeesh fish!
+Cheap Cheep-Cheep!
+Fishy fishy fisssh!
+
+Drop 'em in the ocean,
+and they'll swim away!
+They're that fresssh!
+
++++Pale Sailor in Blue Uniform+++ Freight area, marketplace
+
+I never thought that
+the word “hero”
+would apply to you...
+
+But I do now!!
+Thanks for being such
+a stand-up guy!!
+
++++Police Chief+++ Freight area, marketplace, talking to pale sailor
+
+Well, that big Blooper
+was just a huge cream
+puff, wasn't it?
+
+Compared to me, that
+thing was a complete
+lightweight!
+
+Heh heh heh!
+
++++Brown Pianta Kid+++ In a duck tube in waters near the black ship
+
+I'm ashamed to admit
+I sink like a stone.
+But it feels so good!
+
+
+
+----------EPISODE 7: SHADOW MARIO REVISITED----------
+
++++Blue Pianta+++ Docks
+
+Wait a second!
+If you're here...
+then who's that guy?
+
++++Red Pianta+++ Docks
+
+Hey, didn't you just
+come through here?
+
++++Shadow Mario+++ Wherever you beat him ~ After beating him
+
+Phooey!
+I'll remember this!
+
++++Yellow Worker+++ Base of Ricco Tower
+
+I've been meaning to
+mention this, but your
+jumps are amazing!
+
+You're no beginner,
+are you? How long
+have you been at it?
+
++++Kid Chuckster+++ Red arrow platform
+
+Now, I'm working on
+my straight-up throw!
+
+Huggyhugarr!
+
++++Chuckster+++ Chuckster's platform
+
+Hey, how about I toss
+you straight up in the
+air sometime?
+
+Hungggyaraarrr!
+
++++Blue Sailor in Blue Uniform+++ Marketplace
+
+It really tickles me to
+see the harbor as
+lively as this.
+
++++Pale Sailor in Blue Uniform+++ Marketplace
+
+Don't go running
+around here!
+It's not safe!!
+
++++Pink Sailor in Blue Uniform+++ Marketplace
+
+I could probably sell
+a whole lot more of
+this sliced thinly...
+
++++Yellow Male Salesman+++ Marketplace
+
+I guess no one will
+be buying Blooper fore
+quite some time...
+
++++Brown Male Tourist+++ Marketplace
+
+I wonder if I should
+get some souvenirs?
+Naw, I guess not...
+
++++Blue Sailor in White Uniform+++ Marketplace
+
+Shrimp, shrimp,
+shrimp, shrimp...
+Anybody got shrimp?!
+
++++Pink Male Tourist+++ Marketplace
+
+I think this could be a
+bustling place one
+day, but not yet.
+
++++Police Chief+++ Marketplace, rooftops
+
+Weren't you just on
+top of that steel
+girder over there...?
+
+But now, you're here,
+which means...
+
+That you wasn't really
+you! You're you!
+Wait, who ARE you?!
+
++++Brown Pianta Kid+++ In a duck float in the water near black ship
+
+I spent so much time
+in the water that my
+hands pruned up!!
+
+
+
+----------EPISODE 8: YOSHI'S FRUIT ADVENTURE----------
+
++++Brown Pianta Kid+++ Using a duck tube in the waters near the black ship
+
+Well, let me just set
+everyone straight on
+this subject...
+
+I started this craze!
+Me! The original
+duck-ring rider!
+
++++Pink Pianta Kid+++ Using a duck tube in the waters near the black ship
+
+Bleaargggh!
+I'm starting to
+feel queasy...
+
++++Blue Pianta Kid+++ Using a duck tube in the waters near the black ship
+
+This is tough... I can't
+paddle! I guess that
+makes me a duckling.
+
++++What ever duck-ring rider you talk to last+++ See above 3...
+
+You actually managed
+to talk to the three
+duck-ring riders?
+
+You're amazing!
+Here you go! This is
+your reward!
+
++++Red Pianta+++ Docks
+
+I hear the Doot-Doot
+Sisters are here!
+I can't miss them!
+
++++Blue Pianta+++ Docks
+
+The market back there
+is just jumping these
+days!
+
++++Doot-Doot Sisters' Guitar Player+++ Docks
+
+Ricco's the kind of
+place songs are
+written about...
+
++++Yellow Worker+++ Base of Ricco Tower
+
+The Doot-Doot
+Sisters are here!?
+
+Wow, I'm going to
+have to quit working
+early today!
+
++++Kid Chuckster+++ Red arrow platform
+
+Surpassing my big bro
+is just a matter of
+time! I know it!
+
+Raawr!
+
++++Chuckster+++ Chuckster's platform
+
+Ohhhh! Today just
+feels different for
+some reason!
+
+I feel powerful enough
+to send you flying to
+another world!!
+
+Hurgrarararararahhhh!
+
++++Blue Sailor in Blue Uniform+++ Marketplace, near fountain
+
+Whee! Doot, doot!
+I just want to keep
+dancing forever!!
+
++++Green Sailor in White Uniform+++ Marketplace, near fountain
+
+That was the best!
+Doot doot doo-doot!
+
++++Pink Sailor in White Uniform+++ Marketplace, near fountain
+
+It's when they're not
+quite in sync that I
+dig their dancing.
+
+Doot doot doo...
+
++++Yellow Doot Doot Sister+++ Marketplace, near fountain
+
+Why are fans so dirty
+and unfashionable?
+It gets on my nerves.
+
+Doot doo doot doo...
+
++++Red Doot Doot Sister+++ Marketplace, near fountain
+
+Excuse me, sir. Could
+you step back a bit?
+Doot doot, doot doot!
+
++++Orange Tourist with Green Hat+++ Marketplace, near fruit machine
+
+Oh, hey! Could you do
+me a favor and get up
+on top of this tank?
+
+There's a switch up
+there that I'd like
+you to jump on.
+
+It looks like a piece
+of fruit's jammed
+in the pipe.
+
++++Female Child Pianta+++ Running around marketplace
+
+I want to swim with
+a duck ring, too!
+
++++Pale Sailor in Blue Uniform+++ Marketplace
+
+So, our hero is
+heading home soon?
+How sad...
+
++++Blue Sailor in White Uniform+++ Marketplace
+
+So, the fishmonger
+doesn't usually sell
+fruit, right?
+
+Well, there was a
+picture of fruit on the
+tank over there...
+
+But I haven't seen
+any fruit stands
+around at all...
+
++++Pink Female Tourist+++ Marketplace
+
+So, NOBODY'S selling
+fruit around here?
+
++++Pink Male Tourist+++ Marketplace
+
+Well, this place just
+gets more and more
+lively every day!!
+
++++Brown Male Tourist+++ Marketplace
+
+Hmmm... I just don't
+know which one to
+buy and take home...
+
+Maybe I shouldn't...
+
++++Pink Sailor in Blue Uniform+++ Marketplace
+
+I wonder if I could get
+really smart by eating
+all of the fish here...
+
++++Yellow Male Salesman+++ Marketplace
+
+I might be able to sell
+some Blooper...
+You got any?
+
++++Yellow Female Tourist+++ Marketplace
+
+Even if I bought this,
+I couldn't eat it all
+at once.
+
+I wonder if they
+sell it in smaller
+portions...
+
++++Police Chief+++ Helipad, next to helicopter
+
+Leisure is a big part
+of life, my boy!
+But so's work!
+
+It's about time for me
+to head home in
+my private helicopter.
+
+As for you, you keep
+up the good work.
+You're a spunky one!
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+8. GELATO BEACH
+
+
+
+----------EPISODE 1: DUNE BUD SAND CASTLE SECRET----------
+
++++Brown Pianta with Blue Cap+++ Entrance island
+
+Hey, you! Don't get
+the water dirty here!
+
+And don't step on
+the Duns Buds!
+
+Thanks for your
+cooperation!
+
++++Sand Cabana Owner+++ Beach, E end (E is near start island...maybe)
+
+The legendary giant
+Sand Bird will soon
+hatch from its egg.
+
+That's what the
+professor studying the
+Shine Tower said...
+
++++Green Male Pianta Kid+++ Beach, near Sand Cabana
+
+Hey, mister! A coin fell
+under the floorboards
+of this hut.
+
+If you're under there
+and can't see well, try
+pressing the Y Button.
+
++++Brown Male Noki+++ Beach, next to Dune Bud near Sand Cabana
+
+Now, this here is what
+we call a Dune Bud.
+
+Dune Buds are odd
+plants that appear
+only on this beach.
+
+If you water them,
+strange things
+will happen.
+
++++Sand Cabana Sign+++ In front of Sand Cabana
+
+
+Sand Cabana
+
+If no one's here, be
+prepared to wait for
+a loooong time.
+
++++Noki Mom+++ Beach, E end
+
+Isle Delfino is often
+referred to as a slice
+of paradise on earth.
+
+And Gelato Beach?
+Why, it's it most
+sun-kissed shore!
+
+All of the local Piantas
+and Nokis just love to
+have festivals here!
+
++++Male Noki Child+++ Beach, E end, next to his mom
+
+What's that?
+A festival? All right!
+Let's get down!
+
++++Pink Male Pianta+++ Beach, middle
+
+Have you ever heard
+of the Sand Portal?
+
+It's a sand castle that
+appears, then
+crumbles away quickly.
+
+I guess it must
+not have a very
+good foundation...
+
++++Pale Male Noki+++ Beach, W end
+
+Those large-billed
+Cataquacks tend to
+be very territorial.
+
+So, when they spot
+an outsider such as
+yourself, they go wild!
+
+They'll run up and hurl
+you into the air, but
+they mean no harm.
+
++++Pale Female Noki+++ Beach, W end, next to pale male Noki
+
+Watch out for the red
+Cataquacks! Seriously!
+They can hurt you.
+
+They only appeared
+on this beach recently.
+
++++Surf Cabana Sign+++ In front of Surf Cabana
+
+
+Surf Cabana
+
+For a limited time
+only! Famous juice
+smoothies! Yummers!
+
++++Surf Cabana Owner+++ In Surf Cabana
+
+Hey, do you see the
+jumbo juicer on top
+of this hut?
+
+That's how we make
+our special
+juice smoothies.
+
+By the way, was
+anyone out there in
+the Surf Cabana?
+
+Oh, blast it all! The
+owner must be out
+walking with her son.
+
++++Sand Bird Scientist+++ Base of the Shine Tower
+
+This tower enshrines
+the egg of the
+legendary Sand Bird.
+
+Actually, it not only
+holds the egg, it
+also keeps it warm.
+
+Which is important,
+because the egg is
+living, of course!
+
+You did see those
+gigantic mirrors,
+didn't you?
+
+They gather the sun's
+rays and reflect them
+at the tower.
+
+They've been doing
+that for over 100
+years! Isn't that wild?
+
+What's even wilder is
+that the egg is almost
+ready to hatch!
+
+That's right! The
+legendary Sand Bird
+is almost here!
+
+Just thinking about
+witnessing such an
+event is a thrill!
+
+
+
+----------EPISODE 2: MIRROR MADNESS! TILT, SLAM, BAM!----------
+
++++Brown Pianta with Blue Cap+++ Starting island, entry message
+
+Alert! Alert!
+Just look at the
+top of the tower!
+
+Some weird thing has
+curled up on the
+tower to take a nap!
+
+This could endanger
+the legendary Sand
+Bird egg!
+
++++Brown Pianta with Blue Cap+++ Same as above, not entry message
+
+Awww, I don't like the
+looks of this!
+
++++Green Male Pianta Kid+++ Beach, near Sand Cabana
+
+If we don't do
+something quick, the
+Sand Bird won't hatch!
+
++++Sand Cabana Owner+++  Beach, near Sand Cabana
+
+Those things up on
+the mirrors...
+
+I wonder if you could
+shake 'em off by
+rocking the mirrors...
+
++++Brown Male Noki+++ Next to Dune Bud next to Sand Cabana
+
+I'll have you know
+the if you use the
+Dune Buds wisely...
+
+...you can reach
+heights you never
+would normally.
+
+You know, like the
+tops of huts and
+places like that...
+
++++Male Noki Child+++ Running around E beach
+
+I'm so worried about
+the egg! Aaaaaaaa!
+
++++Noki Mom+++ Beach, E
+
+We need to get those
+mirrors back into
+position! Now!
+
++++Pink Male Pianta+++ Beach, under trees
+
+How about squirting
+those mirror-walkers?
+Think that'll do it?
+
++++Pale Male Noki+++ Beach, near Surf Cabana
+
+OK, here's what we
+need to do to save
+the egg:
+
+We need to get that
+big green caterpillar
+thing off the tower.
+
+To do that, we need
+to move the mirrors
+back into position.
+
+So, we need to get
+rid of those Plungelos
+that are up there!
+
+Then the heat from
+the mirrors will make
+the caterpillar move!
+
+Whew! What a plan!
+
++++Pale Female Noki+++ Near Surf Cabana, next to pale male Noki
+
+This guy is all talk!
+He never tries to do
+anything himself!
+
++++Surf Cabana Owner+++ In front of Surf Cabana
+
+If you look closely,
+you'll see two kinds
+of palm trees.
+
+You can climb to the
+top of the ones
+without spiky leaves.
+
++++Sand Bird Scientist+++ Base of Shine Tower
+
+I've been observing
+the egg for years, but
+this is a first!
+
+I hope the sacred egg
+can escape this
+danger unscathed.
+
+
+
+----------EPISODE 3: WIGGLER AHOY! FULL STEAM AHEAD!----------
+
++++Noki Mom+++ Beach, next to Dune Bud near Sand Cabana
+
+Don't step on the
+Dune Buds!
+
++++Brown Male Noki+++ Beach, next to Dune Bud in the E
+
+I'll protect the Dune
+Bud! You'll see!
+Urrngghh! Unnh!
+
++++Male Noki Child+++ Next to Dune Bud at circular sand
+
+Waaaah! Don't come
+this way!
+
++++Pale Male Noki+++ Next to Dune Bud in the W
+
+N-N-Now, calm down
+there, M-M-Mister
+Caterpillar!
+
+We c-c-can talk this
+over nice and slow...
+Yaaaaoooowwww!
+
++++Pale Female Noki+++ Next to Dune Bud in the W, next to pale male Noki
+
+Eeeeeek!
+We'll be crushed!
+
++++Pink Male Pianta+++ On walkway leading to Surf Cabana
+
+I think you get rid of
+that bug by stomping
+on its belly.
+
+Not that I have any
+idea how to flip
+that brute over...
+
++++Surf Cabana Owner+++ In Surf Cabana
+
+I wonder if the
+proprietress and her
+son are OK...
+
++++Police Chief+++ Outside dining area of Surf Cabana
+
+Haven't we met
+somewhere before?
+So familiar...
+
+Anyway, go give that
+caterpillar what for!
+Gaah ha ha ha!
+
++++Brown Pianta with Blue Cap+++ Sand Cabana
+
+That caterpillar sure
+woke up on the wrong
+side of the bed!
+
++++Pink Female Pianta+++ Sand Cabana
+
+I'm so disappointed
+that that thing is here
+today. Seriously...
+
+I don't get down here
+to Gelato Beach all
+that often, you know!
+
++++Sand Bird Scientist+++ Sand Cabana
+
+It's going to hatch
+any day! What's going
+to hatch, you ask?!
+
+Why, the egg of the
+legendary Sand Bird,
+of course!
+
++++Sand Cabana Owner+++ Sand Cabana
+
+Beach access is pretty
+much shot thanks to
+that big bug.
+
+On the other hand,
+I've sure got a lot
+of customers.
+
++++Green Male Pianta Kid+++ Atop the Sand Cabana's roof
+
+Well, no walkies
+today! Shoot.
+
+
+
+----------EPISODE 4: THE SAND BIRD IS BORN----------
+
++++Brown Pianta with Blue Cap+++ Starting island
+
+Hey! Guess what!
+The Sand Bird... It
+finally hatched!
+
+Don't bother looking
+for it, though. It flew
+off right away.
+
++++Brown Male Noki+++ Next to Dune Bud next to Sand Cabana
+
+That big caterpillar is
+finally gone. Whew!
+
+Now, I can get back to
+tending my Dune Buds
+in peace!
+
++++Sand Cabana Sign+++ In front of Sand Cabana
+
+
+Sand Cabana
+
+CLOSED TODAY
+
+
++++Pale Male Noki+++ Near Surf Cabana
+
+I wonder if you can
+see it from here... ?
+
+There's a coral reef
+out there that is
+quite pretty!
+
++++Pale Female Noki+++ Near Surf Cabana, next to pale male Noki
+
+This guy's a Noki, but
+he can't swim very
+well at all! Har!
+
++++Surf Cabana Sign+++ In front of Surf Cabana
+
+
+Surf Cabana
+
+CLOSED TODAY
+(Just 'cause we felt
+like resting.)
+
++++Pink Male Pianta (Chuckster this episode)+++ In front of Surf Cabana
+
+I wanna try that
+throwing thing
+sometime, too!
+
++++Sand Bird Scientist+++ Base of Shine Tower
+
+It... It... It hatched!
+The legendary Sand
+Bird is born!
+
+It broke the tower
+and flew away! That
+was unexpected...
+
++++Surf Cabana Owner (Chuckster this episode)+++ Base of Shine Tower
+
+The store is closed
+today for family
+play time.
+
+When my son slides
+down, I'm going to
+throw him back up.
+
+...But he doesn't
+seem to be coming
+down at all...
+
++++Noki Mom+++ Hill stadium
+
+You know, I was a
+pretty wild child
+back in my day.
+
+Even so, I find myself
+yelling at the kids to
+QUIET DOWN!!!
+
++++Male Noki Child+++ Hill stadium
+
+Sliding down the patch
+of odd-colored sand
+there is tons of fun.
+
+But I think sitting
+here and enjoying the
+view is nice, too.
+
++++Sand Cabana Owner+++ Hill stadium
+
+This kid keeps talking
+about jumping into
+that hole down there.
+
+It isn't just unsafe;
+it's impossible!
+Huh? YOU can do it?
+
++++Green Male Pianta Kid+++ Hill stadium
+
+I wanna slide down
+and dive onto that
+platform down there.
+
+I think I might be able
+to bounce from there
+right into that hole!
+
+
+
+----------EPISODE 5: IL PIANTISSIMO'S SAND SPRINT----------
+
++++Brown Pianta with Blue Cap+++ Starting island
+
+Once we work up a
+sweat, let's jump in
+the ocean!
+
++++Il Piantissimo+++ Beach, E end, automatic message
+
+I am Il Piantissimo!
+And now, we shall
+race to that flag!
+
+It is a race to the
+finish flag! And only
+one can triumph!
+
+By the way, the
+current record
+is ##:##:##.
+
+Are you at the ready?
+Then get set...
+and GOOOOOOOOO!
+
++++Sand Cabana Sign+++ In front of Sand Cabana
+
+
+Sand Cabana
+
+Beat Il Piantissimo!
+The goal's on the hill!
+
+
++++Pink Female Pianta+++ Fork in the road up the hill, holding a sign
+
+The goal is...
+thataway!!
+
++++Green Male Pianta Kid+++ Running around the road up the hill
+
+Il Piantissimo is
+so...very uncool!
+
++++Pink Male Pianta+++ Hill stadium
+
+Huh? You saying that
+any path's OK as long
+as you find the goal?
+
++++Police Chief+++ Hill stadium
+
+Being healthy is what
+matters most!
+Gwah ha ha haaa!
+
++++Pale Male Noki+++ Hill stadium
+
+These competitions
+seem like a waste of
+energy if you ask me.
+
++++Pale Female Noki+++ Hill stadium, next to pale male Noki
+
+This guy finishes
+every race dead last!
+
++++Sand Bird Scientist+++ Hill stadium
+
+The legendary Sand
+Bird is gone...
+
+If only it could have
+stayed with us for a
+little while...
+
++++Sand Cabana Owner+++ Hill stadium
+
+I could've made some
+money if I had opened
+a stand here...
+
++++Noki Mom+++ Hill stadium
+
+Il Piantissimo has
+been turning up all
+over lately!
+
++++Male Noki Child+++ Hill stadium
+
+This is a kind of
+festival, isn't it?
+Yeah! Get down!
+
++++Pink Female Noki+++ Hill stadium
+
+Ooh yeah! Ooh yeah!
+Sometimes, I just gotta
+dance! Sorry!
+
++++Brown Male Noki+++ Hill stadium
+
+Boy, you sure do
+have a lot of energy!
+Admirable!
+
++++Shell Player+++ Hill stadium
+
+Dootie dootie!
+Doodley-bop!
+
++++Surf Cabana Owner+++ Hill stadium, playing guitar
+
+A special juice that
+will help you beat
+Il Piantissimo?
+
+I'm sorry, we
+don't know how to
+make those...
+
++++Pink Doot Doot Sister+++ Hill stadium
+
+Do your best, guys!
+Doot doot doo...
+
++++Yellow Doot Doot Sister+++ Hill stadium
+
+You know, I'm just
+really not that into
+sweaty guys...
+
+Doot doot DOO!
+
++++Il Piantissimo+++ Hill stadium, next to flag ~ if you lose
+
+You pokey little
+flab-biscuit! I must
+laugh at you! Ha!
+
+Next time, show me
+what you've really
+got, if you please!
+
+I know we shall
+race again! Ciao!
+
++++Il Piantissimo+++ Hill stadium, next to flag ~ if you win
+
+Phew whew haaah...
+You are pretty good!
+You have some speed!
+
+You have grown ever
+so slightly in my
+esteem! Slightly!
+
+We will meet again!
+And...goodbye!
+
++++Il Piantissimo+++ Hill stadium, next to flag ~ if you win, second message
+
+That is all I wanted
+to say! Now, away
+with you! Begone!
+
+
+
+----------EPISODE 6: RED COINS IN THE CORAL REEF----------
+
++++Brown Pianta with Blue Cap+++ Starting island
+
+Ummmm, mister? You
+know where the coral
+reef is, right?
+
+There's something
+sparkling out there...
+I'm sure of it.
+
+That look in your
+eyes! I've seen it
+before! Go get 'em!
+
++++Male Noki Child+++ Beach, E end, next to his mom
+
+Hey, mom!
+Is the coral reef
+having a festival?
+
++++Noki Mom+++ Beach, E end, next to her son
+
+I don't think we have
+any festivals like that!
+
++++Green Male Pianta Kid+++ Beach, near Sand Cabana, next to his mom
+
+Hey, Ma, can I go play
+on the coral reef?
+
++++Sand Cabana Owner+++ Beach, near Sand Cabana, next to her son
+
+NO! NO! It's pretty to
+look at, but that
+place is dangerous!
+
++++Brown Male Noki+++ Beach, next to Dune Bud next to Sand Cabana
+
+Don't tell me you're
+bored. Just give out
+water now and again.
+
++++Pink Male Pianta+++ Beach, circular sand
+
+I heard that someone
+found red coins in
+the coral reef...
+
+But there are fish out
+there that'll drag you
+to the sea floor!
+
++++Pale Male Noki+++ Beach, near Surf Cabana
+
+The coral reef is nice
+to view from here...
+and it's safe, too!
+
++++Pale Female Noki+++ Beach, near Surf Cabana, next to pale male Noki
+
+I told you what a bad
+swimmer this guy was,
+right? Ha ha ha ha!
+
++++Surf Cabana Owner+++ In front of Surf Cabana
+
+The coral reef?
+
+Yeah, it's that rocky
+spot out in the water.
+
+Yeah, to the left of
+the shop! That's it!
+
++++Sand Bird Scientist+++ Base of the Shine Tower
+
+Hmmm, maybe I'll just
+buy a small bird...
+
+
+
+----------EPISODE 7: IT'S SHADOW MARIO! AFTER HIM!----------
+
++++Shadow Mario+++ Wherever you beat him ~ after you beat him
+
+Dang it!
+This ain't over!
+
++++Brown Pianta with Blue Cap+++ Starting island
+
+Hey! You! Stop
+threatening me! What?
+That wasn't you?
+
++++Green Male Pianta Kid+++ Beach, near Sand Cabana
+
+Hey, mister! How'd
+you split in two?!
+
++++Sand Cabana Owner+++ Beach, near Sand Cabana
+
+Sure seeing a lot of
+you today!
+
++++Brown Male Noki+++ Beach, next to Dune Bud next to Sand Cabana
+
+Please don't step on
+the Dune Buds in your
+big rush, Mister Man!
+
++++Sand Cabana Sign+++ Next to Sand Cabana
+
+
+Sand Cabana
+
+The Watermelon
+Festival is almost
+here! Are you ready?
+
++++Male Child Noki+++ Beach, E end, next to his mom
+
+Mommmm! When's the
+Watermelon Festival
+gonna start?
+
++++Noki Mom+++ Beach, E end, next to her son
+
+The Watermelon
+Festival's almost
+here! I can't wait!
+
++++Pink Male Pianta (Chuckster this episode)+++ Beach, circular sand
+
+And I was just having
+a nice moment, too!
+
++++Pale Male Noki+++ Beach, near Surf Cabana
+
+Very soon, the
+Watermelon Festival
+will begin!
+
+Watermelons are best
+when eaten outside on
+the beach, you know!
+
+Because then when
+you get a seed, you
+can just spit it out!
+
+Phhttthhoowweee!
+I love that!
+
++++Pale Female Noki+++ Beach, near Surf Cabana, next to pale male Noki
+
+When watermelons are
+the topic, this guy's a
+whole new person!
+
++++Surf Cabana Owner+++ In front of Surf Cabana
+
+Time to get ready for
+the festival!
+
++++Surf Cabana Sign+++ In front of Surf Cabana
+
+
+Surf Cabana
+
+The Watermelon
+Festival is almost
+here! Are you ready?
+
++++Sand Bird Scientist+++ Base of the Shine Tower
+
+This little guy's just
+too small. I want to
+buy a bigger bird...
+
+
+
+----------EPISODE 8: THE WATERMELON FESTIVAL----------
+
++++Brown Pianta with Blue Cap+++ Starting island
+
+The Watermelon
+Festival is now
+OOOOOOOOOOOPEN!
+
+Why must I stand
+here? I'd rather be
+drinking a smoothie!
+
++++Green Male Pianta Kid+++ Beach
+
+Hey, mister! Aren't'cha
+gonna be in the
+watermelon contest?
+
++++Sand Cabana Sign+++ Next to Sand Cabana
+
+
+Sand Cabana
+
+Watermelon Festival
+now starting west of
+the beach!
+
++++Male Noki Child+++ Beach
+
+Yaaay! YAAAAY!
+Watermelon Festival!
+Get down! Get down!
+
++++Pale Male Noki+++ Near watermelons
+
+I won't be joining in
+the contest this year.
+Nope. Sorry.
+
+I'm happy just to sit
+and eat watermelon...
+
++++Pale Female Noki+++ Near watermelons, next to pale male Noki
+
+He doesn't want to
+join in because he
+hates to lose!
+
++++Pink Female Pianta+++ Next to smallest of the 3 watermelons
+
+The guy next to me
+forced a coin on me,
+and then...
+
+Well, he made me
+switch watermelons
+with him. Yeah!
+
+Mine was so much
+bigger than his!
+What a meanie!
+
++++Police Chief+++ Next to middle watermelon
+
+So, how about it?
+Mine's the biggest,
+right? I mean, right?
+
+This thing is in the
+bag, man! In the bag!
+Wah ha ha har!
+
++++Brown Male Noki+++ Next to biggest watermelon
+
+I think I have the
+biggest watermelon
+right now...
+
+But what'll I do if
+somebody brings a
+bigger one?! Oh no!
+
++++Yellow Doot Doot Sister+++ In front of Surf Cabana
+
+Just roll your
+watermelon over this
+pier to the shop.
+
+Doot doot doot DOO!
+
++++Red Doot Doot Sister+++ In front of Surf Cabana
+
+The Watermelon
+Festival is about to
+end! Hurry, hurry!
+
+Good luck...
+And doot doot!
+
++++Surf Cabana Sign+++ In front of Surf Cabana
+
+
+Surf Cabana
+
+Watermelon Festival
+starting here!
+
+
++++Surf Cabana Owner+++ Surf Cabana
+
+I wanna take the
+biggest watermelon
+and make smoothies!
+
+Really good ones!
+And give them to the
+Shine Sprites!
+
+In appreciation for
+all they do for us!
+You know?
+
++++Surf Cabana Owner+++ Surf Cabana ~ give him the small watermelon
+
+Oh, no, no, NO!
+That's too small.
+Tiny, really.
+
+I guess I'll have to
+choose one of those
+three over there...
+
++++Surf Cabana Owner+++ Surf Cabana ~ give him the medium watermelon
+
+Hmmmmmmm...
+Well, that's not bad.
+But not great, either.
+
+It's not bigger than
+any of those three
+over there...
+
++++Surf Cabana Owner+++ Surf Cabana ~ give him the large watermelon
+
+Whoa! Now, that's a
+big ol' watermelon like
+I've never seen!!
+
+I don't even need to
+get out the caliper for
+this one! You win!
+
++++Noki Mom+++ Surf Cabana
+
+I wanted to get some
+juice smoothies for
+this kids, but now...
+
++++Sand Bird Scientist+++ Surf Cabana
+
+The owner of this
+shop is obsessed with
+watermelons!
+
++++Pink Male Pianta+++ Surf Cabana
+
+Have you looked up in
+the hills yet?
+
++++Sand Cabana Owner+++ Surf Cabana
+
+People who eat
+watermelon with salt
+sprinkled on it...
+
+...are not allowed in
+this contest. No.
+Strictly forbidden.
+
+Why? I don't know
+why, that's just a rule
+we've always had...
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+9. PINNA PARK
+
+
+
+----------EPISODE 1: MECHA-BOWSER APPEARS!----------
+
+~~BEACH~~
+
++++Brown Male Noki+++ Level start
+
+The entrance to Pinna
+Park is just straight
+over that way!
+
+You can't miss it!
+
++++Cannon Repairman+++ In the cannon
+
+If you're looking for
+the amusement park,
+it isn't this way...
+
+The gate is over on
+the other side of
+the beach!
+
++++4 Sunflowers+++ Grassy area
+
+Hello there!
+
++++Giant Sunflower+++ Grassy area
+
+Hello! Doesn't the
+sunshine feel lovely?
+
++++Female Red Noki+++ Park entrance
+
+Welcome to
+Pinna Park!
+
+~PARK~
+
++++Male Pianta Kid+++ Park entrance
+
+Whee! Ha! There's a
+Roller Coaster and a
+Pirate Ship and WOW!
+
++++Male Pianta Kid's Dad+++ Park entrance
+
+Whuzzah?! Who was
+that guy just now?
+
++++Park Greeter+++ Park entrance
+
+Please be careful of
+the Electro-Koopas
+around the park...
+
++++Brown Male Noki+++ Yoshi-Go-Round
+
+This is the
+Yoshi-Go-Round!
+Know about Yoshis?
+
+They used to roam
+this island freely, but
+now, they've gone...
+
++++Pink Female Noki Child+++ Yoshi-Go-Round
+
+Look at that! Only the
+orange Yoshi on the
+ride disappeared!
+
+What does it mean,
+mister? Huh? Huh?
+
++++Brown Male Noki Child+++ Yoshi-Go-Round
+
+Yoshis can turn
+anything into
+platforms!
+
+Isn't that cool?
+
++++Pale Noki Woman+++ Yoshi-Go-Round
+
+Yoshis are born from
+eggs. Yes! Eggs just
+like these!
+
++++Pink Pianta with Green Hat+++ Looking at Bowser fountain, as I call it
+
+Hunh? Did something
+run by just now?
+
++++Park Director+++ In front of Bowser fountain
+
+Oh ho! A guest!
+How fabulous!
+Welcome indeed!
+
+I am the director of
+Pinna Park! It's
+truly my pleasure!
+
+Because of these
+blasted Koopas, we
+get few visitors...
+
+Sadly, our park has
+become more than a
+bit run-down.
+
+We don't have a
+single star attraction
+to speak of!
+
++++Male Member of the Buckies+++ Clam Cups
+
+Tootie! Tootie!
+Tootle-dee-doo!
+
++++Plucky of the Buckies+++ Clam Cups
+
+La dee la! Dah dah!
+I'm Plucky of the
+Buckies! Ha ha!
+
+This clam is closed!
+Is that weird?
+
++++Lucky of the Buckies+++ Clam Cups
+
+Wah dee dah! Wah!
+I'm Lucky of the
+Buckies! Wah ha!
+
+Where are all of
+the guests?
+
++++Ducky of the Buckies+++ Clam Cups
+
+La la la! Lalalalala!
+I'm Ducky of the
+Buckies! Hee hee!
+
+Clam Cups are the
+funnest ever!
+
++++Roller Coaster Guy+++ Roller Coaster start
+
+We're currently doing
+test runs on this ride.
+Sorry, but come again!
+
++++Waterfall Ride Guy+++ Waterfall area
+
+Sorry, we're just
+about to start working
+on this ride...
+
++++Pirate Ship Guy+++ Entrance to Pirate Ship
+
+This ride is currently
+under maintenance.
+Please come again!
+
++++Ferris Wheel Lady+++ Base of the Ferris Wheel
+
+I'm terribly sorry, but
+this ride is currently
+under maintenance...
+
++++CUTSCENE: MECHA-BOWSER RISES+++ Bowser fountain
+
+FLUDD: What happened?
+Did the perpetrator get away?
+
+Park Director:
+Amazing! What a
+spectacle! Is this a
+new show of ours?!
+
+You guys are great!
+Whoever hired you
+needs a raise!
+
+I love you play
+the fearless hero and
+he's like...
+
+a bad version of you,
+but you both look the
+same and stuff!!
+
+Well, as director of
+this park, I want to
+ensure your success.
+
+So, how about I
+provide you with a
+hero's vehicle?
+
+Follow me!
+
++++CUTSCENE: BOWSER JR.+++
+
+Peach: Mario!!
+Oh!
+
+Bowser Jr.: Leave my Mama alone, you bad man!
+I won't let you take Mama Peach away!
+
+Peach: Mama?
+Mama Peach?
+I'm your...Mama?
+
+Bowser Jr.: Yeah, Papa told me all about it.
+He told me my Mama got kidnapped by a bad man named Mario...
+
+Peach: So, you're Bowser's son...
+
+Bowser Jr.: So I came here to rescue her!
+
+Peach: So the graffiti...
+...that was you?
+
+Bowser Jr.: This...is my magic brush.
+When I draw with this, all my wishes come true
+A strange old man in a white coat gave it to me...
+
+FLUDD: A strange old man...in a white coat...?
+
+Peach: But why would you pretend to be Mario?
+
+Bowser Jr.:
+Papa told me everything. He said “Mario's a bully, he never fights fair!”
+He said, “Jr. you gotta try to outsmart Mario.”
+So I tried to get Mario sent to prison,
+but they didn't lock him up,
+and now he came to steal Mama Peach again!
+You...you pest! Stop following us!
+
++++Park Director+++ In front of Bowser fountain ~ After fighting Mecha-Bowser
+
+Outstanding!
+Breathtaking!
+What a tour de force!
+
+Perhaps it'll inspire
+word-of-mouth to
+draw more visitors!
+
++++Pink Pianta with Green Hat+++ Looking at Bowser fountain ~ After battle
+
+Whuh?
+Did you just see
+something?
+
++++Male Pianta Kid's Dad+++ Park entrance ~ After fighting Mecha-Bowser
+
+Who in the...?
+Who was that guy?
+
+
+
+----------EPISODE 2: THE BEACH CANNON'S SECRET----------
+
+~~BEACH~~
+
++++Brown Male Noki+++ Entrance
+
+Tarnation! Tell them
+to stop that noise!
+
++++Sign+++ Park entrance
+
+Park Closed Due to
+Emergency!
+
+--Park Director--
+
++++Cannon Repairman+++ At entrance road, being angry at mole in his cannon
+
+Out of nowhere,
+some weird thing
+took over my place!
+
+And now, these
+explosives are flying
+everywhere!
+
+Please! You must
+help me!
+
++++4 Sunflowers+++ Grassy area
+
+Are those...fireworks?
+Are they!?
+
++++Giant Sunflower+++ Grassy area
+
+What is that?
+What a horrible racket!
+
+
+
+----------EPISODE 3: RED COINS OF THE PIRATE SHIPS----------
+
+~~Beach~~
+
++++4 Sunflowers+++ Grassy area
+
+Hello!
+
+~~Pinna Park~~
+
++++Park Greeter+++ Park entrance
+
+The Pirate Ship is
+currently our most
+popular ride.
+
+Why not give it a try?
+
++++Male Pianta Kid+++ Bottom of stairs leading to Pirate Ship
+
+Whee! Ha haaaaaaa!
+Dad! Let's ride this
+scary one!
+
++++Male Pianta Kid's Dad+++ Bottom of stairs leading to Pirate Ship
+
+Ummm, why don't you
+just go on alone?
+You'll be just fine.
+
+Daddy will stay here
+and take pictures.
+Yes, that's right...
+
++++Pink Pianta with Green Hat+++ Behind yellow gate, looking at Pirate Ship
+
+Hey! Do you see
+something shining
+way up there?
+
++++Park Director+++ Next to Clam Cups
+
+Hey there, Mr. Hero!
+Have you tried the
+Pirate Ship yet?
+
+It's a non-stop
+thrill ride!
+Hmmm? ME?
+
+No, I'm afraid I'm a
+little too old
+for such things...
+
++++Pirate Ship Guy+++ Entrance to Pirate Ship ride
+
+Every three swings,
+the ship makes a full
+rotation. Be careful!
+
+
+
+----------EPISODE 4: THE WILTED SUNFLOWERS----------
+
+~~Beach~~
+
++++Brown Male Noki+++ Entrance
+
+I didn't think Yoshis
+were bad creatures,
+that's for sure...
+
++++Sign+++ Park entrance
+
+Closed for the Day
+
+--Park Director--
+
+
+
++++Noki Mom in Blue+++ Under a tree near entrance
+
+I brought this baby to
+view the sunflowers,
+but this looks unsafe!
+
++++Giant Sunflower+++ Grassy area
+
+Because of these fake
+eggs, the Yoshis of
+this island have fled...
+
++++Half of the 4 Sunflowers+++ Grassy area
+
+These eggs are trying
+to eat us from below
+the surface!
+
+Now, our little friends
+are few in numbers...
+
++++Half of the 4 Sunflowers+++ Grassy area
+
+That egg just hatched
+on the beach!
+
++++Cannon Repairman+++ Far end of the beach, in the cannon
+
+This is too hot
+to do anything with...
+
+Would you mind
+hosing it down?
+
++++Half of the 4 Sunflowers+++ Grassy area ~ after beating all 5 fake Yoshis
+
+Thanks, mister!
+
++++Half of the 4 Sunflowers+++ Grassy area ~ after beating all 5 fake Yoshis
+
+The sun feels so
+very good!
+
++++Giant Sunflower+++ Grassy area ~ after beating all 5 fake Yoshis
+
+Thanks for helping me!
+Now, maybe the Yoshis
+will come back, too!
+
+
+
+----------EPISODE 5: THE RUNAWAY FERRIS WHEEL----------
+
+~~BEACH~~
+
++++Brown Male Noki+++ Entrance
+
+The entrance to Pinna
+Park is...
+
+Aww, you know it,
+don't you!
+
++++Noki Mom in Blue+++ Under a tree
+
+The sunflower was
+able to keep the child
+safe and sound!
+
+Now, the child will
+surely grow up to
+be big and healthy!
+
+~~PINNA PARK~~
+
++++Park Greeter+++ Park entrance
+
+Whoooaaaaaa!
+
+The wheel's out of
+control! It's just
+spinning madly!
+
++++Pirate Ship Guy+++ Pirate Ship entrance
+
+Hm?! If the Ferris
+Wheel is spinning that
+much, then...
+
++++Park Director+++ Quarter up the hill to the Ferris Wheel
+
+Hey there, Mr. Hero!
+Have you tried the
+Ferris Wheel yet?
+
+It's a delightful
+romp! What's that
+you say, now?
+
+Yes, it does seem to
+be spinning rather
+excessively. Hmmm...
+
++++Male Pianta Kid+++ Halfway up hill to Ferris Wheel (Roller Coaster entry)
+
+Wow, I like the Ferris
+Wheel even better at
+high speed!
+
+Please, can we ride
+it? PLEASE, DAD!
+
++++Male Pianta Kid's Dad+++ Next to male Pianta kid, looking at waterfall ride
+
+Some weird turtle is
+doing bad stuff back
+there! It's crazy!
+
++++Pink Pianta with Green Hat+++ Ferris Wheel entrance, being angry at lady
+
+Aww, no one can ride
+the Ferris Wheel now!
+This is so lame!
+
+When is it going
+to be fixed?
+
++++Ferris Wheel Lady+++ Ferris Wheel entrance, being angried at
+
+As you can see, it
+just spins and spins
+and spins...
+
+Sorry, but this ride is
+not working well at
+the moment...
+
++++Waterfall Ride Guy+++ Waterfall ride entrance (it has no name)
+
+Those Electro-Koopas
+are up to no good!
+
+Could you flush them
+out from back there?
+Thanks!
+
+
+
+----------EPISODE 6: THE YOSHI-GO-ROUND'S SECRET----------
+
++++Park Greeter+++ Park Entrance
+
+Whuh-whuh-WAAAA!
+Someone's found a
+Yoshi Egg!
+
+A real one!
+
++++Park Director+++ Next to Yoshi-Go-Round
+
+Hey there, Mr. Hero!
+Have you tried the
+Yoshi-Go-Round?
+
+Hmmm? Not enough
+Yoshis, you say?
+What do you...
+
+Oh, yeah! The orange
+one broke! I forgot
+about that!
+
+We lacked the funds
+to fix it, so we just
+took it off...
+
++++Brown Male Noki Child+++ Yoshi-Go-Round
+
+A Yoshi egg?!
+Now that you mention
+it, I did see an egg!
+
++++Male Pianta Kid+++ Near Pirate Ship
+
+Hey, Dad! Let's ride
+the Yoshi Egg!
+Come on!!
+
++++Male Pianta Kid's Dad+++ Next to his son
+
+I heard someone
+found a Yoshi egg!
+Where is it?
+
++++Pirate Ship Guy+++ Pirate Ship entrance
+
+Um, I didn't see any
+eggs, but...
+
++++Pink Pianta in Green Hat+++ Next to Yoshi egg, which is behind Pianta tree
+
+What the...?
+What's with this egg?
+
++++Ferris Wheel Lady+++ Ferris Wheel entrance
+
+Just to be sure, we're
+going to keep testing
+this one for a while...
+
++++Waterfall Ride Guy+++ Bottom of waterfall ride (it has no name)
+
+Well...
+Maybe this one is
+OK now...
+
+
+
+----------EPISODE 7: SHADOW MARIO IN THE PARK----------
+
++++Park Greeter+++ Park entrance
+
+My oh my oh my!
+Didn't I just see you?
+
++++Brown Male Noki+++ Clam Cups
+
+Hunh? Who was that
+weird guy?
+
++++Pale Noki Woman+++ Clam Cups
+
+Ohhh? Who was that
+weird guy?
+
++++Ducky of the Buckies+++ Clam Cups
+
+Finally, we have
+guests! I'm so happy!
+
++++Brown Male Noki Child+++ Clam Cups
+
+Wheee! Wheee!
+
++++Shadow Mario+++ Wherever you beat him ~ after beating him
+
+Darn it all!
+I'll remember this!
+
++++Pirate Ship Guy & Ferris Wheel Lady+++Pirate Ship entry, Ferris Wheel entry
+
+Running around here
+can be dangerous,
+you know!
+
++++Waterfall Ride Guy+++ Bottom of waterfall ride (it has no name)
+
+What happened here?
+Everyone's in such
+a stir!
+
++++Park Director+++ Near Bowser fountain, looking at Yoshi-Go-Round
+
+Hey there, Mr. Hero!
+I sure am seeing a lot
+of you lately!
+
++++Pink Pianta in Green Hat+++ Walking between Bowser fountain & YoshiGoRound
+
+Whuh!?? Who was
+that weird guy?
+
++++Male Member of the Buckies+++ Yoshi-Go-Round
+
+Tootie! Tootie!
+TOOOOOOOOOTIE!
+
++++Lucky of the Buckies+++ Yoshi-Go-Round
+
+Pffthh! That director
+is probably watching
+us from somewhere!
+
++++Plucky of the Buckies+++ Yoshi-Go-Round
+
+I'm pretty exhausted...
+How long do we have
+to work, anyway?
+
++++Male Pianta Kid+++ Yoshi-Go-Round, watching Buckies
+
+This isn't nearly as
+fun as the guy out
+there made it sound!
+
++++Male Pianta Kid's Dad+++ Yoshi-Go-Round, next to his son, watching Buckies
+
+You know, I've never
+heard of the Buckies!
+
+
+
+----------EPISODE 8: ROLLER COASTER BALLOONS----------
+
++++Park Greeter+++ Park entrance
+
+And now, we would
+like to re-open the
+Roller Coaster!
+
++++Male Member of the Buckies+++ Park entrance
+
+Tootie! Tootie!
+Tootle-de-doo!
+Bop-de-bop doo!
+
++++Plucky of the Buckies+++ Park entrance
+
+La dee la! Dah dah!
+I'm Plucky of the
+Buckies! Ha ha!
+
+The Roller Coaster is
+the best of the best!
+
++++Lucky of the Buckies+++ Park entrance
+
+Wah dee dah! Wah!
+I'm Lucky of the
+Buckies! Wah ha!
+
+The Roller Coaster is
+the rockingest!
+
++++Ducky of the Buckies+++ Park entrance
+
+La la la! Lalalalala!
+I'm Ducky of the
+Buckies! Hee hee!
+
+The Roller Coaster is
+now the funnest ever!
+
++++Pink Pianta in Green Hat+++ Near Pirate Ship
+
+Waaughh! I bet your
+eyes just spin back in
+your head!
+
++++Pirate Ship Guy+++ Pirate Ship entrance
+
+I wanna ride the
+Roller Coaster, too!
+
++++Male Pianta Kid's Dad+++ Halfway up hill to Roller Coaster, looking at it
+
+I think you're still too
+young for this one.
+Come on, let's go...
+
++++Male Pianta Kid+++ Halfway up hill to the Roller Coaster, looking at it
+
+Dad...
+Are you afraid?
+
++++Park Director+++ Across the bridge from Roller Coaster entrance
+
+Hey, Mr. Hero!
+The Roller Coaster is
+open for business!
+
++++Ferris Wheel Lady+++ Ferris Wheel entrance
+
+Now, everyone's only
+interested in the
+Roller Coaster!
+
++++Waterfall Ride Guy+++ Bottom of the waterfall ride (it has no name)
+
+No matter how much I
+look at it, there's
+nothing wrong.
+
+Nothing wrong...
+
++++Pale Noki Woman+++ Roller Coaster entrance
+
+You know, maybe this
+isn't such a good
+idea after all...
+
++++Brown Male Noki+++ Roller Coaster Entrance
+
+Boy, I haven't ridden
+one of these in quite
+a few years...
+
++++Brown Male Noki Child+++ Roller Coaster Entrance
+
+Wa-hoooo!
+
++++Pink Female Noki Child+++ Roller Coaster entrance
+
+Yeeee-HAAAWWWW!
+
++++Roller Coaster Guy+++ Roller Coaster entrance
+
+Welcome to the Grand
+Re-opening of the
+Roller Coaster!
+
+We've got a balloon-
+popping water rocket
+game going on!
+
+Wanna try?
+
+If no:
+Please come again!
+
+If yes:
+If you can hit all of
+the balloons with
+water rockets
+
+before the Roller
+Coaster makes three
+loops, you win!
+
+And then we will
+give you a prize!
+Good luck!
+
+If you win:
+You did it!!
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+10. Sirena Beach
+
+
+
+----------EPISODE 1: THE MANTA STORM----------
+
++++Male Noki in Green+++ Left of the center fountain
+
+What a cool-looking
+sunset. Spectacular!
+
++++Female Noki in Green+++ Left of the center fountain
+
+I heard this is a
+great hotel! I can't
+wait to see my room.
+
++++Male Noki in Brown+++ Right of the center fountain
+
+Awwwwwwww...
+I must have the worst
+luck in the world...
+
+Oh, well! Looks like
+another night of
+camping on the beach.
+
++++Female Noki in Blue+++ Right of the center fountain
+
+I wonder if this
+fellow can truly
+make me happy...
+
++++Female Pianta Under Roof+++ In the left hut
+
+I don't know why, but
+this was a safe place
+when the goop fell...
+
++++Fruit Guy+++ In the right hut
+
+I was under the roof,
+so I didn't get
+drenched in slime.
+
++++Red Female Pianta in Hat+++ Yelling at the Hotel Owner
+
+Hey! What's going on!
+What's this nonsense?
+You! Fix it! Now!
+
++++Brown Male Pianta in Hat+++ Yelling at the Hotel Owner
+
+Wha...what? WHAT?
+The hotel's vanished?
+What does that mean?
+
++++Blue Sweeping Pianta+++ Sweeping goop left of the hotel space
+
+Hmph! I guess I'd
+better start looking
+for a new job, huh?
+
++++Red Sweeping Pianta+++ Sweeping goop right of the hotel space
+
+My other pants were
+in my locker. Now, the
+whole hotel's gone!
+
++++Hotel Owner+++ In front of the hotel space
+
+Oh, please tell me
+my nightmare is over!
+You can save me!
+
+I don't know why, but
+you just look very...
+capable to me.
+
+Listen...it all started
+around noon. This
+giant manta-shaped...
+
+...thing showed up. It
+was this paper-thin...
+floating silhouette.
+
+It came and covered
+the hotel grounds in
+this electric goop.
+
+Then... Oh, the horror!
+My beautiful hotel!
+My poor building!
+
+It sank in the middle
+of that awful ooze!
+Why me? WHY???
+
+Now, I've got the staff
+cleaning up, but
+where's my hotel?
+
+What am I supposed
+to do? I can't just
+sit back and...
+
+AIIIIGH! It's back!
+That gossamer ghoul!
+Do something!
+
++++Male Noki in Green+++ Left of the center fountain ~ after hotel reappears
+
+OK, then. I guess
+it's about time
+to check in.
+
++++Female Noki in Green+++ Left of the center fountain ~ after hotel reappears
+
+How romantic..
+Tee hee!
+
++++Male Noki in Brown+++ Right of the center fountain ~ after hotel reappears
+
+Well, who knows?
+Maybe my luck's
+beginning to turn...
+
++++Female Noki in Blue+++ Right of the center fountain ~ after hotel reappears
+
+I actually think I
+see a ray of hope...
+
++++Red Female Pianta in Hat+++ Yelling at Hotel Owner ~ after hotel reappears
+
+Hey! What is this?
+Is this a prank?
+Don't try to fool me!
+
++++Brown Male Pianta in Hat+++ Yelling at Hotel Owner ~ after hotel reappears
+
+Wha...what? The
+hotel's back?
+This is just crazy!
+
++++Blue Pianta Employee+++ Left of the hotel ~ after the hotel reappears
+
+Oh, this is great!
+Thanks to you, I've
+still got a job!
+
++++Red Pianta Employee+++ Right of the hotel ~ after the hotel reappears
+
+I hope my pants
+survived the
+ordeal intact...
+
++++Hotel Owner+++ In front of the hotel ~ after the hotel reappears
+
+Fantastic!
+You're amazing!
+You're my hero!
+
+I was just flapping
+my gums about getting
+rid of that thing...
+
+I didn't believe
+you'd actually do it!
+
+
+
+----------EPISODE 2: THE HOTEL LOBBY'S SECRET----------
+
+~BEACH~
+
++++Male Noki in Brown+++ Right of the center fountain
+
+We can't go in yet,
+can we?
+
+Yeah, that's pretty
+much what I figured.
+
+They probably lost
+our reservations or
+something anyway...
+
++++Female Noki in Blue+++ Right of the center fountain
+
+I'm beginning to
+have my doubts
+about this guy...
+
++++Female Pianta Under Roof+++ In left hut
+
+To tell the truth, I
+was worried about
+what might happen...
+
++++Male Noki in Green+++ Next to the left hut
+
+What's the holdup?
+Can I get checked in
+here, or what?
+
++++Female Noki in Green+++ Next to left hut
+
+I'm utterly exhausted.
+Please let me rest.
+
++++Blue Pianta Employee+++ Next to left hut, talking to the Nokis in green
+
+My apologies, but the
+hotel is currently
+still being prepared.
+
+We'll let you in as
+soon as we're able.
+Please be patient.
+
++++Brown Male Pianta in Hat+++ Next to the hotel
+
+Wha...what?
+We STILL can't go in?
+What's going on?
+
++++Red Female Pianta in Hat+++ Next to the hotel
+
+Listen to me! We're
+not going to stand
+for this! No no NO!
+
++++Red Pianta Employee+++ Next to the hotel, talking to the yelling Piantas
+
+Look, I'm sorry.
+So very sorry.
+Really, awfully sorry.
+
+I just work here.
+I don't know anything.
+So, please don't yell.
+
++++Hotel Owner+++ In front of the hotel
+
+Hey! Ummmmm...
+It's...Mario, right?
+Yeah. Mario.
+
+List, I, uh, have a
+feeling you can
+help me out again...
+
+See, the hotel, it's...
+Well, it's full of...
+It's full of ghosts!
+
+So, well, could you
+maybe... Look, just
+come inside, please.
+
+I can tell you're a
+miracle worker.
+Don't be so modest.
+
+~HOTEL~
+
++++Hotel Owner+++ At the entrance
+
+At this rate, I'll never
+get back home...
+
+Can't you do
+something?
+Please, Mario!
+
++++Fruit Guy+++ Running around near the check-in counter
+
+Waaah! Help meeeeee!
+
++++Check-In Guy+++ Near the totem pole, looking at it
+
+I was looking at this
+weird opening on top
+of the totem pole...
+
+...and suddenly ghosts
+came popping out! It
+really spooked me...
+
+
+
+----------EPISODE 3: MYSTERIOUS HOTEL DELFINO----------
+
+~BEACH~
+
++++Female Pianta Walking Along Beach+++ Walking along left side of the beach
+
+It's about 45 steps
+from there to there,
+wouldn't you say?
+
++++Brown Male Noki+++ Right side of the beach, dancing to Doot-Doot Sisters
+
+We get to have the
+Doot-Doot Sisters
+all to ourselves?
+
+Doot-doot!
+
++++Pink Female Noki+++ Right side of the beach, dancing to Doot-Doot Sisters
+
+The sunset!
+The music!
+It's all too much!
+
++++Yellow Doot-Doot Sister+++ On right side of the beach
+
+When they're done
+listening, we're
+done dancing...
+
+Doot-doot!
+
++++Red Doot-Doot Sister+++ On right side of the beach
+
+Nobody will notice us
+dancing over here...
+Doot-doot!
+
++++Doot Doot Sisters' Guitar Player+++ On right side of the beach
+
+Laugh...when you
+feel like crying...
+Doo de doot doo...
+
+Laugh...when you feel
+like creaming...
+Doot doot de DOO!
+
++++Brown Female Noki+++ Running on the beach
+
+The sunset just made
+me want to run
+with wild abandon...
+
++++Pale Male Pianta in Glasses+++ Walking around part of the right fountain
+
+You out for a
+leisurely stroll?
+
++++Resting Green Male Pianta+++ Sitting on one of the left chairs
+
+A day of relaxing by
+the sea just washes
+your troubles away.
+
++++Male Noki in Green+++ Sitting on one of the center chairs
+
+Excuse me, but if you
+stand there, I can't
+see the sunset.
+
++++Female Noki in Green+++ Sitting on one of the center chairs
+
+How beautiful!
+I'm so happy
+we came.
+
++++Reddish Male Noki in Brown+++ Next to right hut
+
+My girl, she just got
+up and sprinted
+toward the sea. Oh...
+
++++Female Pianta Under Roof+++ In left hut, talking to Nokis
+
+Sorry, we're all out.
+These are just
+samples. Sorry...
+
++++Male Noki in Brown+++ In left hut, talking to Pianta
+
+The guy in front of me
+got the last one.
+I'm so unlucky...
+
++++Female Noki in Blue+++ In left hut
+
+I'm parched...
+
++++Hotel Owner+++ In front of hotel
+
+Ahhh, dear Mario!
+Please, come right in!
+
+Do I sense some
+reluctance? Come
+now, don't dawdle.
+
+~HOTEL~
+
++++Hotel Owner+++ In front of entrance
+
+Oh, Mario, are you
+leaving us already?
+
+Please do reconsider!
+Stay with us for
+just a while longer.
+
++++Check-In Guy+++ At check-in counter
+
+A very unusual egg
+arrived today. Who
+could it belong to...?
+
+Ah! By any chance,
+is this yours, Mario?
+
++++Red Pianta Employee+++ In front of casino doors
+
+My apologies, but the
+casino is not open for
+business quite yet.
+
++++Blue Pianta Employee+++ Sweeping floor near the fruit shop
+
+This hotel is outfitted
+with the finest auto-
+lock system available.
+
+Security here is
+top-notch! No
+worries at all!
+
+We do have trouble
+getting around,
+however...
+
++++Fruit Guy+++ In fruit shop
+
+Yes, sir! We can meet
+all of your fruit
+needs! What'll it be?
+
+Eh? Pineapple? Oh...
+Hm, that's odd... I had
+some this morning...
+
++++Brown Male Pianta in Hat+++ Next to the men's room
+
+I lost it when I heard
+this was a four-star
+resort! I mean, c'mon!
+
+Water damage in the
+restrooms? That is
+SO low class!
+
++++Female Pianta in Ladies' Room+++ In ladies room
+
+Eeeek! What are you
+doing in here?!
+
+The men's room is on
+the other side!!
+
++++Red Female Pianta in Orange+++ In pool room
+
+Hey! That sparkle!
+Could it be a
+Shine Sprite?
+
++++Blue Male Pianta With Swimwear+++ In pool room
+
+Hey, you! No one in
+the pool without
+proper swimwear!!!
+
++++Male Noki in White+++ In the room with an open door
+
+Oh, hi there!
+
+My door's open, and
+there's nothing to
+be suspicious of...
+
+How about a game of
+jacks? Ha ha ha ha!
+
++++Female Noki in Purple+++ In the room with an open door, next to above Noki
+
+Umm, er, yeah...right.
+
++++Yellow Female Pianta in Pure Orange+++ In the room with the Boo painting
+
+I get a really creepy
+vibe from this...
+weird painting.
+
+But you want to know
+what I find even
+creepier than that?
+
+...Imagining how
+you got in here!
+
++++Red Male Noki in Blue+++ In room with the Boo closets
+
+S-S-Suddenly, a
+g-g-ghost came out
+of the c-c-closet!
+
++++Female Noki in Pink with Big Hat+++ In room with the Boo closets
+
+Eeeeeeeeeeeeeeek!
+
++++Yellow Female Pianta in Orange+++ In room with the big pool & red Boos
+
+Do something about
+these ghosts!
+
+...And get out of
+my room, you weirdo!
+
++++Pink Female Noki in Blue+++ In room with the shelf
+
+Wait a minute! Where
+did you come from?
+I'm calling for help!
+
++++Red-Brown Male Pianta+++ In room with Boo poster
+
+Now, where did I put
+that thing...
+
+Hey, have you seen
+a pineapple anywhere
+around here?
+
++++Red Female Pianta in Hat+++ Room with blank poster that makes a blue shine
+
+Hey, you! Have you
+lost your mind?!
+
+You can't just barge
+into a lady's room!
+It's just not done!
+
+Get out! OUT!
+Shoo! Shoo! Shoo!
+
++++Pianta Employee in Attic+++ In the attic maze
+
+All these ghosts are
+causing such trouble...
+They're everywhere!
+
+Why can't someone
+come along and suck
+'em up with a vacuum?
+
+What? Why are you
+looking at me
+like that?
+
+
+
+----------EPISODE 4: THE SECRET OF CASINO DELFINO----------
+
+~BEACH~
+
++++Female Pianta Walking Along Beach+++ Walking along left side of the beach
+
+I'm pretty sure it's
+about 45 paces from
+there to there...
+
++++Brown Male Noki+++ Right side of beach, dancing to the Doot-Doot Sisters
+
+Waaaaaa HOOOOO!
+I just want to
+dance forever!
+
+Doot-doot!
+
++++Pink Female Noki+++ Right side of beach, dancing to the Doot-Doot Sisters
+
+Seriously, could we
+be any happier
+Doot-de-doot-DOO!
+
++++Yellow Doot-Doot Sister+++ Right side of the beach
+
+I hope these folks
+go home soon...
+Doot-doot!
+
++++Red Doot-Doot Sister+++ Right side of the beach
+
+This is a terrible place
+to be dancing...
+Doot-doot!
+
++++Doot-Doot Sisters' Guitar Player+++ Right side of the beach
+
+You should be
+headin' home...
+Doot doot doot doo!
+
+It's so dark and
+you're all alone...
+Dootie doo doot DOO!
+
++++Brown Female Noki+++ Running on the beach
+
+The sunset just set
+me running. I can't
+explain it...
+
++++Male Noki in Green+++ On one of the center chairs
+
+Excuse me, but I can't
+see the sunset with
+your head in the way.
+
++++Female Noki in Green+++ On one of the center chairs
+
+This is just gorgeous!
+Coming here was such
+a great idea.
+
++++Resting Green Male Pianta+++ On one of the left chairs
+
+You can forget all of
+your troubles on a
+day like this. Yup.
+
+The relaxing air...
+The power of the
+sea... Fantastic.
+
++++Pale Male Pianta in Glasses+++ Walking around right fountain
+
+You taking in the
+sunset with a nice
+evening walk?
+
++++Reddish Male Noki in Brown+++ Next to right hut
+
+What would make my
+girl just up and sprint
+for the beach?
+
++++Female Pianta Under Roof+++ In left hut, talking to Nokis
+
+We're really sold out.
+Honest! These are
+just samples. Sorry...
+
++++Male Noki in Brown+++ In left hut, talking to Pianta
+
+I think this lady
+is hiding something
+from me...
+
++++Female Noki in Blue+++ In left hut
+
+I'm so thirsty...
+
++++Hotel Owner+++ In front of hotel
+
+Well now, Mario!
+You really should
+drop by the casino.
+
+I'll let my boys
+know you're coming.
+Go on, now!
+
+~HOTEL~
+
++++Hotel Owner+++ In front of entrance
+
+Mario, enjoy yourself
+in the casino. The
+bellhop will let you in.
+
++++Blue Pianta Employee+++ Sweeping floor near fruit shop
+
+Gosh! We're so busy!
+
++++Fruit Guy+++ In fruit shop
+
+Hunh? We don't have
+any fish here...
+
++++Check-In Guy+++ At the check-in counter
+
+Thanks to Mario, our
+hotel is once again
+cozy and respectable!
+
++++Brown Male Pianta in Hat+++ Next to the men's room
+
+You need a restroom,
+go on in. It's not like
+there's a line.
+
++++Female Pianta in Ladies' Room+++ In the ladies' room
+
+You came in KNOWING
+it was the ladies'
+room?! Shameful!
+
++++Red Female Pianta in Orange+++ In pool room
+
+I hate the crowds
+and...GAH! The noise!
+
++++Blue Male Pianta with Swimwear+++ In pool room
+
+There doesn't seem to
+be anyone else
+besides us here.
+
++++Female Noki in Purple+++ In the room with an open door
+
+Whew...
+Bouncing on beds is
+soooo much fun...
+
++++Male Noki in White+++ In the room with an open door
+
+Awww, linguini!
+What did I do now?
+
++++Pianta Employee in Attic+++ In the attic maze
+
+You're a pretty greedy
+little coin-grubber,
+aren't you?
+
++++Red Female Pianta in Hat+++ Room with blank poster that makes a blue shine
+
+So, um... Exactly why
+are you here, again?
+
++++Yellow Female Pianta in Pure Orange+++ In room with the Boo painting
+
+So, tell me... Is my
+room just a shortcut
+now, or what?!
+
++++Red Male Noki in Blue+++ In room with the Boo closet
+
+Hey, listen... Would
+you mind being a bit
+more...polite?
+
++++Pink Female Noki with Big Hat+++ In room with the Boo closet
+
+......
+
++++Yellow Female Pianta in Orange+++ In room with the big pool
+
+So, um... Nothing
+much bothers you,
+does it?
+
++++Pink Female Noki in Blue+++ In room with the shelf
+
+If you don't need
+anything, would you
+mind leaving?
+
++++Red-Brown Male Pianta+++ In room with the Boo poster
+
+Are you lost or
+something?
+
++++Red Pianta Employee+++ In front of casino doors
+
+Ahh, Mario! Right this
+way, please!
+
+~CASINO~
+
++++Male Pianta in Uniform+++ At casino entrance
+
+Settle in and make
+yourself at home, OK?
+Enjoy yourself.
+
++++Green Male Pianta in Blue Coat+++ Left from entrance
+
+The games are rigged!
+Where's the manager?!
+I want my coins back!
+
++++Female Noki in Purple with Black Hair+++ On a stool left from entrance
+
+I'm about to get hot!
+...But that's usually
+when I start losing...
+
++++Brown Male Noki in Brown & Gray+++ On a stool left from entrance
+
+Oog... I haven't eaten
+anything yet today...
+
++++Male Pianta in Brown Coat with Hat+++ At the left Jumbo Slots
+
+This is the first time
+I've ever seen
+water-powered slots!
+
++++Red Female Pianta in Blue-Green Dress+++ At the left Jumbo Slots
+
+I wonder if this thing
+ever breaks down and
+spews out coins?
+
++++Purple Male Noki in Green+++ At the curtains
+
+Waaaugggh!
+I used up ALL of
+my coins!
+
++++Yellow Male Pianta in Sailor Uniform+++ At the curtains
+
+Ah, the Jumbo Slots...
+
+Well, triple 7s is
+obviously the best
+you can do.
+
+I've yet to see
+anyone get triple 7s
+on BOTH slots!
+
++++Purple Male Pianta in Leaf Shirt+++ Between curtains and right Jumbo Slots
+
+All right! I'm ready to
+bet it all on this big
+roulette wheel.
+
+So...when does it
+start spinning?
+
++++Yellow Female Pianta in Purple+++ At right Jumbo Slots
+
+What? You mean I
+can't get any juice
+in here?
+
++++Pale Male Noki in Blue+++ At the right Jumbo Slots
+
+Whoa! This is huge!
+
+
+
+----------EPISODE 5: KING BOO DOWN BELOW----------
+
+~BEACH~
+
++++Female Pianta Walking Along Beach+++ Walking on the left side of the beach
+
+I believe it's about
+45 steps from there
+to there. Yes, I do.
+
++++Brown Male Noki+++ Right side of the beach, dancing to Doot-Doot Sisters
+
+Oooh, I can feel it!
+Here comes the beat!
+Gonna dance all night!
+
+Dootie-doot, yeah!
+
++++Pink Female Noki+++ Right side of the beach, dancing to Doot-Doot Sisters
+
+Yeah, I'm feeling it!
+What great music!
+Doot-doot, c'mon!
+
++++Yellow Doot-Doot Sister+++ On right side of the beach
+
+I think I'm going to
+collapse soon...
+Doot-doot.
+
++++Red Doot-Doot Sister+++ On right side of the beach
+
+This is the worst
+crowd ever...
+Doot-doot.
+
++++Doot-Doot Sisters' Guitar Player+++ On right side of the beach
+
+What're ya thinkin'?
+It's time to go!
+De doot de doo...
+
+Get yourself a clue,
+can't play no mo'!
+De doot doot DOO!
+
++++Brown Female Noki+++ Running on the beach
+
+Now, why isn't he
+chasing me?
+
++++Pale Male Pianta in Glasses+++ Walking around the right fountain
+
+You taking a relaxing
+walk, too? Nice.
+
++++Resting Green Male Pianta+++ On one of the left chairs
+
+I love just sitting
+and staring out
+at the gentle sea.
+
+All the small details
+of life just don't seem
+to matter that much.
+
++++Male Noki in Green+++ On one of the center chairs
+
+It's really tough to
+appreciate the sunset
+through your noggin.
+
++++Female Noki in Green+++ On one of the center chairs
+
+This sunset is just
+about the prettiest
+thing I've ever seen!
+
++++Reddish Male Noki in Brown+++ Next to right hut
+
+Is it normal for girls
+to suddenly run for
+the ocean? Ohhhh...
+
++++Female Pianta Under Roof+++ In left hut, talking to Nokis
+
+Sorry... No juice...
+
++++Male Noki in Brown+++ In left hut, talking to Pianta
+
+Do you have any
+water? Or juice?
+...Sigh...
+
++++Female Noki in Blue+++ In left hut
+
+We might as well just
+go to our room...
+
++++Hotel Owner+++ In front of the hotel
+
+Ah! Mario! Mario!
+The casino's this way!
+Well, actually...
+
+I must admit that,
+unfortunately, the
+casino's closed today.
+
+You see, there are
+creepy sounds coming
+from the basement...
+
+Could we trick you...
+I mean, ask you for your
+help? Oh, thank you!
+
+~HOTEL~
+
+Believe it or not, every single message in the hotel is the same as it was in
+episode 4.   This includes the 'enjoy yourself in the casino' message, which
+is more than a bit odd...
+
+~CASINO~
+
++++Male Pianta in Uniform+++ At the casino entrance
+
+Hey! That color on the
+roulette wheel...
+That's not normal...
+
++++Yellow Male Pianta in Sailor Uniform+++ At the curtains
+
+This doesn't look
+quite right.
+Something's weird...
+
+
+
+----------EPISODE 6: SCRUBBING SIRENA BEACH----------
+
++++Hotel Owner+++ Beach ~ automatic message when you start the level
+
+Mario! We've
+got trouble!
+
+That electric goop
+is back! Where?
+Everywhere!
+
++++Hotel Owner+++ Beach, near the path
+
+Time's running out!
+Hurry! Hurry!
+
++++Male Noki in Brown+++ Near the center chairs, covered in goop
+
+But why, oh, why did
+this happen to us?
+I'm so unlucky...
+
++++Female Noki in Blue+++ Near the center chairs, covered in goop
+
+We ARE unlucky,
+aren't we?
+
++++Male Noki in Green+++ Between center & left fountains, covered in goop
+
+Lucky for all of us
+you were around! Us?
+Lucky? Imagine that.
+
++++Female Noki in Green+++ Between center & left fountains, covered in goop
+
+We ARE lucky!
+
++++Blue Pianta Employee+++ Below the left hut
+
+Thanks for your
+cooperation. Now
+for more scrubbing...
+
++++Red Pianta Employee+++ Below the right hut
+
+We have really thick
+soles, so electricity
+is no big thing!
+
++++Hotel Owner+++ Beach, near the path ~ once you finish
+
+Wow! That was great!
+I never expected you
+to do it so easily.
+
+Fantastic, Mario!
+
++++Hotel Owner+++ Beach, near the path ~ once you finish ~ second talk on
+
+Thank you very much!
+
+
+
+----------EPISODE 7: SHADOW MARIO CHECKS IN----------
+
+~BEACH~
+
++++Red Male Noki in Blue+++ Near left chairs
+
+Do you think it
+could be more
+ghosts, or what?
+
++++Pink Female Noki with Big Hat+++ Near left chairs
+
+I've had it with
+this hotel.
+
++++Yellow Female Pianta in Pure Orange+++ Next to right fountain
+
+I wonder what's
+happened?
+
++++Male Noki in Brown+++ Next to right fountain
+
+I'm getting to be a
+seasoned traveler
+with all this fuss!
+
+Bring on more trouble!
+I double-dare you!
+Ha ha ha ha!
+
++++Female Noki in Blue+++ Next to right fountain
+
+You know, this is
+getting to be
+kind of fun!
+
++++Female Pianta in Ladies' Room+++ (she's not there now) Near center chairs
+
+Hey! You remember
+to stay out of the
+ladies' room!
+
++++Male Noki in Green+++ Next to left hut, talking to Pianta
+
+What happened? I
+deserve to know that
+much, at least!
+
++++Female Noki in Green+++ Next to left hut, talking to Pianta
+
+Evacuate? Everyone?
+What on earth
+happened in there?
+
++++Blue Pianta Employee+++ Next to left hut, talking to Nokis
+
+Well, actually, I'm
+not sure what's going
+on myself.
+
++++Red Female Pianta in Hat+++ Near hotel, yelling at Pianta
+
+What? Wait a--
+What is going on?
+You! Do something!
+
++++Brown Male Pianta in Hat+++ Near hotel, yelling at Pianta
+
+Wha...what?
+Evacuation?
+What does that mean?
+
++++Red Pianta Employee+++ Near hotel, talking to Piantas
+
+I'm really sorry, but
+I have no clue as to
+what's happening.
+
++++Hotel Owner+++ In front of hotel
+
+Ah! Mario! There's a
+troublemaker inside
+who looks like you!
+
+Hurry! Get in there!
+
+~HOTEL~
+
++++Hotel Owner+++ Hotel entrance
+
+Oh, now, Mario! It's a
+bit early to be
+leaving, isn't it?
+
++++Fruit Guy+++ In fruit shop
+
+You certainly are
+noisy this evening!
+
++++Check-In Guy+++ At the check-in counter
+
+Oh! Mario! Didn't you
+just come through
+here a moment ago?
+
++++Pianta Employee in Attic+++ In the attic maze
+
+Why bother cleaning
+this place?! Nobody
+ever comes anyway!
+
++++Shadow Mario+++ Where you beat him ~ when you beat him
+
+Yaaaaargh!
+You're so annoying!
+
+
+
+----------EPISODE 8: RED COINS IN THE HOTEL----------
+
+~BEACH~
+
++++Female Pianta Walking Along Beach+++ Walking on left half of the beach
+
+I think I may have
+lost some weight...
+
++++Brown Male Noki+++ On right side of the beach, dancing to Doot-Doot Sisters
+
+Yippee! C'mon
+everybody! Dance!
+Do the doot-dance!
+
++++Pink Female Noki+++ Right side of the beach, dancing to Doot-Doot Sisters
+
+This is the best!
+I can't stop!
+I'm dooting out!
+
++++Yellow Doot-Doot Sister+++ On right side of the beach
+
+My feet hurt, and my
+arms feel like lead.
+Oh, and DOOT-DOOT!
+
++++Red Doot-Doot Sister+++ On right side of the beach
+
+If we keep this up,
+someone may notice...
+De doot-doot!
+
++++Doot-Doot Sisters' Guitar Player+++ On right side of the beach
+
+Woo, sunset dancin'...
+Gonna dance all night!
+Doot-doot!
+
+All night dancin'...
+No sleepin' tonight!
+Dootie-doot!
+
++++Brown Female Noki+++ Running on beach
+
+So, he finally
+gets it...
+Tee hee hee!
+
++++Reddish Male Noki in Brown+++ Running on beach
+
+Oh! The freedom!
+The sunset! Running
+around is amazing!
+
++++Pale Male Pianta in Glasses+++ Walking around right fountain
+
+I'm getting hungry...
+
++++Resting Green Male Pianta+++ On one of the left chairs
+
+Whew... It's about
+time to go back to
+the room...
+
++++Male Noki in Green+++ On one of the center chairs
+
+You know what you're
+blocking right now?
+The sunset.
+
++++Female Noki in Green+++ On one of the center chairs
+
+How splendid.
+This vacation was
+SUCH a fine idea!
+
++++Female Pianta Under Roof+++ In left hut, talking to Nokis
+
+I'm pretty sure we're
+getting restocked in
+just a moment...
+
++++Male Noki in Brown+++ In left hut, talking to Pianta
+
+You know what?
+I don't think they
+ever have drinks here!
+
++++Female Noki in Blue+++ In left hut
+
+I'm so thirsty, I could
+drink some of that
+disgusting goop...
+
++++Hotel Owner+++ In front of hotel
+
+Mario!
+Please, do come in.
+
+~HOTEL~
+
++++Hotel Owner+++ Hotel entrance
+
+Now, Mario, please!
+Enjoy yourself,
+would you?
+
++++Blue Pianta Employee+++ Washing floor near the fruit shop
+
+Psst! Mario! Wanna
+give me a hand
+cleaning? No, huh?
+
++++Fruit Guy+++ In the fruit shop
+
+Err, we only stock
+fruit here, sir...
+
++++Check-In Guy+++ At the check-in counter
+
+Red coins? Yep, I
+don't know much
+about those...
+
++++Brown Male Pianta in Hat+++ Next to the men's room
+
+What in the world
+are you running
+around for?!
+
++++Female Pianta in Ladies' Room+++ In the ladies' room
+
+No matter how many
+times I tell you, you
+keep coming back!
+
++++Red Female in Orange+++ In the pool room
+
+Should I call the
+front desk and ask
+for more water?
+
++++Blue Male Pianta with Swimwear+++ In the pool room
+
+You can't really swim
+when the water's
+this shallow.
+
++++Male Noki in White+++ In the room with an open door
+
+OK, now try saying
+“pizza” ten times
+fast! Ha ha ha!
+
++++Female Noki in Purple+++ In the room with an open door
+
+Whew...
+
++++Pianta Employee in Attic+++ In the attic maze
+
+Did you ever think
+that you might be
+tracking dirt around?
+
++++Yellow Female Pianta in Pure Orange+++ In the room with the Boo painting
+
+Maybe I should get a
+different room...
+
++++Red Male Noki in Blue+++ In the room with the Boo closet
+
+Look, you can have
+that coin if you just
+get out of here!
+
++++Pink Female Noki with Big Hat+++ In the room with the Boo closet
+
+Well, excuse ME!
+Hrrmph!!
+
++++Yellow Female Pianta in Orange+++ In the room with the big pool
+
+As long as you're
+here, use that pump
+to clean the tub!
+
++++Pink Female Noki in Blue+++ In the room with the shelf
+
+You again?!
+
++++Red-Brown Male Pianta+++ In the room with the Boo poster
+
+I haven't seen
+any red coins...
+
++++Red Female Pianta in Hat+++ In room w/ blank poster that makes a blue shine
+
+What makes you think
+you can just waltz in
+here and poke about?
+
++++Red Pianta Employee+++ In front of the casino doors
+
+My apologies, but the
+casino is note quite
+ready for business.
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+11. Noki Bay
+
+
+
+----------EPISODE 1: UNCORK THE WATERFALL----------
+
++++Old Noki Fisherman+++ Level start
+
+Ahhh, welcome!
+Master Mario,
+I presume?
+
+We have heard much
+about you! Yes, and
+all of it good!
+
+As for me, I am just
+an old man who loves
+nothing but fishing.
+
+But lately, I have had
+a terrible problem...
+Please look up there.
+
+I don't know who
+did it, but someone
+corked our waterfall!
+
+This, no doubt, is why
+our lovely bay has
+become polluted!
+
+And I can't even fish!
+And so, I ask for your
+help. Yank that cork!
+
+Please fulfill this old
+man's wish... COUGH!
+HACKPTH! HACKPTH!
+
+What's that? You'll
+do it?! Oh, thank you!
+Thank you so much!
+
+I knew I could count
+on you. Just beware
+that guy on the cork!
+
++++Old Noki Fisherman+++ Level start ~ second talk on
+
+And on the way, do
+you mind cleaning up
+that graffiti? Thanks!
+
+Hyo ho ho ho!
+
++++Mudboat Sign+++ At the mudboat shop
+
+M U D B O A T
+ R E N T A L
+-90,000 COINS-
+Mudboats Are Fun!
+  Come Aboard!
+
++++Mudboat Shop Owner+++ At the mudboat shop
+
+Oh, greetings!
+I live here and rent
+boats, usually, but...
+
+All my boats washed
+away, so I'm having a
+rough time of it now...
+
++++Noki Grandson+++ Below the ledge that has a 1-up
+
+Oh, are you Mario!?
+That guy down there's
+my teacher...
+
+I mean, my grandpa!
+Heh heh! That cork is
+farther up ahead...
+
+Be careful, though!
+There's a weird guy
+perched on top of it.
+
+He'll start tossing
+explosives at you
+if you get too close!
+
+I thought you might
+need help, so I got
+you this springboard.
+
+If you spray it, it'll
+shrink and be easy to
+carry. Please use it!
+
+
+
+----------EPISODE 2: THE BOSS OF TRICKY RUINS----------
+
++++Noki Grandson+++ Level start
+
+Mario, thanks for all
+your help earlier! That
+was truly spectacular!
+
+Would you mind being
+my new teacher?
+I mean... Never mind!
+
+My grandpa's up
+ahead, and he wants
+to tell you something.
+
++++Old Noki Fisherman+++ At the base of the first wall jumping maze
+
+Excellent! Way to go,
+Master Mario!
+
+You have returned our
+waterfall to normal!
+Bravo!
+
+What's that?
+The ocean's still
+dirty? Strange...
+
+It looks like my
+theory was way off!
+Hyo ho ho HACKPTH!
+
+That's OK. I think
+I've got a lead on
+the real cause...
+
+Now, this may not
+seem like much of
+a reward, but...
+
+I'm going to reveal to
+you one of Noki Bay's
+deepest secrets!
+
+This bay actually
+contains the tomb of
+an ancient Noki king!
+
+When you spray water
+on the wall paintings,
+a path usually opens.
+
+It's almost like magic!
+And one path leads to
+a hidden Shine Sprite!
+
+Honest! This is all
+true! Maybe...
+
++++Old Noki Fisherman+++ At base of first wall jumping maze ~ second talk on
+
+Spray them with
+water! Hyo ho ho ho!
+
++++Mudboat Shop Owner+++ At the mudboat shop
+
+Now that our waterfall
+is back to normal, I
+can resume business!
+
+Thanks, Master Mario!
+In return, please use
+my boats any time!
+
+...Free of charge, of
+course! I don't have
+any oars, though...
+
+Looks like you'll have
+to use your pump to
+get around, hm?
+
+
+
+----------EPISODE 3: RED COINS IN A BOTTLE----------
+
++++Old Noki Fisherman+++ Level start ~ automatic message when you start
+
+I've got it! Yes!
+I surely do have it!
+What have I got?
+
+Why, the answer to
+our polluted ocean
+problem, of course!
+
+And the answer is
+you! You must go to
+the ocean floor!
+
+Of course, that is
+impossible for you
+at the moment...
+
+Therefore, I've made
+an area for you to
+hone your skills!
+
+Boop-bop-boop-
+bottle-dee-BOO!
+Tah-daaa!
+
+Wear this, and you
+can stay underwater
+for much, much longer!
+
+Use that FLUDD to
+move around and
+get red coins.
+
+But don't overdo it!
+If you run low on air,
+here's what you do...
+
+Just grab some
+regular coins to refill
+your meter, OK?
+
+Now, shall we get
+started?
+
+
+
+----------EPISODE 4: EELY-MOUTH'S DENTIST----------
+
++++Noki Grandson+++ Level start ~ automatic message when you start
+
+Oh, Mario! You're
+finally setting out for
+the ocean's bottom!
+
+Grandpa is waiting for
+you up top. Oh, don't
+forget to wear this...
+
+You can use this rope
+as a shortcut to
+reach Grandpa...
+
++++Noki Grandson+++ Level start
+
+Please help us!
+
++++Old Noki Fisherman+++ At the waterfall view
+
+You look like you're
+ready! The gunk in the
+ocean is caused by...
+
+A giant eel! It's
+moved into our
+ancestral home...
+
+...at the sea floor,
+and it's nursing some
+nasty cavities there.
+
+Let's take a look...
+
+The newly uncorked
+waterfall created a
+gap in the pollution...
+
+...that you can use
+as an entrance!
+Jump right in there!
+
+Dive to the bottom of
+the ocean and clean
+that eel's teeth!
+
+Doing so will ease his
+pain, and he'll return
+from whence he came!
+
+No doubt about it!
+Now, gather your
+courage and DIVE!
+
++++Old Noki Fisherman+++ At the waterfall view ~ second talk on
+
+Well, why not dive in?
+
++++Mudboat Shop Owner+++ At the mudboat shop
+
+I owe you, Mario!
+Now, my business is
+up and running again!
+
+Please, use my boats
+for free anytime you
+so desire, yes?
+
+I don't have any oars,
+though, so you'll have
+to use your FLUDD!
+
+
+
+----------EPISODE 5: IL PIANTISSIMO'S SURF SWIM----------
+
++++Noki Grandson+++ Level start
+
+Thanks to you, our
+bay is clean again!
+Thank you!
+
++++Old Noki Fisherman+++ Level start
+
+Now, hopefully all of
+our people will return
+home again!
+
+We owe it all to you!
+Thanks! And say, do
+you know that guy?
+
+He's been waiting up
+there for you for
+quite a while...
+
++++Il Piantissimo+++ At the other end of the tightrope at level start ~ auto
+
+Ho HO, foolish man!
+I am Il Piantissimo!
+Yes, that is me!
+
+And now, I challenge
+you to a race to
+that flag!
+
+It is a race to the
+finish! The best time
+is ##:##:##.
+
+Are you at the ready?
+Then get set...
+and GOOOOOOOOO!
+
++++Il Piantissimo+++ At the finish flag ~ if you lose
+
+Ha! You pathetic
+clam-chewer! I must
+scoff at you! Scoff!
+
+Next time, bring your
+good swim fins, for
+you are far too slow!
+
+Goodbye to you!
+
++++Il Piantissimo+++ At the finish flag ~ if you win
+
+Whoo...haah...wheeze!
+You are quite speedy!
+You are like a fish!
+
+You may not be the
+slow clam-chomper
+I took you for!
+
+May we race again!
+Watch for me!
+
++++Il Piantissimo+++ At the finish flag ~ if you win ~ second talk on
+
+That is all I have to
+say to you! Now, be
+off with yourself!
+
+
+
+----------EPISODE 6: THE SHELL'S SECRET----------
+
++++Old Noki Fisherman+++ One platform ahead of starting platform
+
+Master Mario, you've
+become tied to our
+destiny, I'm afraid.
+
+A pathway to another
+world has opened
+above our fair land.
+
+Surely you will go
+there? Of course!
+You must go there!
+
+I apologize for
+involving you in all of
+this! Good luck!
+
+We'll cheer you on
+from here! Farewell!
+
++++Noki Grandson+++ Next to the first tightrope you're supposed to go on
+
+You'll have to use the
+ropes to climb up
+there, I'm afraid!
+
+
+
+----------EPISODE 7: HOLD IT, SHADOW MARIO!----------
+
++++Old Noki Fisherman+++ Level start
+
+Is that a relative of
+yours? Quite an odd
+family you've got!
+
++++Noki Grandson+++ Couldn't find him...
+
+I searched and searched and searched, but I couldn't find him in this episode.
+It's quite strange.
+
++++Shadow Mario+++ Where you beat him ~ when you beat him
+
+Curses!
+I won't forget this!
+
+
+
+----------EPISODE 8: THE RED COIN FISH----------
+
++++Noki Grandson+++ Level start ~ automatic message
+
+We've been waiting
+for you, Mario!
+
+Grandpa is at the top,
+as usual. Please wear
+this again, OK?
+
+You can use this
+rope as a shortcut
+to the top...
+
++++Noki Grandson+++ Level start
+
+That's my wife and
+child over there.
+
+I retrieved them from
+their hiding place once
+the water cleared up.
+
++++Noki Mom+++ Level start
+
+Nice to meet you,
+Mr. Mario!
+
+Thank you so much for
+restoring our beautiful
+bay to purity!
+
++++Old Noki Fisherman+++ At the waterfall view
+
+Master Mario!
+Our people have all
+come back at last!
+
+To show our thanks,
+we've prepared a
+fine treasure for you.
+
+It lies on the ocean's
+floor, so please go
+there and claim it.
+
+Just remember to
+watch your life meter!
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+12. Pianta Village
+
+
+
+----------EPISODE 1: CHAIN CHOMPLETS UNCHAINED----------
+
++++Village Mayor+++ Village entrance
+
+Hey, mister!
+Think you could spare
+us a hand, here?
+
+This dear lady's pets
+have decided to go on
+a little rampage.
+
+No, not the bees.
+They seem to be
+acting normal.
+
++++Pianta Granddaughter+++ Village entrance
+
+Gramps is just
+so slow...
+
+He left for the spring
+ages ago, and he
+hasn't returned.
+
+Not that it's weird.
+He pretty much does
+that every night.
+
+Where's the spring?
+Center of the village,
+base of the big tree.
+
++++Chain Chomp Owner+++ Village entrance
+
+Oh my goodness!
+This is awful!
+Completely awful!
+
+My little darlings have
+nasty fevers and it's
+driving them mad!
+
+Normally, I grab their
+tails and spike them
+into the ground...
+
+...but they're too
+hot to touch now!
+Ooh! It burns me up!
+
++++Brown Male Pianta with Straw Hat+++ By pit near the hot spring
+
+The underside world
+has fungi beyond
+compare. Truly!
+
+There are some
+enormous mushrooms
+growing down there.
+
++++Dancing Orange Female Pianta+++ On platform right of hot spring
+
+At midday, we direct
+the water here and
+heat it up. Ahhhhhh!
+
++++Dancing Pink Female Pianta+++ On platform left of hot spring
+
+The hot spring is
+only open during
+the daytime. Sorry!
+
++++Guitar Playing Male Pianta+++ On stumps blocking off the hot spring
+
+Oh, I'm so sorry!
+Pianta Hot Spring
+isn't open at night.
+
+Come back and try
+again during daylight
+hours, all right?
+
+Thanks. Bye!
+
++++Hot Spring Cleaner+++ Sweeping next to the hot spring
+
+Gotta clean every day,
+or things get slippery
+and dangerous!
+
++++Green Male Pianta Child+++ In tall grass
+
+Whoa! You found me!
+
++++Orange Female Pianta in Purple Shirt+++ Running around near fruit tree
+
+Chain Chomplets? I've
+no time for them!
+
++++Yellow Female Pianta in White Shirt+++ Next to fruit tree
+
+I'm just here to make
+sure no one runs off
+with this fruit.
+
+You can take some if
+you need it, though.
+It'll grow back soon.
+
++++Mustached Pink Male Pianta+++ On a raised grassy platform near hot spring
+
+Today's youngsters
+have no interest in
+the underside. Kids!
+
++++Male Pianta with Mushroom Backpack+++ Same as above
+
+To tell the truth, the
+old gal bugs everyone
+around here.
+
+Don't mention her
+pets, though, or
+she'll let you have it!
+
+That's why no one
+around here wants to
+talk to her.
+
++++Red Female Pianta in White Shirt+++ Same as above, but across the bridge
+
+How hot is it?
+
++++Shirtless Blue Male Pianta+++ On a raised grassy platform near the spring
+
+That spring is empty
+during the day,
+you know.
+
++++Orange Female Pianta in Glasses+++ Next to the golden mushroom
+
+Did you talk to the
+Pianta at the entrance
+to our village?
+
+Summing up all the
+trouble here is a
+really tough job.
+
++++Shirtless Pink Male Pianta+++ On a mushroom near the town entrance
+
+I wonder how long I
+have to stay here...
+I'm getting hungry.
+
++++Pianta in Shades+++ On a mushroom near the town entrance
+
+Danger! Danger!
+
++++Shirtless Dark Blue Male Pianta+++ On a mushroom near the town entrance
+
+The full moon looks
+so delicious...
+Mmmmmm...
+
++++Blue Male Pianta Child+++ Running around on a mushroom near town entrance
+
+Whoa! Look out!
+Touch that goop, and
+you'll get burnt!
+
++++Pink Female Pianta Child+++ Running around on a mushroom near town entrance
+
+I really want to run
+around in a more
+wide-open area.
+
++++Pink Female Pianta in Glasses+++ Below mushroom said above
+
+We have NOTHING to
+do with those crazy
+Chain Chomplets!
+
+So...leave...us...alone!
+You got that, mister?
+
++++Shirtless Green Male Pianta+++ Next to above
+
+What do you want?
+Would you just stay
+out of my way?
+
++++Dark Pink Female Pianta Child+++ On a mushroom near the entrance
+
+I want a pet, too.
+
++++Dark Pink Female Pianta in White Shirt+++ Next to above
+
+No! No! No! This is
+what happens to pets
+without discipline.
+
++++Pianta Grandfather+++ On the small island in the spring
+
+Aaaah! So comfy.
+So nice. So relaxing.
+This is coooool!
+
+This spring always
+hits the spot. It's
+completely refreshing.
+
+No better place to
+cool down than
+right here. Yep.
+
+
+----------EPISODE 2: IL PIANTISSIMO'S CRAZY CLIMB----------
+
++++Il Piantissimo+++ At the village entrance ~ auto message when you go to him
+
+It's me, Il Piantissimo!
+And now, listen! See
+that flag over there?
+
+Now, you and I
+shall race to get there
+the fastest! Yes!
+
+My personal record is
+##:##:##
+Impressive, eh?
+
+Are you at the ready?
+Then get set!
+AND GOOOOOOOO!!
+
++++Sign+++ Village entrance
+
+Pianta Hot Spring
+  --OPEN--
+  Refresh body
+   and spirit
+  with a dip!
+
++++Village Mayor+++ Village entrance
+
+Who in the world is
+this “Il Piantissimo”?
+A rogue, that's who!
+
+Let it be said that the
+Pianta people have no
+connection with him!
+
+That troublemaker is
+giving us a bad name!
+
++++Brown Male Pianta with Straw Hat+++ Next to a pit near the hot spring
+
+I've seen the mayor
+popping up out of
+this hole before.
+
++++Hot Spring Cleaner+++ Sweeping next to the hot spring
+
+Il Piantissimo! I wish
+that guy would be a
+bit more considerate!
+
++++Guitar Playing Male Pianta+++ Behind boxes that make an L; by to hot spring
+
+Hey, now! No horsing
+around here! It's a bit
+dangerous, you see?
+
++++Dancing Orange Female Pianta+++ At the hot spring, base of the giant tree
+
+I wonder if I'm in the
+way standing here...
+
++++Orange Female Pianta in Purple Shirt+++ Next to the fruit tree
+
+Are you tired of
+racing?
+
++++Yellow Female Pianta in White Shirt+++ On a mushroom next to the fruit tree
+
+What's the best way
+to get down from up
+here, anyway?
+
++++Mustached Pink Male Pianta+++ On a mat on raised platform near hot spring
+
+You sure are
+energetic!
+
++++Male Pianta with Mushroom Backpack+++ Same as above, but not on the mat
+
+My cousin lives in
+Delfino Plaza. I hope
+she's happy there...
+
++++Red Female Pianta in White Shirt+++ Same as above but across the bridge
+
+When night falls,
+water flows from
+over there...
+
++++Shirtless Blue Male Pianta+++ On a raised platform near the empty spring
+
+The Pianta people are
+just NOT that thin!
+I mean, seriously!
+
++++Orange Female Pianta in Glasses+++ At base of the platform w/ gold mushroom
+
+Wow! It's a beautiful
+day today, too.
+
++++Dark Pink Female Pianta Child+++ On a mushroom near the village entrance
+
+I swear I saw a really
+big bird flying around.
+
++++Dark Pink Female Pianta in White Shirt+++ Next to above
+
+I wonder if this little
+one will ever want to
+leave the village...
+
++++Shirtless Pink Male Pianta+++ Near village entrance, looking at center tree
+
+That's really big...
+It's even taller than
+the mayor's house.
+
++++Green Male Pianta Child+++ Next to above, who is under a mushroom
+
+Why do you slide
+around on your
+tummy?
+
++++Pink Female Pianta Child+++ Near village entrance
+
+What's going on?
+You're racing?
+
++++Blue Male Pianta Child+++ Near village entrance
+
+Il Piantissimo's
+a creep!!
+
++++Pink Female Pianta in Glasses+++ Under a mushroom near village entrance
+
+Weren't you racing
+Il Piantissimo?
+
++++Pianta Grandfather+++ Next to the empty spring
+
+I sure wish the sun
+would set, so the
+spring can fill up.
+
++++Pianta Granddaughter+++ Next to above
+
+Gramps is so hasty...
+
++++Pink Female Pianta+++ Next to above two with an arrow
+
+The Pianta Hot Spring
+is the hottest around!
+
++++Yellow Female Pianta+++ Left path, with an arrow pointing to hot spring
+
+The Pianta Hot Spring
+is as hot as anything!
+
++++Chain Chomp Owner+++ Village entrance, near a giant tree
+
+You need something?
+I have NO interest in
+silly games.
+
++++Yellow Female Pianta Child+++ Near a swing near the hot spring
+
+That swing's just
+being pushed by the
+wind...isn't it?
+
+Wait a minute! Did
+you use that water
+pump to push it?
+
++++Dark Yellow Female Pianta+++ To the right of the hot spring, with an arrow
+
+The Pianta Hot Spring
+is hot, hot, hot!
+
++++Dancing Pink Female Pianta+++ At the finish flag
+
+Nice job! Wow!
+You must be tired.
+
++++Il Piantissimo+++ At the finish flag ~ if you lose
+
+You are nothing but
+a rank amateur! You
+are like a fat snail!
+
+Come now! Dig down
+and show me what
+you have, mustachio!
+
+I will be waiting when
+you are ready to try
+again! Until then...
+
++++Il Piantissimo+++ At the finish flag ~ if you win
+
+Grrrr! Yes, GRRRR!
+That was not so bad!
+You are quick! Yes!
+
+I suppose, maybe I
+underestimated you
+a small bit. Perhaps.
+
+You try again after
+you have practiced
+more. Until then...
+
++++Il Piantissimo+++ At the finish flag ~ if you win ~ second talk on
+
+That is all I have
+to say to you!
+Now, be off!
+
+
+
+----------EPISODE 3: THE GOOPY INFERNO----------
+
++++Orange Female Pianta in Glasses+++ Running around next to bridge
+
+Aaah! Mario!
+What a mess!
+What can we do?
+
++++Shirtless Green Male Pianta+++ Near bridge
+
+Do something useful!
+Ouch!
+
++++Pink Female Pianta in Glasses+++ Next to above
+
+The mayor got left
+behind somewhere
+over there!
+
++++Red Female Pianta in White Shirt+++ Near bridge
+
+It's really tough
+being mayor, don't
+you think?
+
++++Shirtless Pink Male Pianta+++ Near bridge, next to above
+
+I hope everything's
+going to be OK...
+
++++Chain Chomp Owner+++ Near bridge
+
+How terrible! The
+village is covered in
+burning goop!
+
+Pardon me? No, my
+darling are not
+responsible! Hmph!
+
++++Blue Male Pianta Child+++ Running around near bridge
+
+The mayor!
+WAAAAAAAH!
+
++++Pink Female Pianta Child+++ Running around near bridge
+
+Please, you must save
+the mayor!
+
++++Yellow Female Pianta Child+++ Near bridge, next to goop
+
+It's too hot! I can't
+get any closer!
+
++++Yellow Female Pianta in White Shirt+++ Next to above
+
+The mayor was making
+sure everyone was
+evacuated safely.
+
+He was up there
+giving instructions.
+What a hero!
+
++++Pianta in Shades+++ On giant tree closest to the bridge
+
+Now, this is a sticky
+situation if I've ever
+seen one. Hoo boy!
+
++++Mustached Pink Male Pianta+++ Next to above
+
+Thanks to the mayor,
+everyone was
+evacuated safely.
+
+Now, the only one
+left is the mayor
+himself. How brave...
+
++++Orange Female Pianta in Orange Shirt+++ Base of giant tree closest to bridge
+
+I hope the mayor's
+still OK...
+
++++Dark Pink Female Pianta Child+++ On small white mushroom near above tree
+
+Mom!
+Where's the mayor?
+
++++Dark Pink Female Pianta in White Shirt+++ Next to above
+
+Don't worry; I'm
+sure everything's
+going to be fine!
+
++++Shirtless Blue Male Pianta+++ Running near giant tree closest to bridge
+
+Help! Help!
+What do we do?
+What can we do?
+
++++Pianta Granddaughter+++ At 'bottom right' corner of the village fence
+
+Gramps says that he
+used to babysit the
+mayor. How wild!
+
+He even changed the
+mayor's diaper...
+
++++Pianta Grandfather+++ Next to above
+
+He's always had a
+strong sense of duty
+and leadership. Yep...
+
++++Shirtless Dark Blue Male Pianta+++ Near stream, looking at golden mushroom
+
+The mayor's over
+there by that
+yellow mushroom.
+
++++Male Pianta with Mushroom Backpack+++ Near stream ~ once you wash him off
+
+I just wonder who
+was behind all of
+this madness...
+
++++Dancing Pink Female Pianta+++ Near stream, on side farther from bridge
+
+Mr. Mayor!
+Don't give up!
+
++++Dancing Orange Female Pianta+++ Near stream, on side farther from bridge
+
+C'mon, Mr. Mayor!
+Just hang on!
+
++++Guitar Playing Male Pianta+++ Near stream, on side farther from bridge
+
+This is all we can do
+at this point, so don't
+get all mad, OK?
+
++++Brown Male Pianta with Straw Hat+++ Next to pit near hot spring
+
+This should lead you
+to the mayor. At
+least I THINK so...
+
+You can move some
+gates with B.
+This may help, but...
+
+if you try to cling
+for too long, the
+gate'll fall off!
+
+You'll have to jump to
+safety at some point,
+so be careful!
+
++++Hot Spring Cleaner+++ Sweeping next to hot spring
+
+Even places like this
+need to be cleaned so
+they're travel-safe.
+
++++Green Male Pianta Child+++ In the tall grass
+
+I wonder if everyone
+knows I'm over here?
+
++++Village Mayor+++ On the golden mushroom ~ after you wash him off
+
+I'm just happy that
+everyone's safe and
+sound.
+
+
+
+----------EPISODE 4: CHAIN CHOMP'S BATH----------
+
++++Village Mayor+++ Village entrance
+
+Hey, you!
+We've got another
+problem over here!
+
+This thing's bigger
+than all those pups
+put together!
+
+When it's chained up
+there's no problem,
+of course, but...
+
+When that thing's
+loose, we're in a heap
+of trouble. Oh, yes!
+
+That beast's owner
+always has burnt
+hands. It's pitiful...
+
++++Chain Chomp Owner+++ Next to Chain Chomp's starting position
+
+I'm the one who
+should be steamed!
+Bad Chain Chomp!
+
+Maybe I should head
+over to the hot spring
+to calm myself...
+
++++Yellow Female Pianta Child+++ Near a swing near the hot spring
+
+Eeeeeeeeeeeek!
+Where should I hide?
+
++++Dark Yellow Female Pianta+++ Near hot spring, with an arrow pointing to it
+
+The Pianta Hot Spring
+is beyond hot, let me
+tell you.
+
++++Brown Male Pianta with Straw Hat+++ Next to pit near hot spring
+
+I've seen the mayor
+pop up out of there
+before...
+
++++Hot Spring Cleaner+++ Sweeping next to hot spring & Pianta nostril waterfall
+
+Keep this between you
+and me, but the water
+for the hot spring...
+
+It pours out of that
+big plant over there,
+right? And it looks...
+
+Well, let's just say it
+looks bad, and it
+gave us a bad rep.
+
+It's just as pure as
+the spring water, and
+it's good for you...
+
+Well, it goes to show
+you the importance of
+appearances, I guess.
+
++++Dancing Pink Female Pianta+++ Hot spring area
+
+It's quite mysterious,
+but this hot spring
+will relax your soul.
+
++++Dancing Orange Female Pianta+++ Hot spring area
+
+The point of a hot
+spring is to relieve
+your stress.
+
++++Guitar Playing Male Pianta+++ Hot spring area
+
+C'mon in, sir. Were
+you expecting it to be
+a bit busier?
+
+I take it you're the
+shy type, so you can
+keep your cap on.
+
++++Yellow Female Pianta+++ Near hot springs, next to fence (left side)
+
+The Pianta Hot Spring
+is WAY too hot for
+me! Yowch!
+
++++Green Male Pianta Child+++ In tall grass
+
+You'd best be careful,
+or you'll fall. And
+that would be bad.
+
++++Yellow Female Pianta in White Shirt+++ Next to fruit tree
+
+I'm waiting to witness
+the exact instant that
+fruit grows.
+
++++Orange Female Pianta in Purple Shirt+++ Walking around near fruit tree
+
+A Chain Chomp?
+I have no time for it.
+I'm too busy!
+
++++Mustached Pink Male Pianta+++ On mat on a raised platform near hot spring
+
+As a youngster, I had
+many adventures on
+the underside...
+
++++Male Pianta with Mushroom Backpack+++ Same as above, but not on the mat
+
+Now it's the Chain
+Chomp? I can't take
+much more of this.
+
++++Red Female Pianta in White Shirt+++ Same as above, but across the bridge
+
+It must be tough
+being mayor...
+
++++Shirtless Blue Male Pianta+++ On a raised platform near the empty spring
+
+During the day, all the
+spring's water goes
+up to the hot spring.
+
++++Orange Female Pianta in Glasses+++ On first step leading to gold mushroom
+
+Boy, is it hot!
+I wonder if
+everyone's OK...
+
++++Shirtless Dark Blue Male Pianta+++ On the mushroom closest to mayor's house
+
+I looooove the sun!
+
++++Pink Female Pianta Child+++ Running around near village entrance
+
+Don't worry! That pup
+wouldn't hurt anyone!
+
++++Blue Male Pianta Child+++ Running around near village entrance
+
+Great chomps of fire!
+If that big lug comes
+this way...
+
++++Shirtless Pink Male Pianta+++ Under a mushroom near the village entrance
+
+It's cooler in the
+shade than you
+might think.
+
++++Pink Female Pianta in Glasses+++ Under another mushroom by village entrance
+
+We refuse to have
+anything to do with
+Chain Chomps.
+
+But boy, those things
+are intense, huh?
+
++++Shirtless Green Male Pianta+++ Next to above
+
+What do you want?
+Stay out of my
+way, will ya?
+
++++Dark Pink Female Pianta in White Shirt+++ On a mushroom near village entry
+
+You're safe as long
+as you're here.
+
++++Dark Pink Female Pianta Child+++ Next to above
+
+My mom is scary!
+
++++Pianta Grandfather+++ Next to empty spring
+
+I sure wish the sun
+would set so the
+spring can fill up.
+
++++Pink Female Pianta+++ Next to above, with arrow pointing to the hot spring
+
+The Pianta Hot Spring
+is crrrrrrazy hot!
+
+
+
+----------EPISODE 5: SECRET OF THE VILLAGE UNDERSIDE----------
+
+~VILLAGE~
+
++++Mustached Pink Male Pianta+++ Village entrance
+
+Howdy there, son.
+
+The entire village is
+getting ready for the
+annual Fluff Festival.
+
+Even us old folks
+start getting excited
+about this. Heh heh.
+
+Oh, and before I
+forget... I...am
+NOT the mayor.
+
+If you're looking for
+him, he's probably by
+that yellow mushroom.
+
++++Red Female Pianta in White Shirt+++ Walking around village
+
+Everybody's so darn
+festive. I say, bah!
+But what can you do?
+
++++Yellow Female Pianta Child+++ Running around village
+
+I'm going to challenge
+that Il Piantissimo
+someday. Oh, yeah.
+
++++Hot Spring Cleaner+++ Sweeping next to hot spring
+
+Puffy fluff fluff...
+Puffy puffy fluffy...
+
++++Yellow Female Pianta in White Shirt+++ Next to fruit tree
+
+I wonder if Yoshi
+will show up?
+
++++Orange Female Pianta in Purple Shirt+++ Near fruit tree
+
+This is between me
+and you, OK? You
+better not tell...
+
+You know the mayor's
+wife? Well, she has a
+secret cash stash.
+
+Oh, but don't go on
+top of the mayor's
+yellow mushroom...
+
+And if you do, don't
+spray water toward
+the moon.
+
+I don't want them to
+know I told anyone!
+
++++Brown Male Pianta with Straw Hat+++ On raised platform near hot spring
+
+You see this giant
+tree right here?
+
+It's been growing here
+since before anyone
+can remember.
+
++++Male Pianta with Mushroom Backpack+++ Same as above, near the small bridge
+
+Green mushrooms
+fetch a good price,
+but they're rare...
+
++++Shirtless Blue Male Pianta+++ On a raised grassy platform near the spring
+
+I'm not in the least
+bit merry. Nope, not
+at all. Not merry.
+
++++Orange Female Pianta in Glasses+++ At the base of the golden mushroom
+
+Everyone's really
+excited, aren't they?
+
++++Village Mayor+++ Next to above
+
+Mom, it feels like it's
+getting close to
+Fluff Festival time!
+
++++Blue Male Pianta Child+++ On a mushroom near village entrance
+
+I don't get yelled at
+for staying up late for
+festival practice...
+
++++Pink Female Pianta Child+++ Next to above
+
+I really want to
+learn the fluff-fluff
+dance. Yeah! Fluff!
+
++++Dark Pink Female Pianta Child+++ On a mushroom near the village entrance
+
+Mom! Isn't the Fluff
+Festival going to
+start soon?
+
++++Dark Pink Female Pianta in White Shirt+++ Next to above
+
+It's coming soon!
+I'm so excited!
+
++++Shirtless Pink Male Pianta+++ Near village entrance
+
+Puffy and fluffy...
+Grab hold and say
+goodbye...
+
++++Shirtless Dark Blue Male Pianta+++ Near village entrance
+
+I love to dance!
+
++++Pianta in Shades+++ Near village entrance
+
+Where's the fluff?
+The puffy fluffy fluff?
+
++++Chain Chomp Owner+++ Near village entrance
+
+Where's the fluff?
+The puffy fluffy fluff?
+
++++Dancing Pink Female Pianta+++ Near village entrance
+
+Fluffy fluff...
+Fluffity fluff...
+
++++Dancing Orange Female Pianta+++ Near village entrance
+
+Fluffy fluff...
+Fluff de fluff...
+
++++Guitar Playing Male Pianta+++ Near village entrance
+
+Where, oh, where did
+she fly away to...?
+
+On a piece of fluff
+in the sky so blue...
+
++++Green Male Pianta Child+++ Near village entrance
+
+The Fluff Festival is
+almost here! I'm so
+thrilled! Yahoo!
+
++++Pink Female Pianta in Glasses+++ Under a mushroom near the village entrance
+
+Don't be so
+standoffish! I want to
+be included, too!
+
++++Shirtless Green Male Pianta+++ Next to above
+
+The festival is almost
+here. Yippee!
+
++++Pianta Grandfather+++ On island in the spring
+
+Aaaah! So comfy.
+So nice. Perfect!
+This is coooool!
+
+This spring always
+hits the spot. It's
+so refreshing.
+
++++Pianta Granddaughter+++ Next to spring
+
+Yep, that's what
+Gramps likes...
+
+~BONUS STAGE~
+
++++Green Chuckster in Blue Hat+++ First platform, near start
+
+Howdy!
+I'm a chuckster!
+
+You'd better be
+careful when speaking
+to powerful Piantas.
+
+Some'll chuck you
+straight up, but most
+chuck you backward.
+
+When it comes to
+tossing folk, I'm...
+Well, I'm a chuckster!
+
++++Dark Blue Chuckster in Green Hat+++ First platform, square area
+
+I'm a chuckster!
+
++++Pink Chuckster in Brown Hat+++ First platform, on far edge
+
+I'm a chuckster!
+
++++Brown Kid-Sized Chuckster in Blue Cap+++ Second platform, on left side
+
+I may be little, but
+I never give up!
+
++++Dark Blue Chuckster in Blue Hat+++ Second platform, on right side
+
+Don't hold back!
+Grrrarrgaah!
+
++++Pale Chuckster in Green Hat+++ Third platform
+
+Higher! Higher!
+
++++Average Passerby+++ Platform behind first high platform
+
+Now, I'm just your
+average passerby.
+
++++Light Blue Chuckster in Green Cap+++ Same as above
+
+I'm a chuckster!
+
++++Dark Blue Chuckster in Yellow Cap+++ On first high platform
+
+I'm a chuckster!
+
++++Brown Chuckster in White Hat+++ Area before shine/3 coin + 1-up platform
+
+I'm a chuckster!
+
++++Yellow Chuckster in Blue Cap+++ On optional platform with 3 coins and 1-up
+
+Higher! Higher!
+
++++Purple Chuckster in Orange Cap+++ Same as above
+
+I'm a chuckster!
+
+
+
+----------EPISODE 6: PIANTAS IN NEED----------
+
++++Village Mayor+++ Level start ~ auto message
+
+Oh no!
+I just went away for
+a bit and now look...
+
+I can't believe it!
+Another fine mess!
+And it's a doozy!
+
+Some of the villagers
+are trapped in that
+burning ooze!
+
+And I just finished
+evacuating everyone
+a little while back!
+
+What in the world's
+happening? I think I
+may just start crying.
+
+I'm sorry to trouble
+you time after time,
+but please...
+
+Could you find the
+time to help us
+out again?
+
+Ten villagers are
+trapped in the slime.
+You must hurry!
+
++++Village Mayor+++ Level start ~ second talk on
+
+There are ten villagers
+stuck in this muck!
+Help them, please!
+
++++Chain Chomp Owner+++ Near village entrance ~ after you wash her off
+
+What about the other
+Piantas still out
+there...?
+
++++Pink/Blue Male (Fe)male Pianta Child+++ Near village entrance ~ after washed
+
+Kids don't carry
+coins...
+
++++Shirtless Dark Blue Male Pianta+++ Next to blue male Pianta child
+
+Help my friends!
+
++++Shirtless Pink Male Pianta+++ Near village entrance
+
+You must hurry!
+
++++Dark Pink Female Pianta Child+++ Near village entrance
+
+Mommmmmmmm!
+
++++4 of the 10 Goopy Adult Piantas+++ Next to above ~ after washed off
+
+What about my friends
+who are still out
+there...?
+
++++Orange Female Pianta in Glasses+++ Sort of near the dry spring
+
+What about my friends
+who are still stuck
+out there?
+
++++Orange Female Pianta in Purple Shirt+++ Between hot spring & spring ~ wash
+
+Some of my friends
+are still stuck out
+there somewhere...
+
++++Mustached Pink Male Pianta+++ Right of hot spring ~ after you wash him off
+
+What about my
+friends still stuck
+in this gunk...?
+
++++Green Male Pianta Child+++ In tall grass
+
+Hurry and help all
+of them!
+
++++Pianta Granddaughter+++ Next to her 'gramps', who is at the dry spring
+
+Graaaamps!
+
++++Pink Female Pianta+++ Near the mayor's house
+
+My friends are in
+such trouble!
+
++++Yellow Female Pianta+++ Next to the female Pianta in the purple shirt
+
+My friends!
+They're in trouble!
+
++++Brown Male Pianta with Straw Hat+++ Right of hot spring
+
+What a mess...
+
++++Dark Yellow Female Pianta+++ Right of hot spring
+
+My friends are
+in trouble!
+
++++Yellow Female Pianta Child+++ Near swing near hot spring
+
+Is everyone OK?
+
++++Hot Spring Cleaner+++ On wall of hot spring
+
+Is this the time to be
+cleaning? Me?
+
++++Dancing Orange Female Pianta+++ Next to above
+
+Faster! Faster!
+
++++Dancing Pink Female Pianta+++ Next to above
+
+Hurry! Hurry!
+
++++Guitar Playing Male Pianta+++ Next to above
+
+You've got to hurry!
+It's urgent!
+
++++Yellow Female Pianta in White Shirt+++ Next to fruit tree
+
+In the fruit tree...
+Coins?
+
++++Male Pianta with Mushroom Backpack+++ On raised platform by hot spring
+
+Oooh, now that's a
+tall mushroom!
+
++++Red Female Pianta in White Shirt+++ Same as above, but across the bridge
+
+I think some of my
+pals are still stuck
+out there somewhere!
+
++++Shirtless Blue Male Pianta+++ On a raised grassy platform near dry spring
+
+Please help my pals!
+
++++All Adult Female Piantas+++ Varies ~ once you finish
+
+Let's go and
+see the mayor!
+
++++All Adult Male Piantas+++ Varies ~ once you finish
+
+Let's go!
+The mayor awaits!
+
++++All Child Female Piantas+++ Varies ~ once you finish
+
+Don't be late!
+The mayor's waiting!
+
++++All Child Male Piantas+++ Varies ~ once you finish
+
+The mayor's waiting!
+
++++Village Mayor+++ Level start ~ once you finish
+
+You're the savior of
+Pianta Village!
+We're in your debt!
+
+As a reward, please
+take this!
+
++++Village Mayor+++ Level start ~ once you finish ~ second talk on
+
+We won't forget our
+debt to you.
+Probably...
+
+
+
+----------EPISODE 7: SHADOW MARIO RUNS WILD----------
+
++++Green Male Pianta Child+++ In tall grass
+
+Yippee! Wahoo!
+I just can't sit
+still any longer!
+
++++Brown Male Pianta with Straw Hat+++ Next to pit near hot spring
+
+I think I may just head
+down for the first time
+in a long, long time...
+
++++Hot Spring Cleaner+++ Sweeping next to hot spring
+
+First and foremost,
+don't get this place
+all dirty!
+
++++Orange Female Pianta in Purple Shirt+++ Walking around near fruit tree
+
+Were you behind all
+of that burning goop?
+
++++Yellow Female Pianta in White Shirt+++ On the mushroom next to fruit tree
+
+I don't have the
+slightest idea how to
+get down from here...
+
++++Mustached Pink Male Pianta+++ On a raised grassy platform near hot spring
+
+I'm starting to get
+all excited, now!
+
++++Male Pianta with Mushroom Backpack+++ Same as above, but on the small bridge
+
+Just as I suspected,
+all I can find are
+red mushrooms.
+
++++Shirtless Blue Male Pianta+++ On a raised grassy platform near the spring
+
+If you keep that up,
+you're going to wear
+yourself out.
+
++++Village Mayor+++ At the base of the golden mushroom
+
+Oh, NO! There's more
+of that hot ooze!
+Was it you..?
+
+No, it couldn't
+have been...
+
++++Orange Female Pianta in Glasses+++ At the base of the golden mushroom
+
+You! Yes, you!
+Isn't that Mario?
+
+Huh?! Mario?
+I'm so confused...
+
++++Guitar Playing Male Pianta+++ Near village entrance
+
+Where, oh where did
+she fly away to...?
+
+On a piece of fluff
+in the sky so blue...
+
++++Dancing Orange Female Pianta+++ Near village entrance
+
+Puff puff puffy...
+
++++Dancing Pink Female Pianta+++ Near village entrance
+
+Fluff fluff fluffy...
+
++++Pianta in Shades+++ Near village entrance
+
+Puffy fluffy fluff...
+Where is the fluffy...?
+
++++Blue Male Pianta Child+++ Near village entrance
+
+I think I'll try and
+stay up until dawn...
+
++++Pink Female Pianta Child+++ Near village entrance
+
+The Fluff Festival
+starts tomorrow!
+Finally!
+
++++Chain Chomp Owner+++ Near village entrance
+
+Hey, you! Stop
+running around and
+getting in my way!
+
++++Shirtless Dark Blue Male Pianta+++ Near village entrance
+
+Even if you're just
+joking, that hot ooze
+is dangerous! So quit!
+
++++Shirtless Pink Male Pianta+++ Near village entrance
+
+Just who is it that
+you're racing?
+
++++Pink Female Pianta in Glasses+++ Near village entrance, under a mushroom
+
+Even with all the
+hassle, I do love
+festival time!
+
++++Shirtless Green Male Pianta+++ Next to above
+
+Tomorrow's the day!
+Wa-hoooooooooo!
+
++++Red Female Pianta in White Shirt+++ Near village entrance
+
+Why in the world have
+you been running
+around so?
+
++++Dark Pink Female Pianta Child+++ On a mushroom near the village entrance
+
+Mommmmmmmmmm!
+The goop's back!
+
++++Dark Pink Female Pianta in White Shirt+++ Next to above
+
+Don't worry!
+We're safe here!
+
++++Pianta Grandfather+++ On the small island in the spring
+
+Aaaah! So comfy.
+So nice. Smooth.
+Cooooooooooool!
+
+This spring always
+hits the spot. It's
+so refreshing!
+
++++Yellow Female Pianta Child+++ Near a swing near the hot spring
+
+We don't have to
+worry about that
+goop anymore, right?
+
++++Shadow Mario+++ Where you beat him ~ when you beat him
+
+Aaarrgh!
+I'll remember this!
+
+
+
+----------EPISODE 8: FLUFF FESTIVAL COIN HUNT----------
+
++++Guitar Playing Male Pianta+++ At the party
+
+Grab some fluff and
+fly away...
+
+Jump off on a cloud
+and spend the day...
+
++++Dancing Orange Female Pianta+++ At the party
+
+Puffy puffy puff...
+
++++Dancing Pink Female Pianta+++ At the party
+
+Fluffy fluffy fluff...
+
++++Pink Female Pianta+++ At the party, on a mushroom
+
+Fluffy fluffy fluff...
+
++++Yellow Female Pianta+++ At the party, on a mushroom
+
+Fluffy fluffy fluff...
+
++++Dark Yellow Female Pianta+++ At the party, on a mushroom
+
+I heard that there's
+another red coin
+beneath the village...
+
++++Blue Male Pianta Child+++ At the party
+
+Yep, festival time is
+the best time ever!
+
++++Pianta Grandfather+++ At the party
+
+If I were just 90
+years younger...
+
+I'd climb up to the
+top of that colossal
+tree there...
+
++++Pink Female Pianta Child+++ At the party
+
+I'm gonna take dance
+lessons from my
+friend's sister!
+
++++Pianta Granddaughter+++ At the party
+
+Do you think it's OK
+for Gramps to get so
+worked up?
+
++++Brown Male Pianta with Straw Hat+++ At the party
+
+You can't snag a
+piece of fluff without
+climbing way up high.
+
++++Yellow Female Pianta in White Shirt+++ At the party
+
+I wonder if the fruit
+trees are OK?
+
++++Shirtless Green Male Pianta+++ At the party
+
+Phew...getting a
+bit tired. Time to
+take a break.
+
+Huh? Hey! You're in
+my way!
+
++++Pink Female Pianta in Glasses+++ At the party, next to above
+
+What are you talking
+about? Keep dancing!
+
++++Shirtless Blue Male Pianta+++ At the party
+
+At festival time, we
+really let loose!
+Believe you me!
+
++++Shirtless Dark Blue Male Pianta+++ At the party
+
+Aren't you going
+to dance with us?
+
++++Green Male Pianta Child+++ At the party
+
+When I get bigger,
+I'm definitely gonna
+make it...
+
+I'm gonna climb all the
+way to the top of that
+giant tree! You'll see!
+
++++Yellow Female Pianta Child+++ At the party
+
+Hey, Gramps?
+Have you ever caught
+a piece of fluff?
+
++++Chain Chomp Owner+++ At the party
+
+Come along now!
+It's time for you
+to dance, too!
+
++++Dark Pink Female Pianta Child+++ At the party
+
+This is so much fun,
+isn't it, Mom?
+
++++Dark Pink Female Pianta in White Shirt+++ At the party, next to above
+
+This is really
+super-duper fun!
+
++++Shirtless Pink Male Pianta+++ Running around at the party
+
+That swing won't
+move even if you push
+it. It's just too big.
+
+Hey! That's quite a
+device you've got on
+your back!
+
++++Orange Female Pianta in Purple Shirt+++ At the party
+
+You know the mayor's
+wife's super-secret
+cash stash?
+
+You didn't happen to
+find it, did you?
+I sure hope not.
+
+Actually, I think the
+mayor may be hiding
+something, too.
+
+Climb to the highest
+part of the village
+and look at the sun...
+
+Oh, no! NO!
+I can't say any more!
+I'll be in such trouble!
+
++++Hot Spring Cleaner+++ At the party
+
+You remember me? I'm
+always cleaning the
+hot spring...
+
+But today, I've given
+up cleaning to come
+and dance! Oh! Yeah!
+
++++Mustached Pink Male Pianta+++ At the party
+
+Dancing like this
+makes me feel like
+a kid again.
+
++++Red Female Pianta in White Shirt+++ Walking around the party
+
+I think I saw some
+red things here and
+there in the village...
+
++++Village Mayor+++ At the base of the golden mushroom
+
+I think I'll grab some
+fluff and float away
+myself, Mom!
+
++++Orange Female Pianta in Glasses+++ Next to above
+
+Hey, you! Careful!
+Even if you can grab
+a piece of fluff...
+
+What are you going to
+do if you miss a cloud
+and fall? That'd sting!
+
++++Male Pianta with Mushroom Backpack+++ On second step of the central tree
+
+There were no green
+mushrooms up there,
+either. Not a one.
+
+All I saw was a
+red coin.
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+13. Corona Mountain
+
+CUTSCENE – FINAL BOSS BATTLE START
+
+Bowser: Bwaaaa ha ha! The water's great, eh, Jr.?
+
+Bowser Jr.: Sure is, Papa!
+Come on in, Mama Peach!
+
+Peach: Ummm...
+I think not.
+Mario!
+
+Bowser Jr.: You again?! Don't you ever give up?
+
+Bowser: Mario!
+How dare you disturb my family vacation?!
+
+CUTSCENE – ENDING, PART 1
+
+FLUDD: Mario...
+was I...of...assis...tance?
+
+Peach: Mario, look!
+
+Bowser: Jr, I've got something... difficult...to tell you about
+Princess Peach...
+
+Bowser Jr.: I know she's not really my Mama...
+Someday...when I'm bigger...
+I wanna fight that Mario again!
+
+Bowser: That's my boy! Well put, son!
+The royal Koopa line is as strong as ever!
+But for now...let's just rest awhile.
+
+CUTSCENE – ENDING, PART 2
+
+FLUDD: The vacation starts now!
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+14. Tourist Map
+
++++Top Left Corner+++ Where do you think?
+
+Welcome to Isle Delfino, the glittering
+jewel of the southern seas. The sun is
+always shining here, so come and visit!
+
++++Bottom Right Corner+++ Where do you think?
+
+***Sorry, I can't make it out.   But, the end says...***
+Contact Delfino Tours to start your vacation today!
+
++++The Sun+++ Top right corner ~ press A
+
+Origin of Power: Shine Sprite
+
+The revered symbols
+of Isle Delfino
+normally gather at
+the Shine Gate. Their
+collective power
+sustains the island.
+
++++Pianta Picture+++ Near the 'dorsal fin' of the island ~ press A
+
+Pianta: The Mountain People
+
+These mountain folk
+are strong, sociable,
+and curious. The
+trees on their heads
+provide relief from
+the island's heat.
+
++++Noki Shell Picture+++ Along the island's 'back' ~ press A
+
+Noki: The Sea People
+
+Nokis wear vibrant
+seashells reminiscent
+of their time living
+in the coral reefs.
+They are timid but
+highly intellectual.
+
++++Delfino Airstrip+++ On the L-shaped thing to the E of the mainland ~ press A
+
+DELFINO AIRSTRIP
+
+A simple airstrip
+built on small
+islets in the waters
+near Delfino Plaza.
+Access to the
+mainland is via
+small boats.
+
++++Delfino Plaza+++ On the island's 'nose' ~ press A
+
+DELFINO PLAZA
+
+Tourists get off the
+ferries here, in Isle
+Delfino's largest city.
+Attractions include
+the Shine Gate and
+Grand Pianta Statue.
+
++++Bianco Hills+++ Above the island's 'fin' ~ press A
+
+BIANCO HILLS
+
+This lush community
+of villas is located
+at the foot of
+Corona Mountain.
+Its famous windmills
+spin peacefully in the
+gentle sea breezes.
+
++++Ricco Harbor+++ The island's 'fin' ~ press A
+
+RICCO HARBOR
+
+Isle Delfino's port
+city is home to boats
+of all sizes and a
+thriving tourist trade.
+The fish market has
+the freshest seafood
+for miles around.
+
++++Gelato Beach+++ Between the island's 'fin' and 'tail' ~ press A
+
+GELATO BEACH
+
+The isle's largest
+beach sprawls under
+perfect blue skies.
+Have a swim, enjoy
+a famous smoothie,
+and bask in the glow
+of the Shine Tower.
+
++++Pinna Park+++ On the separate island, off the end of the 'tail' ~ press A
+
+PINNA PARK
+
+The park boasts
+everything from a
+Roller Coaster to the
+Clam Cups. The view
+from the Ferris
+Wheel is magnificent.
+
++++Sirena Beach+++ On the island's 'tail' ~ press A
+
+SIRENA BEACH
+
+The gentle lapping of
+the sea accompanies
+spectacular sunsets
+and romantic dinners
+beneath starry skies.
+The four-star Hotel
+Delfino has it all.
+
++++Noki Bay+++ On the island's 'back' ~ press A
+
+NOKI BAY
+
+Steep cliffs and sea
+beds are what the
+Nokis call home.
+The huge waterfall
+and three soaring
+towers resonate with
+mystic history.
+
++++Pianta Village+++ Below the island's 'dorsal fin' ~ press A
+
+PIANTA VILLAGE
+
+The ancestral home
+of the Piantas was
+built in a giant tree
+as protection against
+wild beasts. Giant
+mushrooms thrive
+beneath the village.
+
++++Corona Mountain+++ Where the island's 'eye' would be ~ press A
+
+CORONA MOUNTAIN
+
+The hot spring at the
+foot of Isle Delfino's
+mountain is relaxing,
+but the lava caves,
+which open on the
+plaza, are forbidden
+for public safety.
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+15. FLUDD MESSAGES
+
++++FLUDD+++ Delfino Airstrip, game start ~ stand in front of an M
+
+Try washing
+off that “M”
+to test your
+skills! Press
+R to shoot
+water!
+
++++FLUDD+++ Delfino Airstrip, game start ~ slide in goop while fighting a boss
+
+Be careful of
+that sludge!
+Spray it!
+
++++FLUDD+++ Vs. any goopy piranha plant ~ spray lightly a bit
+
+If you hold
+down R
+until it clicks,
+you will stand
+still while you
+squirt water!
+
++++FLUDD+++ Delfino Plaza ~ swim near a submerged ring of coins by the beach
+
+Press B
+while you are
+in the water
+to dive, but
+watch your
+life meter!
+
++++FLUDD+++ Delfino Plaza ~ at the central docks
+
+Press X to
+convert my
+nozzle to
+hover mode!
+Then you can
+briefly float!
+
++++FLUDD+++ Delfino Plaza ~  central docks, near turn to boathouse, jump
+
+If you press
+A twice
+in a row with
+good timing,
+you can jump
+a bit higher!
+
++++FLUDD+++ Delfino Plaza ~ in the fountain in Bianco Square
+
+You can refill
+me anywhere
+there is
+water. Just
+press R to
+fill my tank.
+
++++FLUDD+++ Delfino Plaza ~ when Shadow Mario kidnaps Peach the first time
+
+A kidnapping!
+Stop the
+criminal in his
+tracks with
+some water!
+
++++FLUDD+++ Delfino Plaza ~ if you chase Shadow Mario for quite a long time
+
+If you want
+to shoot
+water while
+moving, press
+R lightly!
+
++++FLUDD+++ Delfino Plaza ~ after beating Shadow Mario in the plaza first time
+
+He is heading
+for the
+square! Go
+get him!
+
++++FLUDD+++ Delfino Plaza ~ after Shadow Mario paints the Grand Pianta Statue
+
+He escaped
+into the
+graffiti!
+Mario! Try
+spraying it
+with water!
+
++++FLUDD+++ Bianco Hills ~ in front of the bridge, while it's out
+
+Danger! The
+bridge is out!
+Use my Hover
+Nozzle to
+cross large
+gaps!
+
++++FLUDD+++ Bianco Hills ~ base of the gaps in the Big Windmill
+
+Mario! Maybe
+you should
+try using the
+Hover Nozzle
+here!
+
++++FLUDD+++ Most levels ~ Go near a nozzle you haven't unlocked in that level
+
+This is one of
+my nozzles,
+the... Oh, you
+cannot use it
+yet. It is only
+a hologram.
+
++++FLUDD+++ Most levels ~  first time you go near a Hover Nozzle box in a level
+
+This is one of
+my nozzles,
+the Gadd
+Science, Inc.,
+Hover Nozzle!
+
++++FLUDD+++ Most levels ~ first time you get a Rocket Nozzle
+
+Press and
+hold R
+to build up
+power in the
+Rocket Nozzle
+and launch!
+
++++FLUDD+++ Most levels ~ first time you get a Turbo Nozzle
+
+Press and
+hold R to
+power up the
+Turbo Nozzle
+and do a
+super dash!
+
++++FLUDD+++ Bianco Hills ~ episode five, spray Petey while he's flying about
+
+The pump
+seems to
+have no
+effect while
+it is moving!
+
++++FLUDD+++ Ricco Harbor ~ while clinging to a gate
+
+Press B to
+flip this
+gate!
+
++++FLUDD+++ Ricco Harbor ~ while standing on a gate
+
+Use a ground
+pound to flip
+through this
+gate!
+
++++FLUDD+++ Ricco Harbor ~ while hanging from a gate
+
+When hanging,
+press A to
+flip gates!
+
++++FLUDD+++ Gooper Blooper ~ Gooper Blooper fight, hang out a while
+
+Why not try
+pulling on it
+by pressing
+B?
+
++++FLUDD+++ Gooper Blooper ~ pull on Gooper Blooper's pacifier while it's goopy
+
+Your hands
+are slipping
+on the inky
+goop!
+
++++FLUDD+++ Gooper Blooper ~ tug pacifier once cleaned, w/ tentacles
+
+You must
+find a way
+to fight it!
+
++++FLUDD+++ Gooper Blooper ~ get hit by Gooper Blooper's spin attack
+
+Jump to
+dodge those
+attacks! Just
+watch your
+timing...
+
++++FLUDD+++ Gelato Beach ~ episode 2, hang around on a mirror for a while
+
+No good!
+Spray it with
+water and try
+to upset the
+balance!
+
++++FLUDD+++ Gelato Beach ~ episode 2, get a Plungelo on one foot (at the edge)
+
+The balance
+has shifted!
+Now is
+your chance!
+
++++FLUDD+++ Gelato Beach ~ episode 2, ground pound in wrong areas on a mirror
+
+No good!
+Drive it to
+the edge then
+pound the
+opposite
+edge!
+
++++FLUDD+++ Gelato Beach ~ episode 2, get all Plungelos off a mirror
+
+Good job!
+Two areas
+left!
+
++++FLUDD+++ Gelato Beach ~ episode 2, get all Plungelos off two mirrors
+
+Excellent!
+Only one area
+now remains!
+
++++FLUDD+++ Gelato Beach ~ episode 3, hang out too long
+
+It seems you
+cannot turn
+it over just
+by squirting
+water!
+
++++FLUDD+++ Gelato Beach ~ episode 3, flip Wiggler over
+
+Now is your
+chance!
+Attack with
+a ground
+pound!
+
++++FLUDD+++ Gelato Beach ~ episode 4, as you get on the Sand Bird
+
+The legendary
+Sand Bird! It
+is climbing
+around the
+tower. Watch
+your feet!
+
++++FLUDD+++ Pinna Park ~ episode 1 battle, Bullet Bill coming in from behind
+
+A Bullet Bill
+approaches
+from behind!
+
++++FLUDD+++ Pinna Park ~ episode 1 battle, deal damage
+
+A direct hit!
+
++++FLUDD+++ Pinna Park ~ episode 1 battle, approaching flames
+
+Danger!
+Try to douse
+the flames
+with water!
+
++++FLUDD+++ Pinna Park ~ episode 8, get your first rocket
+
+You have
+obtained a
+water rocket!
+Use it to
+pop balloons!
+
++++FLUDD+++ Pinna Park ~ episode 8, finish a lap
+
+Only two
+more laps of
+the track to
+go! Do your
+best, Mario!
+
++++FLUDD+++ Pinna Park ~ episode 8, finish two laps
+
+Last time
+around! Only
+a few remain!
+Get them all!
+
++++FLUDD+++ Pinna Park ~ episode 8, pop all balloons
+
+You popped
+all of the
+balloons!
+Amazing!
+
++++FLUDD+++ Sirena Beach ~ episode 1, first time the boss splits
+
+Spraying it
+with water
+causes it
+to divide!
+
++++FLUDD+++ Sirena Beach ~ episode 1, as you're splitting them
+
+They are
+dividing into
+smaller units!
+
++++FLUDD+++ Sirena Beach ~ episode 1, get the boss down to only smallest rays
+
+Now they
+are all
+after you!
+Beware!
+
++++FLUDD+++ Sirena Beach ~ episode 5, throw the wrong fruit at King Boo
+
+Ineffective.
+It is just
+laughing
+at you...
+
++++FLUDD+++ Sirena Beach ~ episode 5, throw King Boo a red pepper
+
+He seems to
+dislike spicy
+things! Now
+is your
+chance!
+
++++FLUDD+++ Noki Bay ~ episode 4, under the waterfall, as you're descending
+
+My sensors
+show highly
+toxic
+materials
+approaching.
+
++++FLUDD+++ Noki Bay ~ episode 4, under the waterfall, when Eely-Mouth shows up
+
+It seems we
+are being
+attacked by
+plaque-
+forming
+bacteria...
+
++++FLUDD+++ Noki Bay ~ episode 4, when you 'beat' Eely-Mouth
+
+Remember to
+take proper
+care of
+your teeth!
+
++++FLUDD+++ Pianta Village ~ episode 1, approach a chomplet
+
+It seems that
+someone is
+lacking the
+proper
+training...
+
++++FLUDD+++ Pianta Village ~ episode 1, hang out too long
+
+Try cooling
+its head off!
+
++++FLUDD+++ Pianta Village ~ episode 1, hang out long after turning one black
+
+Why not try
+grabbing the
+tail and
+snapping it?
+
++++FLUDD+++ Pianta Village ~ episode 1, get all three chomplets in the lake
+
+Remember,
+always be
+kind to your
+pets...
+
++++FLUDD+++ Pianta Village ~ episode 4, after you pull the chomp
+
+Well, they
+do not seem
+to like
+bathing...
+
++++FLUDD+++ Pianta Village ~ episode 4, after a while
+
+They seem
+to be
+avoiding
+you, Mario!
+
++++FLUDD+++ Pianta Village ~ episode 4, when the chomp heats up
+
+They seem
+to go mad
+with rage
+when they
+overheat!
+
++++FLUDD+++ Pianta Village ~ episode 4, hang out longer
+
+Mario, have
+you tried
+using a
+water-filled
+barrel?
+
++++FLUDD+++ Corona Mountain ~ final boss, wander about for a while
+
+Maybe we
+should try
+to tilt the
+hot tub...
+
++++FLUDD+++ Corona Mountain ~ final boss, destroy one fifth of the hot tub
+
+That seems to
+be effective!
+Just do
+that four
+more times!
+
++++FLUDD+++ Corona Mountain ~ final boss, destroy two fifths of the hot tub
+
+Three more
+times!
+
++++FLUDD+++ Corona Mountain ~ final boss, destroy three fifths of the hot tub
+
+J-Just
+two m-more
+times, Mario!
+
++++FLUDD+++ Corona Mountain ~ final boss, destroy four fifths of the hot tub
+
+There...is...
+one...more...
+p...p...place.
+
++++FLUDD+++ Corona Mountain ~ final boss, destroy all five fifths of hot tub
+
+We...did...it...
+
+
+
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+16. Closing
+
+I found and typed all of the messages listed here so far, which is a little
+insane.   If you find any messages that have errors or just aren't there at all
+e-mail me at pichu.plusle.minun@gmail.com and I'll confirm your find with
+over-dedication, figure out how to update a FAQ and then make the change and
+credit you and all that stuff that's supposed to occur.
+
+Don't say you made this and it's all fine... but frankly, I didn't make most of
+this either, I just copied down stuff from a game with too much text.
+
+And in closing, fluffy puffy fluff.

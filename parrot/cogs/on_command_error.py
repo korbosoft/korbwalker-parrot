@@ -8,7 +8,7 @@ from discord.ext.commands.errors import (
 	CommandNotFound,
 )
 
-import parrot.assets
+from parrot.assets import failure_phrases
 from parrot.bot import Parrot
 from parrot.config import logger
 from parrot.utils import ParrotEmbed
@@ -49,7 +49,7 @@ class CommandErrorHandler(commands.Cog):
 
 		# Send the error message to the channel it came from
 		embed = ParrotEmbed(
-			title=random.choice(parrot.assets.failure_phrases),
+			title=random.choice(failure_phrases),
 			description=error_text,
 			color=ParrotEmbed.Color.RED,
 		)
