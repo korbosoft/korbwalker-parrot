@@ -302,7 +302,7 @@ class Text(commands.Cog):
 
 			embed = ParrotEmbed(
 				description=message,
-				color=0xFF00FF
+				color=0xFFFF00
 			).set_author(name=character, icon_url="attachment://noki.png").set_footer(text=f"{current_level} ({current_chapter})")
 			await ctx.send(file=discord.File(noki_png), embed=embed)
 			return
