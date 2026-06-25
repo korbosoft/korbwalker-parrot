@@ -2931,7 +2931,7 @@ He's got a ways to
 go, but practice
 makes perfect!
 
-+++Police Chief+++ Chuckster's platform
++++Captain+++ Chuckster's platform
 
 I heard that you can
 raise the sub by
@@ -3014,7 +3014,7 @@ riding on their backs?
 I tell you, some folks
 are just plain looney!
 
-+++Police Chief+++ Docks
++++Captain+++ Docks
 
 I heard that there's
 Blooper-surfing
@@ -3191,7 +3191,7 @@ Urrrgh... My throat
 hurts so bad. I don't
 feel like working.
 
-+++Police Chief+++ Green arrow platform
++++Captain+++ Green arrow platform
 
 You see the Shine
 Sprite up there?
@@ -3305,7 +3305,7 @@ Like, that wall over
 there? It's...umm,
 never mind.
 
-+++Police Chief+++ Base of Ricco Tower
++++Captain+++ Base of Ricco Tower
 
 This may be too hard
 for you to wrap your
@@ -3380,7 +3380,7 @@ off the other day.
 Please... No more...
 So... tired...
 
-+++Police Chief+++ Red/black ship, next to chimney (or smokestack, w/e)
++++Captain+++ Red/black ship, next to chimney (or smokestack, w/e)
 
 Seems that pesky
 Blooper is back!
@@ -3516,7 +3516,7 @@ But I do now!!
 Thanks for being such
 a stand-up guy!!
 
-+++Police Chief+++ Freight area, marketplace, talking to pale sailor
++++Captain+++ Freight area, marketplace, talking to pale sailor
 
 Well, that big Blooper
 was just a huge cream
@@ -3621,7 +3621,7 @@ I think this could be a
 bustling place one
 day, but not yet.
 
-+++Police Chief+++ Marketplace, rooftops
++++Captain+++ Marketplace, rooftops
 
 Weren't you just on
 top of that steel
@@ -3836,7 +3836,7 @@ I wonder if they
 sell it in smaller
 portions...
 
-+++Police Chief+++ Helipad, next to helicopter
++++Captain+++ Helipad, next to helicopter
 
 Leisure is a big part
 of life, my boy!
@@ -4206,7 +4206,7 @@ I wonder if the
 proprietress and her
 son are OK...
 
-+++Police Chief+++ Outside dining area of Surf Cabana
++++Captain+++ Outside dining area of Surf Cabana
 
 Haven't we met
 somewhere before?
@@ -4435,7 +4435,7 @@ Huh? You saying that
 any path's OK as long
 as you find the goal?
 
-+++Police Chief+++ Hill stadium
++++Captain+++ Hill stadium
 
 Being healthy is what
 matters most!
@@ -4798,7 +4798,7 @@ Mine was so much
 bigger than his!
 What a meanie!
 
-+++Police Chief+++ Next to middle watermelon
++++Captain+++ Next to middle watermelon
 
 So, how about it?
 Mine's the biggest,
@@ -9261,7 +9261,9 @@ red coin.
 ~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
 ~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
 
-14. Tourist Map
+14. Generic Messages
+
+----------Tourist Map----------
 
 +++Top Left Corner+++ Where do you think?
 
@@ -9420,13 +9422,7 @@ which open on the
 plaza, are forbidden
 for public safety.
 
-
-
-~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
-~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
-~~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
-
-15. Fludd Messages
+----------Fludd Messages----------
 
 +++FLUDD+++ Delfino Airstrip, game start ~ stand in front of an M
 
