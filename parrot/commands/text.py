@@ -269,19 +269,21 @@ class Text(commands.Cog):
 	@commands.command(brief="Wawa a sentence.", aliases=["stowaway"])
 	@commands.cooldown(2, 2, commands.BucketType.user)
 	async def wawa(self, ctx: commands.Context, *, text: str = "") -> None:
-		"""See what the Stowaway says
+		"""See what the Stowaway says.
 		https://corru.wiki/wiki/Stowaway"""
 		await Text._modify_text(ctx, input_text=text, modifier=weasel.wawa)
 
 	@commands.command(brief="Get a random line from Super Mario Sunshine.")
 	@commands.cooldown(2, 2, commands.BucketType.user)
-	async def sunshine(self, ctx: commands.Context) -> None:
-		"""Posts a random line from a Super Mario Sunshine script I got off GameFAQs"""
+	async def sunshine(self, ctx: commands.Context, index: int = None) -> None:
+		"""Posts a random dialog from a Super Mario Sunshine script I got off GameFAQs."""
 
 		if sunshine_script:
 			sunshine_dialog = list(finditer(r"\+{3}(.+?)\+{3} ?([^\n]*)\n([\s\S]+?)(?=\+{3}|~{2,}|-{10,}|$)", sunshine_script))
 
-			chosen_dialog = choice(sunshine_dialog)
+			if index is None:
+				index = choice(range(len(sunshine_dialog)))
+			chosen_dialog = sunshine_dialog[index]
 
 			character = chosen_dialog[1].strip()
 			# context = chosen_dialog[2].strip()
@@ -301,9 +303,10 @@ class Text(commands.Cog):
 				current_chapter = "General"
 
 			embed = ParrotEmbed(
+				title="Doot doot.",
 				description=message,
 				color=0xFFFF00
-			).set_author(name=character, icon_url="attachment://noki.png").set_footer(text=f"{current_level} ({current_chapter})")
+			).set_author(name=character, icon_url="attachment://noki.png").set_footer(text=f"{current_level} ({current_chapter}), Dialog #{index}")
 			await ctx.send(file=discord.File(noki_png), embed=embed)
 			return
 		else:
