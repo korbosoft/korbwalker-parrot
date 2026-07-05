@@ -86,7 +86,7 @@ class Text(commands.Cog):
 				if len(input_text) > 0:
 					break
 			else:  # input_text still empty
-				raise TextNotFound("😕 Couldn't find a gibberizeable message")
+				raise TextNotFound("😕 Couldn't find a usable message")
 
 		try:
 			async with asyncio.timeout(config.modify_text_timeout_seconds):
@@ -303,7 +303,7 @@ class Text(commands.Cog):
 				current_chapter = "General"
 
 			embed = ParrotEmbed(
-				title="Doot doot.",
+				title="Dootie doot, yeah!",
 				description=message,
 				color=0xFFFF00
 			).set_author(name=character, icon_url="attachment://noki.png").set_footer(text=f"{current_level} ({current_chapter}), Dialog #{index}")
