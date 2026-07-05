@@ -164,7 +164,7 @@ class _Memberlike(_Userlike):
 		)
 		if len(registered_member_ids_here) == 0:
 			raise UserNotFound(
-				"Nobody is registered with Parrot in this server."
+				"Nobody is registered with Korbwalker in this server."
 			)
 		member_id = random.choice(registered_member_ids_here)
 		return await ctx.guild.fetch_member(member_id)
