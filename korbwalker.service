@@ -1,0 +1,11 @@
+[Unit]
+Description=Korbwalker Discord Bot
+After=multi-user.target
+
+[Service]
+ExecStart=/home/coraline/.local/bin/uv run python -m parrot.main
+User=coraline
+WorkingDirectory=/home/coraline/parrot/
+
+[Install]
+WantedBy=multi-user.target

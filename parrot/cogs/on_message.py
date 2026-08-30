@@ -41,6 +41,11 @@ class MessageHandler(commands.Cog):
 		# I am a mature person making a competent Discord bot.
 		if message.content == "ayy" and config.ayy_lmao:
 			await message.channel.send("lmao")
+
+		# i too, am mature -- korbo
+		if "melon" in message.content.lower():
+			await message.reply(f"Okay,      {message.author.display_name}, I think this evening is over, you’ve got to leave.")
+
 		# Randomly decide to wawa a message.
 		if (
 			random.random() < config.random_wawa_chance
