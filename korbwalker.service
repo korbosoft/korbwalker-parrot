@@ -4,7 +4,7 @@ After=multi-user.target
 
 [Service]
 ExecStart=/home/xena/.local/bin/uv run python -m parrot.main
-User=coraline
+User=xena
 WorkingDirectory=/home/xena/korbwalker-parrot/
 
 [Install]
