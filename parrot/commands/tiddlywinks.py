@@ -28,6 +28,7 @@ class Tiddlywinks(commands.Cog):
 		self.bot = bot
 
 		@bot.command(brief="Record a C64 program.")
+		@commands.cooldown(2, 4, commands.BucketType.user)
 		async def c64(ctx, *, code: str = None, timeout: int = 10):
 			if timeout > 60:
 				timeout = 60
@@ -102,13 +103,13 @@ class Tiddlywinks(commands.Cog):
 			os.chmod(xdg_runtime, 0o700)
 
 			pa_process = await asyncio.create_subprocess_exec(
-				"pulseaudio", "--start",
+				"pipewire",
 				stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL
 			)
 			await asyncio.sleep(1)
 
 			xvfb_process = await asyncio.create_subprocess_exec(
-				"Xvfb", display_num, "-screen", "0", "640x480x24",
+				"Xvfb", display_num, "-screen", "0", "640x480x24", "-nocursor",
 				stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL
 			)
 			await asyncio.sleep(1)
