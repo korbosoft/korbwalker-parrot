@@ -139,8 +139,7 @@ class Quickstart(commands.Cog):
 				description=status_fmt.format(num_collected=0)
 			)
 			dm_embed.set_author(
-				name="Quickstart",
-				icon_url="https://i.gifer.com/ZZ5H.gif",  # Loading spinner
+				name="Quickstart"
 			)
 			dm_embed.set_footer(
 				text=f"Scanning for {member.mention}",
@@ -160,7 +159,7 @@ class Quickstart(commands.Cog):
 			chat_embed = ParrotEmbed(
 				title="Quickstart is scanning",
 				description=(
-					"Parrot is now scanning this server and learning from "
+					"Korbwalker is now scanning this server and learning from "
 					f"{whose} past messages.\nThis could take a few minutes."
 					"\nCheck your DMs to see its progress."
 				),
@@ -244,7 +243,7 @@ class Quickstart(commands.Cog):
 				)
 				if scan.cancel_reason == CancelReason.SYSTEM:
 					dm_embed.description += (
-						"\nCancelled by system: Parrot is restarting"
+						"\nCancelled by system: Korbwalker is restarting"
 					)
 				dm_embed.set_author(name="🛑 Quickstart")
 			else:

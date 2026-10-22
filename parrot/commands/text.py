@@ -153,7 +153,7 @@ class Text(commands.Cog):
 			):
 				exc.add_note(
 					"**Note:** if this is your first time doing |imitate since "
-					"Feb. 27, 2025, Parrot underwent changes that require all "
+					"Feb. 27, 2025, Korbwalker underwent changes that require all "
 					"users to re-register. You didn't do anything wrong :) "
 					"Just register again and you'll be back in business."
 				)
@@ -276,41 +276,62 @@ class Text(commands.Cog):
 	@commands.command(brief="Get a random line from Super Mario Sunshine.")
 	@commands.cooldown(2, 2, commands.BucketType.user)
 	async def sunshine(self, ctx: commands.Context, index: int = None) -> None:
-		"""Posts a random dialog from a Super Mario Sunshine script I got off GameFAQs."""
+		"""Posts or searches through a random dialog from a Super Mario Sunshine script I got off GameFAQs."""
 
-		if sunshine_script:
-			sunshine_dialog = list(finditer(r"\+{3}(.+?)\+{3} ?([^\n]*)\n([\s\S]+?)(?=\+{3}|~{2,}|-{10,}|$)", sunshine_script))
-
-			if index is None:
-				index = choice(range(len(sunshine_dialog)))
-			chosen_dialog = sunshine_dialog[index]
-
-			character = chosen_dialog[1].strip()
-			# context = chosen_dialog[2].strip()
-			message = chosen_dialog[3].strip()
-
-			text_before_match = sunshine_script[:chosen_dialog.start()]
-
-			level_match = findall(r"\d+\.\s+([^-\n~]+)", text_before_match)
-			current_level = level_match[-1].strip() if level_match else "Unknown"
-			if current_level == "FLUDD Messages": current_level = "Generic Messages"
-
-			episode_match = findall(r"-{4,}\s*(.*?)-{2,}", text_before_match)
-			if episode_match:
-				last_ep = "".join([ep for ep in episode_match[-1] if ep])
-				current_chapter = last_ep.strip()
-			else:
-				current_chapter = "General"
-
-			embed = ParrotEmbed(
-				title="Dootie doot, yeah!",
-				description=message,
-				color=0xFFFF00
-			).set_author(name=character, icon_url="attachment://noki.png").set_footer(text=f"{current_level} ({current_chapter}), Dialog #{index}")
-			await ctx.send(file=discord.File(noki_png), embed=embed)
-			return
-		else:
+		if not sunshine_script:
 			raise TextNotFound("No messages could be parsed from the file")
+
+		sunshine_dialog = list(finditer(r"\+{3}(.+?)\+{3} ?([^\n]*)\n([\s\S]+?)(?=\+{3}|~{2,}|-{10,}|$)", sunshine_script))
+
+		if not sunshine_dialog:
+			raise TextNotFound("No messages could be parsed from the file")
+
+		chosen_index = None
+
+		if index is None:
+			chosen_index = choice(range(len(sunshine_dialog)))
+		elif index.isdigit():
+			chosen_index = int(index)
+			if not (0 <= chosen_index < len(sunshine_dialog)):
+				raise IndexError(f"Index out of range. Please choose a number between 0 and {len(sunshine_dialog) - 1}.")
+		else:
+			query = index.lower()
+			for i, dialog in enumerate(sunshine_dialog):
+				character_name = dialog[1].lower()
+				message_text = dialog[3].lower()
+				if query in message_text or query in character_name:
+					chosen_index = i
+					break
+
+			if chosen_index is None:
+				raise TextNotFound(f"No dialog found matching search query: `{index}`")
+
+		chosen_dialog = sunshine_dialog[chosen_index]
+
+		character = chosen_dialog[1].strip()
+		message = chosen_dialog[3].strip()
+
+		text_before_match = sunshine_script[:chosen_dialog.start()]
+
+		level_match = findall(r"\d+\.\s+([^-\n~]+)", text_before_match)
+		current_level = level_match[-1].strip() if level_match else "Unknown"
+		if current_level == "FLUDD Messages":
+			current_level = "Generic Messages"
+
+		episode_match = findall(r"-{4,}\s*(.*?)-{2,}", text_before_match)
+		if episode_match:
+			last_ep = "".join([ep for ep in episode_match[-1] if ep])
+			current_chapter = last_ep.strip()
+		else:
+			current_chapter = "General"
+
+		embed = ParrotEmbed(
+			title="Dootie doot, yeah!",
+			description=message,
+			color=0xFFFF00
+		).set_author(name=character, icon_url="attachment://noki.png").set_footer(text=f"{current_level} ({current_chapter}), Dialog #{chosen_index}")
+
+		await ctx.send(file=discord.File(noki_png), embed=embed)
 
 async def setup(bot: Parrot) -> None:
 	await bot.add_cog(Text())

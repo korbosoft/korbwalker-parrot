@@ -28,7 +28,7 @@ class Admin(commands.Cog):
 	@channels_group.command(
 		name="add",
 		aliases=["enable"],
-		brief="Let Parrot learn in a new channel.",
+		brief="Let Korbwalker learn in a new channel.",
 	)
 	@commands.check(checks.is_admin)
 	async def channels_add(
@@ -50,7 +50,7 @@ class Admin(commands.Cog):
 	@channels_group.command(
 		name="remove",
 		aliases=["disable", "delete"],
-		brief="Remove Parrot's learning permission in a channel.",
+		brief="Remove Korbwalker's learning permission in a channel.",
 	)
 	@commands.check(checks.is_admin)
 	async def channels_remove(
@@ -79,7 +79,7 @@ class Admin(commands.Cog):
 			"reimplemented"
 		)
 		failure_message = (
-			"Parrot can't speak in DMs. Try passing in a guild ID."
+			"Korbwalker can't speak in DMs. Try passing in a guild ID."
 		)
 		if guild_id is None:
 			if ctx.guild is None:
@@ -94,7 +94,7 @@ class Admin(commands.Cog):
 		ids = self.bot.crud.guild.get_learning_channel_ids(guild)
 		channel_mentions = [c.mention for c in guild.channels if c.id in ids]
 
-		embed = ParrotEmbed(title="Parrot is learning from these channels:")
+		embed = ParrotEmbed(title="Korbwalker is learning from these channels:")
 		if len(channel_mentions) == 0:
 			embed.description = "None"
 			await ctx.reply(embed=embed)

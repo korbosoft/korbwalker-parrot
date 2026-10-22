@@ -1,1 +1,2 @@
-fludd dialogue shows a chapter
+"can you add a feature where we can search the script for words and it returns all indices where that word is found"
+commodore basic Integration, use petcat + vice + vxfb to record a >=2 minute video of it running basic code

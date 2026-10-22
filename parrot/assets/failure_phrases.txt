@@ -8,7 +8,6 @@ ERROR:
 You have erred.
 Imagine writing code that makes this error:
 what!
-Bad at computer!
 Bad at computer. Bad at computer!
 oh no
 no no no no no no

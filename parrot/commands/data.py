@@ -107,7 +107,7 @@ class Data(commands.Cog):
 
 		if who != ctx.author and not checks.is_admin(ctx) and not who.bot:
 			raise UserMissingPermissions(
-				"You are not allowed to make Parrot forget other users."
+				"You are not allowed to make Korbwalker forget other users."
 			)
 
 		if not self.bot.crud.user.exists(who):
@@ -169,7 +169,7 @@ class Data(commands.Cog):
 			del confirmation_store[confirm_code]
 
 			embed = ParrotEmbed(
-				title=f"Parrot has forgotten {tag(user)}.",
+				title=f"Korbwalker has forgotten {tag(user)}.",
 				color=ParrotEmbed.Color.GRAY,
 				description=done_message,
 			)
@@ -194,7 +194,7 @@ class Data(commands.Cog):
 	) -> None:
 		"""Delete ALL your data from Parrot."""
 		are_you_sure_message_fmt = (
-			"This will permanently delete the data of {who} from Parrot.\n"
+			"This will permanently delete the data of {who} from Korbwalker.\n"
 			f"`{self.bot.command_prefix}"
 			f"{self.forget_everywhere_confirm.qualified_name} {{confirm_code}}`"
 		)
@@ -213,7 +213,7 @@ class Data(commands.Cog):
 		confirm_code: int,
 	) -> None:
 		done_message = (
-			"All of the data that Parrot has collected from this "
+			"All of the data that Korbwalker has collected from this "
 			"user has been deleted."
 		)
 		await self._confirm_forget(
@@ -256,7 +256,7 @@ class Data(commands.Cog):
 		confirm_code: int | None = None,
 	) -> None:
 		done_message = (
-			"All of the messages that Parrot has collected from this "
+			"All of the messages that Korbwalker has collected from this "
 			"user in this server have been deleted."
 		)
 		# Will only ever receive Members because this command is guild-only.

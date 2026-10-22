@@ -22,7 +22,7 @@ class Registration(commands.Cog):
 
 	@commands.command(
 		aliases=["agree", "accept", "initiate", "initate"],
-		brief="Register with Parrot.",
+		brief="Register with Korbwalker.",
 	)
 	@commands.cooldown(2, 4, commands.BucketType.user)
 	@commands.guild_only()
@@ -44,7 +44,7 @@ class Registration(commands.Cog):
 			title="✅ Registered!",
 			color=ParrotEmbed.Color.GREEN,
 			description=(
-				"Now Parrot can start learning your speech patterns and "
+				"Now Korbwalker can start learning your speech patterns and "
 				"imitate you."
 			),
 		)
@@ -56,16 +56,16 @@ class Registration(commands.Cog):
 				name="Tip:",
 				value=(
 					f"Try the `{self.bot.command_prefix}quickstart` command to "
-					"immediately give Parrot a dataset to imitate you from! It "
+					"immediately give Korbwalker a dataset to imitate you from! It "
 					"will scan your past messages to create a model of how you "
-					"speak so you can start using Parrot right away."
+					"speak so you can start using Korbwalker right away."
 				),
 			)
 		await ctx.reply(embed=embed)
 
 	@commands.command(
 		aliases=["disagree", "unaccept", "uninitiate", "uninitate"],
-		brief="Unregister with Parrot.",
+		brief="Unregister with Korbwalker.",
 	)
 	@commands.cooldown(2, 4, commands.BucketType.user)
 	@commands.guild_only()
@@ -90,12 +90,12 @@ class Registration(commands.Cog):
 			title="Unregistered!",
 			color=ParrotEmbed.Color.GRAY,
 			description=(
-				"Parrot will no longer be able to imitate you and it "
+				"Korbwalker will no longer be able to imitate you and it "
 				"has stopped collecting your messages.\n\n_If you're done with "
-				"Parrot and don't want it to have your messages anymore, or if "
+				"Korbwalker and don't want it to have your messages anymore, or if "
 				"you just want a fresh start, you can do "
 				f"`{self.bot.command_prefix}forget me` and your existing data "
-				"will be permanently deleted from Parrot._"
+				"will be permanently deleted from Korbwalker._"
 			),
 		)
 		await ctx.reply(embed=embed)
@@ -109,7 +109,7 @@ class Registration(commands.Cog):
 			"registered",
 			"amiregistered",
 		],
-		brief="Check if you're registered with Parrot.",
+		brief="Check if you're registered with Korbwalker.",
 	)
 	@commands.cooldown(2, 4, commands.BucketType.user)
 	@commands.guild_only()
@@ -129,15 +129,15 @@ class Registration(commands.Cog):
 			await ctx.reply("✅ Bots do not need to be registered.")
 			return
 		if self.bot.crud.member.is_registered(who):
-			await ctx.reply(f"✅ {user_is} currently registered with Parrot.")
+			await ctx.reply(f"✅ {user_is} currently registered with Korbwalker.")
 		else:
 			await ctx.reply(
-				f"❌ {user_is} not currently registered with Parrot."
+				f"❌ {user_is} not currently registered with Korbwalker."
 			)
 
 	@commands.command(
 		name="togglerandomwawa",
-		brief="Un/block Parrot from randomly doing |wawa on you.",
+		brief="Un/block Korbwalker from randomly doing |wawa on you.",
 	)
 	@commands.cooldown(2, 4, commands.BucketType.user)
 	async def toggle_random_wawa(self, ctx: commands.Context) -> None:

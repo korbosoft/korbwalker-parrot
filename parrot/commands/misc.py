@@ -24,27 +24,27 @@ class Miscellaneous(commands.Cog):
 	@commands.cooldown(2, 4, commands.BucketType.user)
 	async def info(self, ctx: commands.Context) -> None:
 		"""Get info about Parrot."""
-		garlic_os = await self.bot.fetch_user(206235904644349953)
+		korbosoft = await self.bot.fetch_user(206235904644349953)
 
 		bio = (
-			f"Parrot can imitate everyone. "
+			f"Korbwalker can imitate everyone. "
 			f"Do `{self.bot.command_prefix}imitate me` to have Parrot imitate "
 			f"you, or do `{self.bot.command_prefix}help` to see what else "
 			"Parrot can do."
 		)
 
 		embed = ParrotEmbed(
-			title="🦜 Parrot",
+			title="Korbwalker",
 			description=bio,
 		)
 		embed.add_field(
 			name="GitHub",
-			value="https://github.com/garlic-os/parrot",
+			value="https://github.com/korbosoft/korbwalker-parrot",
 		)
 		embed.set_thumbnail(url=cast_not_none(self.bot.user).display_avatar.url)
 		embed.set_footer(
-			text=f"Parrot v4 • Made by {tag(garlic_os)}",
-			icon_url=garlic_os.display_avatar.url,
+			text=f"Korbwalker v4 • Made by {tag(korbosoft)}",
+			icon_url=korbosoft.display_avatar.url,
 		)
 
 		await ctx.reply(embed=embed)
