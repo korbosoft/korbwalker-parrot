@@ -48,6 +48,8 @@ class Tiddlywinks(commands.Cog):
 			weston_process = None
 			vice_process = None
 			ffmpeg_process = None
+			pipewire_process = None
+			pipewire_pulse_process = None
 			tasks = []
 
 			if ctx.message.attachments:
@@ -102,8 +104,14 @@ class Tiddlywinks(commands.Cog):
 			os.makedirs(xdg_runtime, exist_ok=True)
 			os.chmod(xdg_runtime, 0o700)
 
-			pa_process = await asyncio.create_subprocess_exec(
+			pipewire_process = await asyncio.create_subprocess_exec(
 				"pipewire",
+				stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL
+			)
+			await asyncio.sleep(1)
+
+			pipewire_pulse_process = await asyncio.create_subprocess_exec(
+				"pipewire-pulse",
 				stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL
 			)
 			await asyncio.sleep(1)
@@ -144,7 +152,7 @@ class Tiddlywinks(commands.Cog):
 			ffmpeg_cmd = [
 				"ffmpeg", "-y",
 				"-f", "x11grab",
-				"-video_size", "368x270",
+				"-video_size", "640x480",
 				"-framerate", "60",
 				"-i", display_num,
 				"-f", "pulse",
@@ -167,7 +175,7 @@ class Tiddlywinks(commands.Cog):
 			except asyncio.TimeoutError:
 				logger.warning("VICE process hit the timeout limit and was terminated.")
 			finally:
-				for p in [vice_process, ffmpeg_process, weston_process, xvfb_process]:
+				for p in [vice_process, ffmpeg_process, weston_process, xvfb_process, pipewire_pulse_process, pipewire_process]:
 					if p:
 						try:
 							p.terminate()
