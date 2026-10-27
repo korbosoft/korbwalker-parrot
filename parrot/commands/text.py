@@ -275,7 +275,7 @@ class Text(commands.Cog):
 
 	@commands.command(brief="Get a random line from Super Mario Sunshine.")
 	@commands.cooldown(2, 2, commands.BucketType.user)
-	async def sunshine(self, ctx: commands.Context, index = None) -> None:
+	async def sunshine(self, ctx: commands.Context, index: int = None) -> None:
 		"""Posts or searches through a random dialog from a Super Mario Sunshine script I got off GameFAQs."""
 
 		if not sunshine_script:
