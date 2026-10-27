@@ -222,7 +222,7 @@ class Tiddlywinks(commands.Cog):
                         color=ParrotEmbed.Color.ORANGE,
                         description=f"⚠️ Video recorded, but it's too large for Discord ({file_size_mb:.1f}MB > 20MB limit)."
                     )
-                    await ctx.send("~# yes i know there's a audio sync issue fuck off"embed=warning_embed)
+                    await ctx.send("~# yes i know there's a audio sync issue fuck off", embed=warning_embed)
                 else:
                     await ctx.send(file=discord.File(video_file))
                 await status_msg.delete()
