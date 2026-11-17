@@ -5,6 +5,7 @@ from enum import Enum, auto
 from typing import Any, cast
 from random import choice
 from re import finditer, findall
+from typing import Optional
 
 import discord
 from discord.ext import commands
@@ -275,7 +276,7 @@ class Text(commands.Cog):
 
 	@commands.command(brief="Get a random line from Super Mario Sunshine.")
 	@commands.cooldown(2, 2, commands.BucketType.user)
-	async def sunshine(self, ctx: commands.Context, index: int = None) -> None:
+	async def sunshine(self, ctx: commands.Context, *, index: Optional[str] = None) -> None:
 		"""Posts or searches through a random dialog from a Super Mario Sunshine script I got off GameFAQs."""
 
 		if not sunshine_script:
