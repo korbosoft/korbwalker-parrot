@@ -252,6 +252,13 @@ class Text(commands.Cog):
 			mode=Text.ImitateMode.IRRITATE,
 		)
 
+	@commands.command()
+	@commands.cooldown(2, 2, commands.BucketType.user)
+	@commands.check(checks.is_owner)
+	async def say(self, ctx: commands.Context, text: str) -> None:
+		"""Make the bot say something."""
+		await ctx.send(text, message=ctx.message.reference)
+
 	@commands.command(
 		aliases=["gibberize"],
 		brief="Gibberize a sentence.",
