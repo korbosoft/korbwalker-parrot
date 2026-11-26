@@ -21,6 +21,7 @@ from parrot.utils import (
 	is_speakable,
 	slow,
 	weasel,
+	checks,
 )
 from parrot.utils.converters import Memberlike
 from parrot.utils.exceptions import (
