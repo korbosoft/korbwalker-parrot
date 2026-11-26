@@ -258,10 +258,7 @@ class Text(commands.Cog):
 	@commands.check(checks.is_owner)
 	async def say(self, ctx: commands.Context, text: str) -> None:
 		"""Make the bot say something."""
-		if ctx.message.reference is None:
-			await ctx.send(text)
-		else:
-			await ctx.message.reference.reply(text)
+		await ctx.send(text, reference=ctx.message.reference)
 
 	@commands.command(
 		aliases=["gibberize"],
