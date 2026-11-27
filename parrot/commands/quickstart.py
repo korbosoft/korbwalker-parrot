@@ -1,18 +1,12 @@
-"""
-quickstart.py
-
-One of the most complex and stateful parts of Parrot.
-Here be dragons
-"""
-
 import asyncio
 from collections.abc import AsyncIterator
 from dataclasses import dataclass
 from enum import Enum, auto
-from typing import cast
+from typing import Optional, cast
 
 import asyncio_atexit
 import discord
+from discord import app_commands
 from discord.ext import commands
 
 from parrot.bot import Parrot
@@ -22,7 +16,6 @@ from parrot.utils import (
 	checks,
 	is_learnable,
 )
-from parrot.utils.converters import Userlike
 from parrot.utils.exceptions import (
 	AlreadyScanning,
 	UserMissingPermissions,
@@ -48,19 +41,18 @@ class Scan:
 	cancel_reason: CancelReason | None = None
 
 
-# Key is status message DM ID
 type OngoingScans = dict[Snowflake, Scan]
+
+
+def _check_admin(interaction: discord.Interaction) -> bool:
+	return checks.is_admin(interaction)
 
 
 @trace
 class Quickstart(commands.Cog):
-	def __init__(self, bot: Parrot):
+	def __init__(self, bot: Parrot) -> None:
 		self.bot = bot
-		# Keep track of Quickstart scans that are currently happening.
 		self.ongoing_scans: OngoingScans = {}
-		# Using asyncio_atexit even though this method isn't async, because
-		# status updates Parrot/Quickstart has to send out because of what it
-		# does _are_ async
 		asyncio_atexit.register(self._cancel_all, loop=self.bot.loop)
 
 	@commands.Cog.listener()
@@ -84,53 +76,63 @@ class Quickstart(commands.Cog):
 			await scan.status_message.edit(embed=scan.dm_embed)
 			await asyncio.sleep(2)
 
-	@commands.command()
-	@commands.cooldown(2, 4, commands.BucketType.user)
+	@app_commands.command(
+		name="quickstart",
+		description="Scrape your past messages in this server to get started using Parrot right away.",
+	)
+	@app_commands.guild_only()
+	@app_commands.checks.cooldown(2, 4, key=lambda i: (i.guild_id, i.user.id))
+	@app_commands.describe(user="Optional user to scan (admins only, for bots)")
 	async def quickstart(
 		self,
-		ctx: commands.Context,
-		user: Userlike | None = None,
+		interaction: discord.Interaction,
+		user: Optional[discord.User] = None,
 	) -> None:
-		"""
-		Scrape your past messages in this server to get started using Parrot
-		right away.
-		"""
-		# region Get member
-		if not is_learnable(ctx.channel) or ctx.guild is None:
+		guild = interaction.guild
+		if not is_learnable(interaction.channel) or guild is None:
 			raise WrongChannelType("Quickstart is only available in servers.")
-		member = cast(discord.Member | None, user)
-		if member is None or ctx.author == member:
-			member = cast(discord.Member, ctx.author)
+
+		target_user: discord.User | discord.Member = user or interaction.user
+		if isinstance(target_user, discord.User) and not isinstance(
+			target_user, discord.Member
+		):
+			fetched_member = guild.get_member(target_user.id)
+			if fetched_member is not None:
+				target_user = fetched_member
+
+		if target_user.id == interaction.user.id:
+			member = cast(discord.Member, interaction.user)
 		else:
-			if not checks.is_admin(ctx):
+			if not _check_admin(interaction):
 				raise UserMissingPermissions(
 					"You can only run Quickstart on yourself."
 				)
-			if not member.bot:
+			if not target_user.bot:
 				raise UserMissingPermissions(
 					"Quickstart can only be run on behalf of bots."
 				)
-		self.bot.crud.member.assert_registered(member)
-		# endregion
+			member = (
+				target_user
+				if isinstance(target_user, discord.Member)
+				else await guild.fetch_member(target_user.id)
+			)
 
-		# region Validate scan
-		# You can only run one Quickstart scan in a guild at a time.
+		self.bot.crud.member.assert_registered(member)
+
 		for scan in self.ongoing_scans.values():
 			if scan.member_id == member.id and scan.guild_id == member.guild.id:
-				name = "you" if ctx.author.id == member.id else member.mention
+				name = (
+					"you" if interaction.user.id == member.id else member.mention
+				)
 				raise AlreadyScanning(
 					f"❌ Quickstart is already running for {name} in this "
 					"server!"
 				)
-		# endregion
 
-		# try-except so we can clear this scan status in case anything
-		# goes wrong (and this cog has a long history of things going wrong)
+		await interaction.response.defer(ephemeral=True, thinking=True)
+
 		scan_id: Snowflake | None = None
 		try:
-			# region Init status DM
-			# Create an embed that will show the status of the Quickstart
-			# operation and DM it to the user who invoked the command.
 			status_fmt = (
 				f"**Scanning in _{member.guild.name}_...**\n"
 				"Collected {num_collected} new messages..."
@@ -138,23 +140,20 @@ class Quickstart(commands.Cog):
 			dm_embed = ParrotEmbed(
 				description=status_fmt.format(num_collected=0)
 			)
-			dm_embed.set_author(
-				name="Quickstart"
-			)
+			dm_embed.set_author(name="Quickstart")
 			dm_embed.set_footer(
 				text=f"Scanning for {member.mention}",
 				icon_url=member.display_avatar.url,
 			)
-			status_message = await ctx.author.send(embed=dm_embed)
+			status_message = await interaction.user.send(embed=dm_embed)
 			scan_id = status_message.id
 
-			# Add "cancel" emoji. Click event handled in this Cog's reaction
-			# event handler.
 			await status_message.add_reaction("❌")
 
-			# Send a confirmation in the chat that the scan has started.
 			whose = (
-				"your" if ctx.author.id == member.id else f"{member.mention}'s"
+				"your"
+				if interaction.user.id == member.id
+				else f"{member.mention}'s"
 			)
 			chat_embed = ParrotEmbed(
 				title="Quickstart is scanning",
@@ -164,28 +163,26 @@ class Quickstart(commands.Cog):
 					"\nCheck your DMs to see its progress."
 				),
 			)
-			await ctx.reply(embed=chat_embed)
-			# endregion
+			await interaction.followup.send(embed=chat_embed, ephemeral=True)
 
-			# region Init crawler
-			# Create an iterator representing up to 100,000 messages since the
-			# user joined the server.
 			histories: list[AsyncIterator[discord.Message]] = []
 			learning_channel_ids = self.bot.crud.guild.get_learning_channel_ids(
-				ctx.guild
+				guild
 			)
 			for channel_id in learning_channel_ids:
 				channel = await self.bot.fetch_channel(channel_id)
 				if not is_learnable(channel):
 					continue
 				try:
-					member = await channel.guild.fetch_member(member.id)
+					channel_member = await channel.guild.fetch_member(
+						member.id
+					)
 				except discord.errors.NotFound:
 					continue
 				histories.append(
 					channel.history(
 						limit=100_000,
-						after=member.joined_at,
+						after=channel_member.joined_at,
 					)
 				)
 
@@ -193,19 +190,13 @@ class Quickstart(commands.Cog):
 				result = self.bot.crud.message.record_or_update(message)
 				return result == self.bot.crud.message.CreateOrUpdate.CREATED
 
-			# Create an object that will scan through the server's message
-			# history and learn from the messages this user has posted.
 			crawler = HistoryCrawler(
 				histories=histories,
 				action=crawler_action,
 				filter=lambda message: message.author.id == member.id,
 				limit=100_000,
 			)
-			# endregion
 
-			# region Main
-			# In parallel, start the crawler and periodically update the
-			# status_message with its progress.
 			scan = Scan(
 				member_id=member.id,
 				guild_id=member.guild.id,
@@ -218,14 +209,9 @@ class Quickstart(commands.Cog):
 			async with asyncio.TaskGroup() as tg:
 				tg.create_task(Quickstart._live_update_status(scan))
 				tg.create_task(crawler.crawl())
-			# endregion
 
-			# region Finish
-			# Update the status embed one last time, but DELETE it this time and
-			# post a brand new one so that the user gets a new notification
-			# (and to remove the "cancel" emoji).
 			dm_embed = ParrotEmbed()
-			if ctx.author == member:
+			if interaction.user.id == member.id:
 				name = "you"
 			else:
 				name = f"{member.mention}"
@@ -254,7 +240,6 @@ class Quickstart(commands.Cog):
 				dm_embed.set_author(name="✅ Quickstart")
 			if crawler.num_collected == 0:
 				dm_embed.description += (
-					# type: ignore  -- embed.description is definitely not None
 					f"\n😕 Couldn't find any messages from {name}."
 				)
 				dm_embed.color = ParrotEmbed.Color.RED.value
@@ -263,10 +248,9 @@ class Quickstart(commands.Cog):
 
 			async with asyncio.TaskGroup() as tg:
 				tg.create_task(status_message.delete())
-				tg.create_task(ctx.author.send(embed=dm_embed))
+				tg.create_task(interaction.user.send(embed=dm_embed))
 			del self.ongoing_scans[status_message.id]
-			# endregion
-		except:  # noqa -- we really do want to catch ANY error
+		except Exception:
 			if scan_id is not None and scan_id in self.ongoing_scans:
 				del self.ongoing_scans[scan_id]
 			raise

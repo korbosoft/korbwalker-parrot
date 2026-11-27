@@ -24,15 +24,16 @@ class Parrot(commands.AutoShardedBot):
 		intents.members = True
 
 		super().__init__(
-			command_prefix=config.command_prefix,
+			command_prefix=commands.when_mentioned,
 			intents=intents,
 			owner_ids=config.admin_user_ids,
 			allowed_mentions=discord.AllowedMentions.none(),
 			activity=discord.Activity(
 				type=discord.ActivityType.listening,
-				name=f"everyone ({config.command_prefix}help)",
+				name=f"everyone (/help)",
 			),
 			case_insensitive=True,
+			help_command=None,
 		)
 		self._db_session = sm.Session(sm.create_engine(config.db_url))
 		self.crud = CRUD(self, self._db_session)
@@ -48,6 +49,11 @@ class Parrot(commands.AutoShardedBot):
 			tg.create_task(self.load_extension("jishaku"))
 			tg.create_task(self.load_extension_folder("commands"))
 			tg.create_task(self.load_extension_folder("cogs"))
+
+		test_guild = discord.Object(id=834760312623202324)
+		self.tree.copy_global_to(guild=test_guild)
+		await self.tree.sync(guild=test_guild)
+
 		self.antiavatars = await AntiavatarManager.new(self)
 
 	async def _async__del__(self) -> None:

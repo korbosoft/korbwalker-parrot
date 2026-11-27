@@ -1,9 +1,12 @@
 import asyncio
 from collections.abc import Callable, Coroutine
 from dataclasses import dataclass
-from typing import Any, cast
+from pathlib import Path
+from typing import Any, Optional, cast
 
 import discord
+import ujson
+from discord import app_commands
 from discord.ext import commands
 
 from parrot.bot import Parrot
@@ -14,7 +17,6 @@ from parrot.utils import (
 	slow,
 	tag,
 )
-from parrot.utils.converters import Memberlike, Userlike
 from parrot.utils.exceptions import (
 	NoData,
 	UserMissingPermissions,
@@ -25,278 +27,326 @@ from parrot.utils.types import Snowflake
 
 type UserOrMember = discord.User | discord.Member
 
-# Key: Message ID of a forget command
-type ConfirmationStore = dict[Snowflake, Data.Confirmation]
+type ConfirmationStore = dict[int, Data.Confirmation]
+
+
+class ForgetConfirmView(discord.ui.View):
+	def __init__(
+		self,
+		cog: "Data",
+		*,
+		confirmation_key: int,
+		confirmation_store: ConfirmationStore,
+		done_message: str,
+		action: Callable[[UserOrMember], Coroutine[Any, Any, Any]],
+		timeout: float = 60.0,
+	) -> None:
+		super().__init__(timeout=timeout)
+		self.cog = cog
+		self.confirmation_key = confirmation_key
+		self.confirmation_store = confirmation_store
+		self.done_message = done_message
+		self.action = action
+		self.message: discord.Message | None = None
+
+	@discord.ui.button(
+		label="Confirm Delete",
+		style=discord.ButtonStyle.danger,
+	)
+	async def confirm_button(
+		self,
+		interaction: discord.Interaction,
+		button: discord.ui.Button["ForgetConfirmView"],
+	) -> None:
+		confirmation = self.confirmation_store.get(self.confirmation_key)
+		if confirmation is None:
+			await interaction.response.send_message(
+				"This confirmation has expired.",
+				ephemeral=True,
+			)
+			return
+
+		if interaction.user.id != confirmation.requestor.id:
+			await interaction.response.send_message(
+				"Only the user who requested this action can confirm it.",
+				ephemeral=True,
+			)
+			return
+
+		del self.confirmation_store[self.confirmation_key]
+		for item in self.children:
+			if isinstance(item, discord.ui.Button):
+				item.disabled = True
+
+		await interaction.response.defer()
+		user = confirmation.subject_user
+		await self.action(user)
+
+		embed = ParrotEmbed(
+			title=f"Korbwalker has forgotten {tag(user)}.",
+			color=ParrotEmbed.Color.GRAY,
+			description=self.done_message,
+		)
+		if self.message is not None:
+			await self.message.edit(embed=embed, view=self)
+		await interaction.followup.send(embed=embed, ephemeral=True)
+		self.stop()
+
+	@discord.ui.button(
+		label="Cancel",
+		style=discord.ButtonStyle.secondary,
+	)
+	async def cancel_button(
+		self,
+		interaction: discord.Interaction,
+		button: discord.ui.Button["ForgetConfirmView"],
+	) -> None:
+		confirmation = self.confirmation_store.get(self.confirmation_key)
+		if confirmation is None:
+			await interaction.response.send_message(
+				"This confirmation has expired.",
+				ephemeral=True,
+			)
+			return
+
+		if interaction.user.id != confirmation.requestor.id:
+			await interaction.response.send_message(
+				"Only the user who requested this action can cancel it.",
+				ephemeral=True,
+			)
+			return
+
+		del self.confirmation_store[self.confirmation_key]
+		for item in self.children:
+			if isinstance(item, discord.ui.Button):
+				item.disabled = True
+
+		embed = ParrotEmbed(
+			title="Canceled",
+			color=ParrotEmbed.Color.GRAY,
+			description="Deletion request canceled.",
+		)
+		if self.message is not None:
+			await self.message.edit(embed=embed, view=self)
+		await interaction.response.send_message("Canceled.", ephemeral=True)
+		self.stop()
+
+	async def on_timeout(self) -> None:
+		self.confirmation_store.pop(self.confirmation_key, None)
+		for item in self.children:
+			if isinstance(item, discord.ui.Button):
+				item.disabled = True
+		if self.message is not None:
+			embed = ParrotEmbed(
+				title="Are you sure?",
+				color=ParrotEmbed.Color.ORANGE,
+				description="Request expired.",
+			)
+			try:
+				await self.message.edit(embed=embed, view=self)
+			except discord.HTTPException:
+				pass
 
 
 @trace
 class Data(commands.Cog):
-	"""Do things w/ ur data"""
-
 	@dataclass
 	class Confirmation:
-		requestor: UserOrMember  # The forget command message's author
-		subject_user: UserOrMember  # User for whose data to be forgotten
+		requestor: UserOrMember
+		subject_user: UserOrMember
 
-	def __init__(self, bot: Parrot):
+	def __init__(self, bot: Parrot) -> None:
 		self.bot = bot
 		self.pending_full_confirmations: ConfirmationStore = {}
 		self.pending_guild_confirmations: ConfirmationStore = {}
+		self._next_confirmation_id = 0
 
-	@commands.command(aliases=["checkout", "data"])
-	@commands.cooldown(2, 3600, commands.BucketType.user)
-	async def download(self, ctx: commands.Context) -> None:
-		with open("temp.json" "w+", encoding="utf-8") as f:
-			ujson.dump(self.bot.crud.user.get_raw(who), f)
+	def _allocate_confirmation_id(self) -> int:
+		self._next_confirmation_id += 1
+		return self._next_confirmation_id
 
-		await ctx.reply(
-			"I don't want to rely on a file hosting service so you'll have to ask me (@korbosoft) to send it over"
+	@app_commands.command(
+		name="download",
+		description="Request a copy of your data.",
+	)
+	@app_commands.checks.cooldown(1, 3600, key=lambda i: (i.guild_id, i.user.id))
+	async def download(self, interaction: discord.Interaction) -> None:
+		await interaction.response.defer(ephemeral=True, thinking=True)
+		temp_path = Path("temp.json")
+		with temp_path.open("w+", encoding="utf-8") as f:
+			ujson.dump(self.bot.crud.user.get_raw(interaction.user), f)
+
+		await interaction.followup.send(
+			"I don't want to rely on automatically using a file hosting service so you'll have to ask me (@korbosoft) to send it over",
+			ephemeral=True,
 		)
 
-	# @commands.command(aliases=["checkout", "data"])
-	# @commands.cooldown(2, 3600, commands.BucketType.user)
-	# async def download(self, ctx: commands.Context) -> None:
-	# 	"""Download a copy of your data."""
-	# 	who = ctx.author
-
-		# Upload to file.io, a free filesharing service where the file is
-		# deleted once it's downloaded.
-		# We can't trust that it will fit in a Discord message.
-		# TODO: Use a better service, like a self-hosted Pastebin.
-	# 	# DM the user their download link.
-	# 	embed_download_link = ParrotEmbed(
-	# 		title="Link to download your data",
-	# 		description=download_url,
-	# 	)
-	# 	embed_download_link.set_footer(text="Link expires in 6 hours.")
-	# 	# No need to wait
-	# 	asyncio.create_task(who.send(embed=embed_download_link))
-
-	# 	# Tell them to check their DMs.
-	# 	embed_download_ready = ParrotEmbed(
-	# 		title="Download ready",
-	# 		color=ParrotEmbed.Color.GREEN,
-	# 		description="A link to download your data has been DM'd to you.",
-	# 	)
-	# 	await ctx.reply(embed=embed_download_ready)
-
-	@commands.command(
-		aliases=["antiavatar", "pfp", "profilepic", "profilepicture"]
+	@app_commands.command(
+		name="avatar",
+		description="Show your antiavatar or another member's antiavatar.",
 	)
-	@commands.cooldown(2, 4, commands.BucketType.user)
+	@app_commands.checks.cooldown(2, 4, key=lambda i: (i.guild_id, i.user.id))
+	@app_commands.describe(who="Member whose antiavatar to show")
 	async def avatar(
 		self,
-		ctx: commands.Context,
-		who: Memberlike | None = None,
+		interaction: discord.Interaction,
+		who: Optional[discord.Member] = None,
 	) -> None:
-		"""Show your antiavatar."""
-		who = who or cast(discord.Member, ctx.author)
-		avatar_url = await self.bot.antiavatars.fetch(who)
-		await ctx.reply(avatar_url)
+		target = who or cast(discord.Member, interaction.user)
+		avatar_location = await self.bot.antiavatars.fetch(target)
+		if avatar_location.startswith(("http://", "https://")):
+			await interaction.response.send_message(avatar_location)
+		else:
+			path = Path(avatar_location)
+			await interaction.response.send_message(
+				file=discord.File(path, filename=path.name)
+			)
 
 	async def _start_forget(
 		self,
-		/,
-		ctx: commands.Context,
+		interaction: discord.Interaction,
 		*,
 		who: UserOrMember | None,
 		confirmation_store: ConfirmationStore,
 		are_you_sure_message_fmt: str,
+		done_message: str,
+		action: Callable[[UserOrMember], Coroutine[Any, Any, Any]],
 	) -> None:
-		who = who or ctx.author
+		target: UserOrMember = who or interaction.user
 
-		if who != ctx.author and not checks.is_admin(ctx) and not who.bot:
+		if (
+			target.id != interaction.user.id
+			and not checks.is_admin(interaction)
+			and not target.bot
+		):
 			raise UserMissingPermissions(
 				"You are not allowed to make Korbwalker forget other users."
 			)
 
-		if not self.bot.crud.user.exists(who):
-			raise NoData.User(who)
+		if not self.bot.crud.user.exists(target):
+			raise NoData.User(target)
 
-		confirm_code = ctx.message.id
-
-		# Keep track of this confirmation while it's still pending.
-		confirmation_store[confirm_code] = Data.Confirmation(
-			requestor=ctx.author,
-			subject_user=who,
+		confirm_id = self._allocate_confirmation_id()
+		confirmation_store[confirm_id] = Data.Confirmation(
+			requestor=interaction.user,
+			subject_user=target,
 		)
 
 		embed = ParrotEmbed(
 			title="Are you sure?",
 			color=ParrotEmbed.Color.ORANGE,
-			description=are_you_sure_message_fmt.format(
-				who=who.mention,
-				confirm_code=confirm_code,
-			),
+			description=are_you_sure_message_fmt.format(who=target.mention),
 		).set_footer(text="Action will be automatically canceled in 1 minute.")
-		sent_message = await ctx.reply(embed=embed)
 
-		# Delete the confirmation after 1 minute.
-		await asyncio.sleep(60)
-		try:
-			del confirmation_store[confirm_code]
-		except KeyError:
-			pass
-		embed.description = "Request expired."
-		await sent_message.edit(embed=embed)
+		view = ForgetConfirmView(
+			self,
+			confirmation_key=confirm_id,
+			confirmation_store=confirmation_store,
+			done_message=done_message,
+			action=action,
+			timeout=60.0,
+		)
 
-	async def _confirm_forget(
-		self,
-		/,
-		ctx: commands.Context,
-		*,
-		confirmation_store: ConfirmationStore,
-		done_message: str,
-		confirm_code: Snowflake | None,
-		action: Callable[[UserOrMember], Coroutine[Any, Any, Any]],
-	) -> None:
-		if confirm_code is None:
-			await ctx.reply("Error: confirmation code is missing.")
-			return
+		await interaction.response.send_message(embed=embed, view=view)
+		view.message = await interaction.original_response()
 
-		# You'd think that since this argument is typed as an int, it would come
-		# in as an int. But noooo, it comes in as a string
-		confirm_code = Snowflake(confirm_code)
-		confirmation = confirmation_store.get(confirm_code, None)
-
-		if confirmation is not None and confirmation.requestor == ctx.author:
-			user = confirmation.subject_user
-
-			# Perform the destructive action.
-			await action(user)
-
-			# Invalidate this confirmation code.
-			del confirmation_store[confirm_code]
-
-			embed = ParrotEmbed(
-				title=f"Korbwalker has forgotten {tag(user)}.",
-				color=ParrotEmbed.Color.GRAY,
-				description=done_message,
-			)
-			await ctx.reply(embed=embed)
-		else:
-			await ctx.reply(f"Confirmation code `{confirm_code}` is invalid.")
-
-	@commands.group(
+	forget_group = app_commands.Group(
 		name="forget",
-		aliases=["eliminate"],
-		invoke_without_command=True,
+		description="Delete data that Parrot has collected.",
 	)
-	async def forget_group(self, ctx: commands.Context) -> None:
-		await ctx.send_help(self.forget_group)
 
-	@forget_group.group(name="everywhere", invoke_without_command=True)
-	@commands.cooldown(2, 4, commands.BucketType.user)
+	@forget_group.command(
+		name="everywhere",
+		description="Delete ALL your data from Parrot.",
+	)
+	@app_commands.checks.cooldown(2, 4, key=lambda i: (i.guild_id, i.user.id))
+	@app_commands.describe(who="User whose data to delete (defaults to yourself)")
 	async def forget_everywhere(
 		self,
-		ctx: commands.Context,
-		who: Userlike | None = None,
+		interaction: discord.Interaction,
+		who: Optional[discord.User] = None,
 	) -> None:
-		"""Delete ALL your data from Parrot."""
 		are_you_sure_message_fmt = (
-			"This will permanently delete the data of {who} from Korbwalker.\n"
-			f"`{self.bot.command_prefix}"
-			f"{self.forget_everywhere_confirm.qualified_name} {{confirm_code}}`"
+			"This will permanently delete the data of {who} from Korbwalker."
 		)
-		await self._start_forget(
-			ctx,
-			who=who,
-			confirmation_store=self.pending_full_confirmations,
-			are_you_sure_message_fmt=are_you_sure_message_fmt,
-		)
-
-	@forget_everywhere.command(name="confirm", hidden=True)
-	@commands.cooldown(2, 4, commands.BucketType.user)
-	async def forget_everywhere_confirm(
-		self,
-		ctx: commands.Context,
-		confirm_code: int,
-	) -> None:
 		done_message = (
 			"All of the data that Korbwalker has collected from this "
 			"user has been deleted."
 		)
-		await self._confirm_forget(
-			ctx,
+		await self._start_forget(
+			interaction,
+			who=who,
 			confirmation_store=self.pending_full_confirmations,
-			confirm_code=confirm_code,
-			action=self.bot.crud.user.delete_all_data,
+			are_you_sure_message_fmt=are_you_sure_message_fmt,
 			done_message=done_message,
+			action=self.bot.crud.user.delete_all_data,
 		)
 
-	@forget_group.group(name="here", invoke_without_command=True)
-	@commands.cooldown(2, 4, commands.BucketType.user)
-	@commands.guild_only()
+	@forget_group.command(
+		name="here",
+		description="Delete your messages in this server.",
+	)
+	@app_commands.guild_only()
+	@app_commands.checks.cooldown(2, 4, key=lambda i: (i.guild_id, i.user.id))
+	@app_commands.describe(who="Member whose server data to delete")
 	async def forget_here(
 		self,
-		ctx: commands.Context,
-		who: Userlike | None = None,
+		interaction: discord.Interaction,
+		who: Optional[discord.Member] = None,
 	) -> None:
-		"""Delete your messages in this server."""
+		guild = cast_not_none(interaction.guild)
 		are_you_sure_message_fmt = (
 			"This will permanently delete the messages collected from {who} "
-			f"in server {cast_not_none(ctx.guild).name}.\n"
-			"To confirm, paste the following command:\n"
-			f"`{self.bot.command_prefix}"
-			f"{self.forget_here_confirm.qualified_name} {{confirm_code}}`"
+			f"in server {guild.name}."
 		)
-		await self._start_forget(
-			ctx,
-			who=who,
-			confirmation_store=self.pending_guild_confirmations,
-			are_you_sure_message_fmt=are_you_sure_message_fmt,
-		)
-
-	@forget_here.command(name="confirm", hidden=True)
-	@commands.cooldown(2, 4, commands.BucketType.user)
-	@commands.guild_only()
-	async def forget_here_confirm(
-		self,
-		ctx: commands.Context,
-		confirm_code: int | None = None,
-	) -> None:
 		done_message = (
 			"All of the messages that Korbwalker has collected from this "
 			"user in this server have been deleted."
 		)
-		# Will only ever receive Members because this command is guild-only.
-		# Casting just to satisfy, uh, my own API, that I made...
 		member_leave_guild = cast(
 			Callable[[UserOrMember], Coroutine[Any, Any, bool]],
 			self.bot.crud.member.leave_guild,
 		)
-		await self._confirm_forget(
-			ctx,
+		await self._start_forget(
+			interaction,
+			who=who,
 			confirmation_store=self.pending_guild_confirmations,
-			confirm_code=confirm_code,
-			action=member_leave_guild,
+			are_you_sure_message_fmt=are_you_sure_message_fmt,
 			done_message=done_message,
+			action=member_leave_guild,
 		)
 
-	@commands.command(aliases=["localsize", "sizehere"])
-	@commands.guild_only()
+	@app_commands.command(
+		name="size",
+		description="How many messages are in your corpus in this server?",
+	)
+	@app_commands.guild_only()
+	@app_commands.checks.cooldown(2, 4, key=lambda i: (i.guild_id, i.user.id))
+	@app_commands.describe(who="Member whose server corpus size to check")
 	@slow
 	async def size(
 		self,
-		ctx: commands.Context,
-		who: Memberlike | None = None,
+		interaction: discord.Interaction,
+		who: Optional[discord.Member] = None,
 	) -> None:
-		"""How many messages are in your corpus in this server?"""
-		who = who or cast(discord.Member, ctx.author)
-		corpus_size = await self.bot.crud.member.size(who)
-		whose = "your" if who.id == ctx.author.id else f"{who.mention}'s"
-		await ctx.reply(
+		target = who or cast(discord.Member, interaction.user)
+		corpus_size = await self.bot.crud.member.size(target)
+		whose = (
+			"your" if target.id == interaction.user.id else f"{target.mention}'s"
+		)
+		await interaction.response.send_message(
 			f"{corpus_size:,} messages in {whose} corpus on this server"
 		)
 
-	@commands.command(
-		aliases=["sizeglobal", "totalsize", "fullsize", "sizeeverywhere"]
+	@app_commands.command(
+		name="globalsize",
+		description="How many messages are in your corpus across Discord?",
 	)
+	@app_commands.checks.cooldown(2, 4, key=lambda i: (i.guild_id, i.user.id))
 	@slow
-	async def globalsize(self, ctx: commands.Context) -> None:
-		"""How many messages are in your corpus across Discord?"""
-		corpus_size = await self.bot.crud.user.size(ctx.author)
-		await ctx.reply(
+	async def globalsize(self, interaction: discord.Interaction) -> None:
+		corpus_size = await self.bot.crud.user.size(interaction.user)
+		await interaction.response.send_message(
 			f"{corpus_size:,} messages in your corpus across Discord"
 		)
 

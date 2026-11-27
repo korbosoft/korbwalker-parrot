@@ -221,3 +221,6 @@ def tag(user: AnyUser) -> str:
 	if user.discriminator != "0":
 		return f"@{user.name}#{user.discriminator}"
 	return f"@{user.name}"
+
+async def send_done(interaction: discord.Interaction, text: str = "Done."):
+    await interaction.response.send_message("Done.", ephemeral=True)

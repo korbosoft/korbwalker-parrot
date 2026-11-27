@@ -1,44 +1,37 @@
 import datetime as dt
-from typing import cast
+from typing import Optional, cast
 
 import discord
+from discord import app_commands
 from discord.ext import commands
 
 from parrot.bot import Parrot
 from parrot.utils import ParrotEmbed
-from parrot.utils.converters import Userlike
 from parrot.utils.exceptions import UserMissingPermissions
 from parrot.utils.trace import trace
 
-
-DAY_PARROT_UNREGISTERED_EVERYONE = dt.datetime(year=2025, month=2, day=27)
-CHANGE_EXPLANATION_PERIOD = dt.timedelta(days=30)
-
-
 @trace
 class Registration(commands.Cog):
-	def __init__(self, bot: Parrot):
+	def __init__(self, bot: Parrot) -> None:
 		self.bot = bot
 
-	@commands.command(
-		aliases=["agree", "accept", "initiate", "initate"],
-		brief="Register with Korbwalker.",
+	@app_commands.command(
+		name="register",
+		description="Register to let Parrot imitate you.",
 	)
-	@commands.cooldown(2, 4, commands.BucketType.user)
-	@commands.guild_only()
+	@app_commands.guild_only()
+	@app_commands.checks.cooldown(2, 4, key=lambda i: (i.guild_id, i.user.id))
+	@app_commands.describe(who="Member to register (must be yourself)")
 	async def register(
 		self,
-		ctx: commands.Context,
-		who: Userlike | None = None,
+		interaction: discord.Interaction,
+		who: Optional[discord.Member] = None,
 	) -> None:
-		"""Register to let Parrot imitate you."""
-		if who is None:
-			who = cast(discord.Member, ctx.author)
-		elif who.id != ctx.author.id:
+		target = who or cast(discord.Member, interaction.user)
+		if target.id != interaction.user.id:
 			raise UserMissingPermissions("You can only register yourself.")
 
-		# Update the "is_registered" field on this user in the database.
-		self.bot.crud.member.set_registered(who, True)
+		self.bot.crud.member.set_registered(target, True)
 
 		embed = ParrotEmbed(
 			title="✅ Registered!",
@@ -50,41 +43,34 @@ class Registration(commands.Cog):
 		)
 		now = dt.datetime.now()
 		if now - DAY_PARROT_UNREGISTERED_EVERYONE > CHANGE_EXPLANATION_PERIOD:
-			# Turn this off for a while because its confusing people who were
-			# already registered before the reset
 			embed.add_field(
 				name="Tip:",
 				value=(
-					f"Try the `{self.bot.command_prefix}quickstart` command to "
+					"Try the `/quickstart` command to "
 					"immediately give Korbwalker a dataset to imitate you from! It "
 					"will scan your past messages to create a model of how you "
 					"speak so you can start using Korbwalker right away."
 				),
 			)
-		await ctx.reply(embed=embed)
+		await interaction.response.send_message(embed=embed)
 
-	@commands.command(
-		aliases=["disagree", "unaccept", "uninitiate", "uninitate"],
-		brief="Unregister with Korbwalker.",
+	@app_commands.command(
+		name="unregister",
+		description="Remove your registration from Parrot.",
 	)
-	@commands.cooldown(2, 4, commands.BucketType.user)
-	@commands.guild_only()
+	@app_commands.guild_only()
+	@app_commands.checks.cooldown(2, 4, key=lambda i: (i.guild_id, i.user.id))
+	@app_commands.describe(who="Member to unregister (must be yourself)")
 	async def unregister(
 		self,
-		ctx: commands.Context,
-		who: Userlike | None = None,
+		interaction: discord.Interaction,
+		who: Optional[discord.Member] = None,
 	) -> None:
-		"""
-		Remove your registration from Parrot.
-		Parrot will stop collecting your messages and will not be able to
-		imitate you until you register again.
-		"""
-		if who is None:
-			who = cast(discord.Member, ctx.author)
-		elif who.id != ctx.author.id:
+		target = who or cast(discord.Member, interaction.user)
+		if target.id != interaction.user.id:
 			raise UserMissingPermissions("You can only unregister yourself.")
 
-		self.bot.crud.member.set_registered(who, False)
+		self.bot.crud.member.set_registered(target, False)
 
 		embed = ParrotEmbed(
 			title="Unregistered!",
@@ -94,55 +80,54 @@ class Registration(commands.Cog):
 				"has stopped collecting your messages.\n\n_If you're done with "
 				"Korbwalker and don't want it to have your messages anymore, or if "
 				"you just want a fresh start, you can do "
-				f"`{self.bot.command_prefix}forget me` and your existing data "
+				"`/forget here` or `/forget everywhere` and your existing data "
 				"will be permanently deleted from Korbwalker._"
 			),
 		)
-		await ctx.reply(embed=embed)
+		await interaction.response.send_message(embed=embed)
 
-	@commands.command(
-		aliases=[
-			"registrationstatus",
-			"registration",
-			"checkregistration",
-			"checkregistered",
-			"registered",
-			"amiregistered",
-		],
-		brief="Check if you're registered with Korbwalker.",
+	@app_commands.command(
+		name="status",
+		description="Check if you're registered with Parrot.",
 	)
-	@commands.cooldown(2, 4, commands.BucketType.user)
-	@commands.guild_only()
+	@app_commands.guild_only()
+	@app_commands.checks.cooldown(2, 4, key=lambda i: (i.guild_id, i.user.id))
+	@app_commands.describe(who="Member whose registration status to check")
 	async def status(
 		self,
-		ctx: commands.Context,
-		who: Userlike | None = None,
+		interaction: discord.Interaction,
+		who: Optional[discord.Member] = None,
 	) -> None:
-		"""
-		Check if you're registered with Parrot.
-		You need to be registered for Parrot to be able to analyze your messages
-		and imitate you.
-		"""
-		who = who or cast(discord.Member, ctx.author)
-		user_is = "You are" if who.id == ctx.author.id else f"{who.mention} is"
-		if who.bot:
-			await ctx.reply("✅ Bots do not need to be registered.")
+		target = who or cast(discord.Member, interaction.user)
+		user_is = (
+			"You are"
+			if target.id == interaction.user.id
+			else f"{target.mention} is"
+		)
+		if target.bot:
+			await interaction.response.send_message(
+				"✅ Bots do not need to be registered."
+			)
 			return
-		if self.bot.crud.member.is_registered(who):
-			await ctx.reply(f"✅ {user_is} currently registered with Korbwalker.")
+		if self.bot.crud.member.is_registered(target):
+			await interaction.response.send_message(
+				f"✅ {user_is} currently registered with Korbwalker."
+			)
 		else:
-			await ctx.reply(
+			await interaction.response.send_message(
 				f"❌ {user_is} not currently registered with Korbwalker."
 			)
 
-	@commands.command(
+	@app_commands.command(
 		name="togglerandomwawa",
-		brief="Un/block Korbwalker from randomly doing |wawa on you.",
+		description="Un/block Korbwalker from randomly doing wawa on you.",
 	)
-	@commands.cooldown(2, 4, commands.BucketType.user)
-	async def toggle_random_wawa(self, ctx: commands.Context) -> None:
-		wants = self.bot.crud.user.toggle_random_wawa(ctx.author)
-		await ctx.reply(f"✅ Random wawa {'en' if wants else 'dis'}abled")
+	@app_commands.checks.cooldown(2, 4, key=lambda i: (i.guild_id, i.user.id))
+	async def toggle_random_wawa(self, interaction: discord.Interaction) -> None:
+		wants = self.bot.crud.user.toggle_random_wawa(interaction.user)
+		await interaction.response.send_message(
+			f"✅ Random wawa {'en' if wants else 'dis'}abled"
+		)
 
 
 async def setup(bot: Parrot) -> None:
