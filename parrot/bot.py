@@ -50,10 +50,6 @@ class Parrot(commands.AutoShardedBot):
 			tg.create_task(self.load_extension_folder("commands"))
 			tg.create_task(self.load_extension_folder("cogs"))
 
-		test_guild = discord.Object(id=834760312623202324)
-		self.tree.copy_global_to(guild=test_guild)
-		await self.tree.sync(guild=test_guild)
-
 		self.antiavatars = await AntiavatarManager.new(self)
 
 	async def _async__del__(self) -> None:
