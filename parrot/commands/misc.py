@@ -13,15 +13,23 @@ from parrot.utils.trace import trace
 COMMANDS_PER_PAGE = 10
 
 
+import math
+from typing import Any
+
+import discord
+from discord import app_commands
+
+from parrot.utils import ParrotEmbed
+
+COMMANDS_PER_PAGE = 10
+
+type CommandEntry = tuple[
+	app_commands.AppCommand,
+	app_commands.Command[Any, ..., Any] | app_commands.Group | None,
+]
+
 def _build_help_embed(
-	visible_commands: list[
-		tuple[
-			app_commands.AppCommand,
-			app_commands.Command[discord.Any, ..., discord.Any]
-			| app_commands.Group
-			| None,
-		]
-	],
+	visible_commands: list[CommandEntry],
 	page: int,
 ) -> ParrotEmbed:
 	total_pages = max(1, math.ceil(len(visible_commands) / COMMANDS_PER_PAGE))
@@ -49,14 +57,7 @@ def _build_help_embed(
 class HelpPaginationView(discord.ui.View):
 	def __init__(
 		self,
-		visible_commands: list[
-			tuple[
-				app_commands.AppCommand,
-				app_commands.Command[discord.Any, ..., discord.Any]
-				| app_commands.Group
-				| None,
-			]
-		],
+		visible_commands: list[CommandEntry],
 		author_id: int,
 		*,
 		timeout: float = 120.0,
@@ -117,7 +118,6 @@ class HelpPaginationView(discord.ui.View):
 				await self.message.edit(view=self)
 			except discord.HTTPException:
 				pass
-
 
 @trace
 class Miscellaneous(commands.Cog):
